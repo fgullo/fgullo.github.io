@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Francesco Gullo"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Francesco Gullo"
 description              : &description "personal description"
 url                      : https://fgullo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -83,11 +83,11 @@ author:
   name             : "Francesco Gullo, PhD"
   avatar           : "fg.jpg"
   bio              : "Researcher at UniCredit, R&D Department"
-  location         : "Location"
+  location         : "Via Molfetta, 101 - 00171 Rome (Italy)"
   employer         :
   pubmed           : 
   googlescholar    : "http://scholar.google.it/citations?user=ueZsy3wAAAAJ&hl=en"
-  email            :
+  email            : "mailto:gullof@acm.org"
   researchgate     : "https://www.researchgate.net/profile/Francesco_Gullo3"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/francesco-gullo-2717a17"
+  linkedin         : "francesco-gullo-2717a17"
   orcid            : "http://orcid.org/0000-0002-7052-1114"
   pinterest        :
   soundcloud       :
