@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "http://scholar.google.it/citations?user=ueZsy3wAAAAJ&hl=en"
-  email            : "mailto:gullof@acm.org"
+  email            : "gullof@acm.org"
   researchgate     : "https://www.researchgate.net/profile/Francesco_Gullo3"
   uri              :
   bitbucket        :
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Rome # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
