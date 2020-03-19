@@ -83,8 +83,8 @@ author:
   name             : "Francesco Gullo, PhD"
   avatar           : "fg.jpg"
   bio              : "Researcher at UniCredit, R&D Department"
-  location         : "Via Molfetta, 101 - 00171 Rome (Italy)"
-  employer         : "UniCredit, R&D Dept."
+  location         : "Via Molfetta, 101"
+  employer         : "00171 Rome (Italy)"
   pubmed           : 
   googlescholar    : "http://scholar.google.it/citations?user=ueZsy3wAAAAJ&hl=en"
   email            : "gullof@acm.org"
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=22034355400"            
 
 
 # Reading Files
