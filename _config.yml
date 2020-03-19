@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Francesco Gullo"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
+  name             : "Francesco Gullo, PhD"
+  avatar           : "files/fg.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
