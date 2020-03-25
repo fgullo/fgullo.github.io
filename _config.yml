@@ -115,7 +115,8 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=22034355400"            
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=22034355400" 
+  microsoftacademic : "https://academic.microsoft.com/profile/77g4eg11-eg9i-4489-f014-7845835f274i/FrancescoGullo/publication/search?q=Francesco%20Gullo&qe=%2540%2540%2540USER.PUBLICATIONS%253D77c4ac11-ac9e-4489-b014-7845835b274e&f=&orderBy=0"            
 
 
 # Reading Files
