@@ -43,6 +43,9 @@
        {% if author.researchgate %}
         <li><a href="{{ author.researchgate }}"><i class="fab fa-fw fa-researchgate" aria-hidden="true"></i> ResearchGate</a></li>
       {% endif %}
+       {% if author.microsoftacademic %}
+        <li><a href="{{ author.microsoftacademic }}"><i class="fab fa-fw fa-microsoft" aria-hidden="true"></i> Microsoft Academic</a></li>
+      {% endif %}
       {% if author.orcid %}
         <li><a href="{{ author.orcid }}"><i class="ai ai-orcid-square ai-fw"></i> ORCID</a></li>
       {% endif %}
@@ -120,9 +123,6 @@
 {% endif %}
        {% if author.scopus %}
         <li><a href="{{ author.scopus }}"><i class="fab fa-fw fa-scopus" aria-hidden="true"></i> Scopus</a></li>
-      {% endif %}
-       {% if author.scopus %}
-        <li><a href="{{ author.microsoftacademic }}"><i class="fab fa-microsoft" aria-hidden="true"></i> Microsoft Academic</a></li>
       {% endif %}
     </ul>
   </div>
