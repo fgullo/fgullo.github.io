@@ -87,7 +87,8 @@ author:
   employer         : "00171 Rome (Italy)"
   pubmed           : 
   googlescholar    : "http://scholar.google.it/citations?user=ueZsy3wAAAAJ&hl=en"
-  email            : "gullof@acm.org"
+  email            : #"gullof@acm.org"
+  emailpicture     : "email_ACM.png" 
   researchgate     : "https://www.researchgate.net/profile/Francesco_Gullo3"
   uri              :
   bitbucket        :
