@@ -16,8 +16,3 @@ His research is focused on <i>algorithmic data science</i>, i.e., on formulating
 He has also been active in serving the data-science scientific community, by, e.g., being Workshop Chair of ICDM’16, organizing workshops/symposia (<a href="http://midas.portici.enea.it">MIDAS workshop</a> @ECML-PKDD['16-'19], MultiClust mini-symposium @SDM'14, MultiClust workshop @KDD'13, 3Clust workshop @PAKDD'12), or being part of the program committee of major conferences (KDD, WWW, IJCAI, ICDM, WSDM, ECML-PKDD, CIKM, SIGIR, ICWSM, SDM).
 
 Please see <a href="/files/CV_FrancescoGullo.pdf">here</a> (curriculum vitae) for more details.
-
-<br>
-<br>
-
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=100&t=tt&d=PtXidlAfV9tvILQJe5d0KL2XNq7HcVj69sYCp7Wp2AI&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
