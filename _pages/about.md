@@ -20,4 +20,4 @@ Please see <a href="/files/CV_FrancescoGullo.pdf">here</a> (curriculum vitae) fo
 <br>
 <br>
 
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=PtXidlAfV9tvILQJe5d0KL2XNq7HcVj69sYCp7Wp2AI&cl=ffffff&w=a"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=100&t=tt&d=PtXidlAfV9tvILQJe5d0KL2XNq7HcVj69sYCp7Wp2AI&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
