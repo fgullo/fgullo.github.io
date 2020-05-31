@@ -11,11 +11,10 @@ author_profile: true
 
 Look also at my [DBLP](http://www.informatik.uni-trier.de/~ley/pers/hc/g/Gullo:Francesco.html) page (thanks to Michael Lay)
 
-
 <br>
 
 
-    ## International journals
+## International journals
 
 
 1. I. Bordino, A. Ferretti, F. Gullo, S. Pascolutti<br>
