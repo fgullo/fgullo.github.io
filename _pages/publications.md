@@ -50,12 +50,13 @@ Data Mining and Knowledge Discovery (**DAMI**), 31(5):1506- 1543, 2017<br>
 6. F. Gullo, G. Ponti, A. Tagarelli, S. Greco<br> 
 [An Information-Theoretic Approach to Hierarchical Clustering of Uncertain Data](http://dx.doi.org/10.1016/j.ins.2017.03.030)<br> 
 Information Sciences (**INS**), 402:199-215, 2017<br>
-[[pdf](/files/papers/INS17.pdf)] [[code](https://github.com/fgullo/jcludata)]
+[[pdf](/files/papers/INS17_UAHC.pdf)] [[code](https://github.com/fgullo/jcludata)]
 
 
 7. X. Bai, B. Barla Cambazoglu, F. Gullo, A. Mantrach, F. Silvestri<br> 
 [Exploiting Search History of Users for News Personalization](http://dx.doi.org/10.1016/j.ins.2016.12.038)<br> 
-Information Sciences (**INS**), 385- 386:125-137, 2017
+Information Sciences (**INS**), 385- 386:125-137, 2017<br>
+[[pdf](/files/papers/INS17_SearchProfiles.pdf)]
 
 
 8. I. Assent, C. Domeniconi, F. Gullo, A. Tagarelli, A. Zimek<br> 
