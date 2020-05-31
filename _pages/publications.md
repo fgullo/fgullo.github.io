@@ -95,18 +95,20 @@ Machine Learning (**MACH**), 98(1-2):181-216, 2015<br>
 
 
 14. F. Gullo, G. Ponti, A. Tagarelli<br> 
-[Minimizing the Variance of Cluster Mixture Models for Clustering Uncertain Objects](http://dx.doi.org/10.1002/sam.11170)<br> 
+[Minimizing the Variance of Cluster Mixture Models for Clustering Uncertain Objects](http://dx.doi.org/10.1002/sam.11170)<br>
 Statistical Analysis and Data Mining (**SAM**), 6(2):116-135, 2013
 
 
 15. F. Gullo, C. Domeniconi, A. Tagarelli<br> 
 [Projective Clustering Ensembles](http://dx.doi.org/10.1007/s10618-012-0266-x)<br> 
-Data Mining and Knowledge Discovery (**DAMI**), 26(3):452-511, 2013
+Data Mining and Knowledge Discovery (**DAMI**), 26(3):452-511, 2013<br>
+[[pdf](/files/papers/SAM13.pdf)]
 
 
 16. F. Gullo, A. Tagarelli<br> 
-[Uncertain Centroid based Partitional Clustering of Uncertain Data](http://vldb.org/pvldb/vol5/p610_francescogullo_vldb2012.pdf)<br> 
-Proceedings of the VLDB Endowment (**PVLDB**), 5(7):610-621, 2012
+[Uncertain Centroid based Partitional Clustering of Uncertain Data](https://doi.org/10.14778/2180912.2180914)<br> 
+Proceedings of the VLDB Endowment (**PVLDB**), 5(7):610-621, 2012<br>
+[[pdf](http://vldb.org/pvldb/vol5/p610_francescogullo_vldb2012.pdf)] [[slides](/files/slides/PVLDB12.pdf)] [[code](https://github.com/fgullo/jcludata)]
 
 
 17. F. Gullo, G. Ponti, A. Tagarelli, G. Tradigo, P. Veltri<br> 
