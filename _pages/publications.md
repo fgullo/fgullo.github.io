@@ -108,7 +108,7 @@ Data Mining and Knowledge Discovery (**DAMI**), 26(3):452-511, 2013<br>
 16. F. Gullo, A. Tagarelli<br> 
 [Uncertain Centroid based Partitional Clustering of Uncertain Data](https://doi.org/10.14778/2180912.2180914)<br> 
 Proceedings of the VLDB Endowment (**PVLDB**), 5(7):610-621, 2012<br>
-[[pdf](http://vldb.org/pvldb/vol5/p610_francescogullo_vldb2012.pdf)] [[slides](/files/slides/PVLDB12.pdf)] [[code](https://github.com/fgullo/jcludata)]
+[[pdf](http://vldb.org/pvldb/vol5/p610_francescogullo_vldb2012.pdf)] [[slides](/files/slides/PVLDB12.pdf)] [[code](https://github.com/fgullo/jcludata)] [BC label](http://reproducibility.cs.arizona.edu/v2/)
 
 
 17. F. Gullo, G. Ponti, A. Tagarelli, G. Tradigo, P. Veltri<br> 
