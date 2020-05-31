@@ -118,10 +118,10 @@ Pattern Recognition (**PR**), 42(11):2998-3014, 2009
 Computer Methods and Programs in Biomedicine (**CMPB**), 95(2 suppl.):S12-S21, 2009
 
 
-<br>
+    <br>
 
 
-## International conferences (selected)
+    ## International conferences (selected)
 
 
 21. D. Mandaglio, F. Gullo, A. Tagarelli<br>
