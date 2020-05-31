@@ -42,7 +42,8 @@ IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 30(11):2078-2092
 
 5. A. Tagarelli, A. Amelio, F. Gullo<br>
 [Ensemble-based Community Detection in Multilayer Networks](http://dx.doi.org/10.1007/s10618-017-0528-8)<br> 
-Data Mining and Knowledge Discovery (**DAMI**), 31(5):1506- 1543, 2017
+Data Mining and Knowledge Discovery (**DAMI**), 31(5):1506- 1543, 2017<br>
+[[pdf](/files/papers/DAMI17.pdf)] [[slides](/files/slides/DAMI17.pdf)]
 
 
 6. F. Gullo, G. Ponti, A. Tagarelli, S. Greco<br> 
