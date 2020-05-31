@@ -134,7 +134,7 @@ In Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery
 In Proceedings of the ACM International Conference on Knowledge and Information Management (**CIKM '18**). pp. 107- 116. Turin, Italy, October 22-26, 2018
 
 
-23. F. Bonchi, F. Gullo, B. Mishra, D. Ramazzottiv
+23. F. Bonchi, F. Gullo, B. Mishra, D. Ramazzotti<br>
 [Probabilistic Causal Analysis of Social Influence]()<br>
 In Proceedings of the ACM International Conference on Knowledge and Information Management (**CIKM '18**), pp. 1003-1012. Turin, Italy, October 22-26, 2018
 
