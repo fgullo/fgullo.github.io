@@ -39,17 +39,17 @@ IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 30(11):2078-2092
 
 5. A. Tagarelli, A. Amelio, F. Gullo<br>
 [Ensemble-based Community Detection in Multilayer Networks](http://dx.doi.org/10.1007/s10618-017-0528-8)<br> 
-Data Mining and Knowledge Discovery (DAMI), 31(5):1506- 1543, 2017
+Data Mining and Knowledge Discovery (**DAMI**), 31(5):1506- 1543, 2017
 
 
 6. F. Gullo, G. Ponti, A. Tagarelli, S. Greco<br> 
 [An Information-Theoretic Approach to Hierarchical Clustering of Uncertain Data](http://dx.doi.org/10.1016/j.ins.2017.03.030)<br> 
-Information Sciences, 402:199-215, 2017
+Information Sciences (**INS**), 402:199-215, 2017
 
 
 7. X. Bai, B. Barla Cambazoglu, F. Gullo, A. Mantrach, F. Silvestri<br> 
 [Exploiting Search History of Users for News Personalization](http://dx.doi.org/10.1016/j.ins.2016.12.038)<br> 
-Information Sciences, 385- 386:125-137, 2017
+Information Sciences (**INS**), 385- 386:125-137, 2017
 
 
 8. I. Assent, C. Domeniconi, F. Gullo, A. Tagarelli, A. Zimek<br> 
@@ -59,17 +59,17 @@ SIGKDD Explorations, 18(1):35-38, 2016
 
 9. P. Parchas, F. Gullo, D. Papadias, F. Bonchi<br> 
 [Uncertain Graph Processing through Representative Instances](http://dx.doi.org/10.1145/2818182)<br> 
-ACM Transactions on Database Systems (TODS), 40(3):20:1-20:39, 2015
+ACM Transactions on Database Systems (**TODS**), 40(3):20:1-20:39, 2015
 
 
 10. N. Barbieri, F. Bonchi, E. Galimberti, F. Gullo<br> 
 [Efficient and Effective Community Search](http://dx.doi.org/10.1007/s10618-015-0422-1)<br> 
-Data Mining and Knowledge Discovery (DAMI), 29(5):1406-1433, 2015
+Data Mining and Knowledge Discovery (**DAMI**), 29(5):1406-1433, 2015
 
 
 11. F. Bonchi, A. Gionis, F. Gullo, C. Tsourakakis, A. Ukkonen<br> 
 [Chromatic Correlation Clustering](http://dx.doi.org/10.1145/2728170)<br> 
-Transactions on Knowledge Discovery from Data (TKDD), 9(4):34:1-34:24, 2015
+Transactions on Knowledge Discovery from Data (**TKDD**), 9(4):34:1-34:24, 2015
 
 
 12. F. Gullo<br> 
@@ -79,15 +79,42 @@ Physics Procedia, 62:18-22, 2015
 
 13. F. Gullo, C. Domeniconi, A. Tagarelli<br> 
 [Metacluster-based Projective Clustering Ensembles](http://dx.doi.org/10.1007/s10994-013-5395-y)<br> 
-Machine Learning, 98(1-2):181-216, 2015
+Machine Learning (**MACH**), 98(1-2):181-216, 2015
 
 
 14. F. Gullo, G. Ponti, A. Tagarelli<br> 
 [Minimizing the Variance of Cluster Mixture Models for Clustering Uncertain Objects](http://dx.doi.org/10.1002/sam.11170)<br> 
-Statistical Analysis and Data Mining (SAM), 6(2):116-135, 2013
+Statistical Analysis and Data Mining (**SAM**), 6(2):116-135, 2013
 
 
+15. F. Gullo, C. Domeniconi, A. Tagarelli<br> 
+[Projective Clustering Ensembles](http://dx.doi.org/10.1007/s10618-012-0266-x)<br> 
+Data Mining and Knowledge Discovery (**DAMI**), 26(3):452-511, 2013
 
+
+16. F. Gullo, A. Tagarelli<br> 
+[Uncertain Centroid based Partitional Clustering of Uncertain Data](http://vldb.org/pvldb/vol5/p610_francescogullo_vldb2012.pdf)<br> 
+Proceedings of the VLDB Endowment (**PVLDB**), 5(7):610-621, 2012
+
+
+17. F. Gullo, G. Ponti, A. Tagarelli, G. Tradigo, P. Veltri<br> 
+[A Time Series Approach for Clustering Mass Spectrometry Data](http://dx.doi.org/10.1016/j.jocs.2011.06.008)<br> 
+Journal of Computational Science (**JOCS**), 3(5):344-355, 2012
+
+
+18. S. Greco, F. Gullo, G. Ponti, A. Tagarelli<br> 
+[Collaborative Clustering of XML Documents](http://dx.doi.org/10.1016/j.jcss.2011.02.005)<br> 
+Journal of Computer and System Sciences (**JCSS**), 77(6):988-1008, 2011
+
+
+19. F. Gullo, G. Ponti, A. Tagarelli, S. Greco<br> 
+[A Time Series Representation Model for Accurate and Fast Similarity Detection](http://dx.doi.org/10.1016/j.patcog.2009.03.030)<br> 
+Pattern Recognition (**PR**), 42(11):2998-3014, 2009
+
+
+20. F. Gullo, G. Ponti, A. Tagarelli, G. Tradigo, P. Veltri<br> 
+[MaSDA: A System for Analyzing Mass Spectrometry Data](http://dx.doi.org/10.1016/j.cmpb.2009.02.011)<br> 
+Computer Methods and Programs in Biomedicine (**CMPB**), 95(2 suppl.):S12-S21, 2009
 
 
 
