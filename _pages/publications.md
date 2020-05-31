@@ -12,25 +12,19 @@ Look also at my [DBLP](http://www.informatik.uni-trier.de/~ley/pers/hc/g/Gullo:F
 
 
 
-###International journals
+### International journals
 
 
-###International conferences (selected)
+### International conferences (selected)
 
 
-###Edited volumes
+### Edited volumes
 
 
-###Book chapters (refereed)
+### Book chapters (refereed)
 
 
-###Other international conferences
+### Other international conferences
 
 
-###Workshops and national conferences
-
-
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+### Workshops and national conferences
