@@ -49,7 +49,8 @@ Data Mining and Knowledge Discovery (**DAMI**), 31(5):1506- 1543, 2017<br>
 
 6. F. Gullo, G. Ponti, A. Tagarelli, S. Greco<br> 
 [An Information-Theoretic Approach to Hierarchical Clustering of Uncertain Data](http://dx.doi.org/10.1016/j.ins.2017.03.030)<br> 
-Information Sciences (**INS**), 402:199-215, 2017
+Information Sciences (**INS**), 402:199-215, 2017<br>
+[[pdf](/files/papers/INS17.pdf)] [[code](https://github.com/fgullo/jcludata)]
 
 
 7. X. Bai, B. Barla Cambazoglu, F. Gullo, A. Mantrach, F. Silvestri<br> 
