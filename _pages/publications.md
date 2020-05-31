@@ -72,7 +72,8 @@ ACM Transactions on Database Systems (**TODS**), 40(3):20:1-20:39, 2015<br>
 
 10. N. Barbieri, F. Bonchi, E. Galimberti, F. Gullo<br> 
 [Efficient and Effective Community Search](http://dx.doi.org/10.1007/s10618-015-0422-1)<br> 
-Data Mining and Knowledge Discovery (**DAMI**), 29(5):1406-1433, 2015
+Data Mining and Knowledge Discovery (**DAMI**), 29(5):1406-1433, 2015<br>
+[[pdf](/files/papers/DAMI15.pdf)] [[slides](/files/slides/DAMI15.pdf)] [[code](https://www.dropbox.com/s/o16vf011wtm2in6/CommunitySearch.zip?dl=0)]
 
 
 11. F. Bonchi, A. Gionis, F. Gullo, C. Tsourakakis, A. Ukkonen<br> 
