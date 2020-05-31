@@ -15,11 +15,11 @@ Look also at my [DBLP](http://www.informatik.uni-trier.de/~ley/pers/hc/g/Gullo:F
 <br>
 
 
-## International journals
+    ## International journals
 
 
 1. I. Bordino, A. Ferretti, F. Gullo, S. Pascolutti<br>
-[GarNLP: A Natural Language Processing Pipeline for Garnishment Documents](http://dx.doi.org/10.1007/s10796-020-09997-0)<br>
+[GarNLP: A Natural Language Processing Pipeline for Garnishment Documents](/files/papers/ISFI20.pdf)<br>
 Information Systems Frontiers (**ISFI**), 2020, ONLINE
 
 
