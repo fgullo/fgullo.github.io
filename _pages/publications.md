@@ -15,7 +15,8 @@ Look also at my [DBLP](http://www.informatik.uni-trier.de/~ley/pers/hc/g/Gullo:F
 <br>
 
 
-### International journals
+## International journals
+
 
 1. I. Bordino, A. Ferretti, F. Gullo, S. Pascolutti<br>
 [GarNLP: A Natural Language Processing Pipeline for Garnishment Documents](http://dx.doi.org/10.1007/s10796-020-09997-0)<br>
@@ -117,6 +118,145 @@ Pattern Recognition (**PR**), 42(11):2998-3014, 2009
 Computer Methods and Programs in Biomedicine (**CMPB**), 95(2 suppl.):S12-S21, 2009
 
 
+<br>
+
+
+## International conferences (selected)
+
+
+21. D. Mandaglio, F. Gullo, A. Tagarelli<br>
+[In and Out: Optimizing Overall Interaction in Probabilistic Graphs under Clustering Constraints]()<br>
+In Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD '20**). San Diego, CA – USA, August 23-27, 2020 (TO APPEAR)
+
+
+22. E. Galimberti, A. Barrat, F. Bonchi, C. Cattuto, F. Gullo<br>
+[Mining (maximal) Span-cores from Temporal Networks]()<br>
+In Proceedings of the ACM International Conference on Knowledge and Information Management (**CIKM '18**). pp. 107- 116. Turin, Italy, October 22-26, 2018
+
+
+23. F. Bonchi, F. Gullo, B. Mishra, D. Ramazzottiv
+[Probabilistic Causal Analysis of Social Influence]()<br>
+In Proceedings of the ACM International Conference on Knowledge and Information Management (**CIKM '18**), pp. 1003-1012. Turin, Italy, October 22-26, 2018
+
+
+24. I. Bordino, F. Gullo<br>
+[Network-based Receivable Financing]()<br>
+In Proceedings of the ACM International Conference on Knowledge and Information Management (**CIKM '18**), pp. 2137-2145. Turin, Italy, October 22-26, 2018
+
+
+25. E. Galimberti, F. Bonchi, F. Gullo<br>
+[Core Decomposition and Densest Subgraph in Multilayer Networks]()<br>
+In Proceedings of the ACM International Conference on Knowledge and Information Management (**CIKM '17**), pp. 1807-1816. Singapore, November 6-10, 2017
+
+
+26. N. Ruchansky, F. Bonchi, D. Garcia Soriano, F. Gullo, N. Kourtellis<br>
+[To Be Connected, or Not to Be Connected: That is the Minimum Inefficiency Subgraph Problem]()<br>
+In Proceedings of the ACM International Conference on Knowledge and Information Management (**CIKM '17**), pp. 879-888. Singapore, November 6-10, 2017
+
+
+27. I. Bordino, A. Ferretti, M. Firrincieli, F. Gullo, M. Paris, S. Pascolutti, G. Sabena<br>
+[Advancing NLP via a distributed-messaging approach]()<br>
+In Proceedings of the 2016 IEEE International Conference on Big Data (**IEEE BigData '16**), pp. 1561-1568. Washington D.C., USA, December 5-8, 2016
+
+
+28. H. Vahabi, I. Koutsopoulos, F. Gullo, M. Halkidi<br>
+[DifRec: a Social-Diffusion-aware Recommender System]()<br>
+In Proceedings of the ACM International Conference on Knowledge and Information Management (**CIKM '15**), pp. 1481-1490. Melbourne, Australia, October 19-23, 2015
+
+
+29. A. Khan, F. Gullo, T. Wohler, F. Bonchi<br>
+[Top-k Reliable Edge Colors in Uncertain Graphs]()<br>
+In Proceedings of the ACM International Conference on Knowledge and Information Management (**CIKM '15**), pp. 1851-1854. Melbourne, Australia, October 19-23, 2015
+
+
+30. D. Mottin, F. Bonchi, F. Gullo<br>
+[Graph Query Reformulation with Diversity]()<br>
+In Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD '15**), pp. 825-834. Sydney, Australia, August 10-13, 2015
+
+
+31. N. Ruchansky, F. Bonchi, D. Garcia Soriano, F. Gullo, N. Kourtellis<br>
+[The Minimum Wiener Connector Problem]()<br>
+In Proceedings of the ACM SIGMOD International Conference on Management of Data (**SIGMOD '15**), pp. 1587-1602. Melbourne, Victoria, Australia, May 31-June 14, 2015
+
+
+32. O. Balalau, F. Bonchi, T-H. Hubert Chan, F. Gullo, M. Sozio<br>
+[Finding Sub- graphs with Maximum Total Density and Limited Overlap]()<br>
+In Proceedings of the International Conference on Web Search and Data Mining (**WSDM '15**), pp. 379- 388. Shanghai, China, February 2-6, 2015
+
+
+33. F. Gullo, G. Ponti, A. Tagarelli<br>
+[Be certain of how-to before mining uncertain data]()<br>
+In Proceedings of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (**ECML-PKDD '14**) (Nectar Track), pp. 489-493. Nancy, France, September 15-19, 2014
+
+
+34. F. Bonchi, F. Gullo, A. Kaltenbrunner, Y. Volkovich<br>
+[Core Decomposition of Uncertain Graphs]()<br>
+In Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD '14**), pp. 1316-1325. New York City, New York (USA), August 24-27, 2014
+
+
+35. P. Parchas, F. Gullo, D. Papadias, F. Bonchi<br>
+[The Pursuit of a Good Possible World: Extracting Representative Instances of Uncertain Graphs]()<br>
+In Proceedings of the ACM SIGMOD International Conference on Management of Data (**SIGMOD '14**), pp. 967-978. Snowbird, Utah (USA), June 22-27, 2014
+
+
+36. F. Bonchi, A. Gionis, F. Gullo, A. Ukkonen<br>
+[Distance oracles in edge-labeled graphs]()<br>
+In Proceedings of the International Conference on Extending Database Technology (**EDBT '14**), pp. 547-558. Athens, Greece, March 24-28, 2014
+
+
+37. A. Khan, F. Bonchi, A. Gionis, F. Gullo<br>
+[Fast Reliability Search in Uncertain Graphs]()<br>
+In Proceedings of the International Conference on Extending Database Technology (**EDBT '14**), pp. 535-546. Athens, Greece, March 24-28, 2014
+
+
+38. L. Macchia, F. Bonchi, F. Gullo, L. Chiarandini<br>
+[Mining Summaries of Propagations]()<br>
+In Proceedings of the IEEE International Conference on Data Mining (**ICDM '13**), pp. 498-507. Dallas, Texas (USA), December 7-10, 2013
+
+
+39. C. E. Tsourakakis, F. Bonchi, A. Gionis, F. Gullo, M. A. Tsiarli<br>
+[Denser than the densest subgraph: extracting optimal quasi-cliques with quality guarantees]()<br>
+In Proceedings of the ACM SIGKDD International Conference on Knowledge Discov- ery and Data Mining (**KDD '13**), pp. 104-112. Chicago, Illinois (USA), August 11-14, 2013
+
+
+40. F. Bonchi, A. Gionis, F. Gullo, A. Ukkonen<br>
+[Chromatic Correlation Clustering]()<br>
+In Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD '12**), pp. 1321-1329. Beijing, China, August 12-16, 2012
+
+
+41. F. Gullo, A. K. A. Talukder, S. Luke, C. Domeniconi, A. Tagarelli<br>
+[Multiobjective Optimization of Co-Clustering Ensembles]()<br>
+In Proceedings of the Genetic and Evolutionary Computation Conference (**GECCO '12**), pp. 1495-1496. Philadelphia, PA (USA), July 7-11, 2012
+
+
+42. F. Gullo, C. Domeniconi, A. Tagarelli<br>
+[Advancing Data Clustering via Projective Clustering Ensembles]()<br>
+In Proceedings of the 2011 ACM SIGMOD International Conference on Management of Data (**SIGMOD '11**), pp. 733-744. Athens, Greece, June 12-16, 2011
+
+
+43. F. Gullo, G. Ponti, A. Tagarelli<br>
+[Minimizing the Variance of Cluster Mixture Models for Clustering Uncertain Objects]()<br>
+In Proceedings of the 10th IEEE Interna- tional Conference on Data Mining (**ICDM '10**), pp. 839-844. Sydney, Australia, December 14-17, 2010
+
+
+44. F. Gullo, C. Domeniconi, A. Tagarelli<br>
+[Enhancing Single-Objective Projective Clustering Ensembles]()<br>
+In Proceedings of the 10th IEEE International Conference on Data Mining (**ICDM '10**), pp. 833-838. Sydney, Australia, December 14-17, 2010
+
+
+45. F. Gullo, C. Domeniconi, A. Tagarelli<br>
+[Projective Clustering Ensembles]()<br>
+In Proceedings of the 9th IEEE International Conference on Data Mining (**ICDM '09**), pp. 794-799. Miami, Florida (USA), December 6-9, 2009
+
+
+46. F. Gullo, A. Tagarelli, S. Greco<br>
+[Diversity-based Weighting Schemes for Clustering Ensembles]()<br>
+In Proceedings of the 9th SIAM International Conference on Data Mining (**SDM '09**), pp. 437-448. Sparks, Nevada (USA), April 30-May 2, 2009
+
+
+47. F. Gullo, G. Ponti, A. Tagarelli, S. Greco<br>
+[A Hierarchical Algorithm for Clustering Uncertain Data via an Information-Theoretic Approach]()<br>
+In Proceedings of the 8th IEEE International Conference on Data Mining (**ICDM '08**), pp. 821-826. Pisa, Italy, December 15-19, 2008
 
 
 
@@ -124,7 +264,6 @@ Computer Methods and Programs in Biomedicine (**CMPB**), 95(2 suppl.):S12-S21, 2
 
 
 
-### International conferences (selected)
 
 
 ### Edited volumes
