@@ -38,7 +38,7 @@ Web Intelligence (**WI**), 17(3):177-198, 2019<br>
 4. A. Khan, F. Bonchi, F. Gullo, A. Nufer<br> 
 [Conditional Reliability in Uncertain Graphs](http://dx.doi.org/10.1109/TKDE.2018.2816653)<br> 
 IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 30(11):2078-2092, 2018<br>
-[[pdf](/files/papers/TKDE18.pdf)] [[data](https://github.com/5555lan/DBLP-Dataset-Topic-aware)]
+[[pdf](https://arxiv.org/abs/1608.04474)] [[data](https://github.com/5555lan/DBLP-Dataset-Topic-aware)]
 
 
 5. A. Tagarelli, A. Amelio, F. Gullo<br>
