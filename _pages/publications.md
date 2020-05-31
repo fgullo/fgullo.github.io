@@ -78,17 +78,20 @@ Data Mining and Knowledge Discovery (**DAMI**), 29(5):1406-1433, 2015<br>
 
 11. F. Bonchi, A. Gionis, F. Gullo, C. Tsourakakis, A. Ukkonen<br> 
 [Chromatic Correlation Clustering](http://dx.doi.org/10.1145/2728170)<br> 
-Transactions on Knowledge Discovery from Data (**TKDD**), 9(4):34:1-34:24, 2015
+Transactions on Knowledge Discovery from Data (**TKDD**), 9(4):34:1-34:24, 2015<br>
+[[pdf](/files/papers/TKDD15.pdf)]
 
 
 12. F. Gullo<br> 
 [From Patterns in Data to Knowledge Discovery: What Data Mining Can Do](http://dx.doi.org/10.1016/j.phpro.2015.02.005)<br> 
-Physics Procedia, 62:18-22, 2015
+Physics Procedia, 62:18-22, 2015<br>
+[[pdf](/files/papers/PhysicsProcedia15.pdf)]
 
 
 13. F. Gullo, C. Domeniconi, A. Tagarelli<br> 
 [Metacluster-based Projective Clustering Ensembles](http://dx.doi.org/10.1007/s10994-013-5395-y)<br> 
-Machine Learning (**MACH**), 98(1-2):181-216, 2015
+Machine Learning (**MACH**), 98(1-2):181-216, 2015<br>
+[[pdf](/files/papers/MACH15.pdf)] [[code](https://github.com/fgullo/jpce)]
 
 
 14. F. Gullo, G. Ponti, A. Tagarelli<br> 
