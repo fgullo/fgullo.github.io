@@ -60,12 +60,14 @@ Information Sciences (**INS**), 385- 386:125-137, 2017<br>
 
 8. I. Assent, C. Domeniconi, F. Gullo, A. Tagarelli, A. Zimek<br> 
 [MultiClust 2013: Multiple Clusterings, Multi-view Data, and Multi-source Knowledge-driven Clustering](http://dx.doi.org/10.1145/2980765.2980769)<br> 
-SIGKDD Explorations, 18(1):35-38, 2016
+SIGKDD Explorations, 18(1):35-38, 2016<br>
+[[pdf](/files/papers/SIGKDDExp16.pdf)]
 
 
 9. P. Parchas, F. Gullo, D. Papadias, F. Bonchi<br> 
 [Uncertain Graph Processing through Representative Instances](http://dx.doi.org/10.1145/2818182)<br> 
-ACM Transactions on Database Systems (**TODS**), 40(3):20:1-20:39, 2015
+ACM Transactions on Database Systems (**TODS**), 40(3):20:1-20:39, 2015<br>
+[[pdf](/files/papers/TODS15.pdf)]
 
 
 10. N. Barbieri, F. Bonchi, E. Galimberti, F. Gullo<br> 
