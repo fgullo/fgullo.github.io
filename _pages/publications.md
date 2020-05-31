@@ -96,13 +96,14 @@ Machine Learning (**MACH**), 98(1-2):181-216, 2015<br>
 
 14. F. Gullo, G. Ponti, A. Tagarelli<br> 
 [Minimizing the Variance of Cluster Mixture Models for Clustering Uncertain Objects](http://dx.doi.org/10.1002/sam.11170)<br>
-Statistical Analysis and Data Mining (**SAM**), 6(2):116-135, 2013
+Statistical Analysis and Data Mining (**SAM**), 6(2):116-135, 2013<br>
+[[pdf](/files/papers/SAM13.pdf)]
 
 
 15. F. Gullo, C. Domeniconi, A. Tagarelli<br> 
 [Projective Clustering Ensembles](http://dx.doi.org/10.1007/s10618-012-0266-x)<br> 
 Data Mining and Knowledge Discovery (**DAMI**), 26(3):452-511, 2013<br>
-[[pdf](/files/papers/SAM13.pdf)]
+[[pdf](/files/papers/DAMI13.pdf)] [[code](https://github.com/fgullo/jpce)]
 
 
 16. F. Gullo, A. Tagarelli<br> 
