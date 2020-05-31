@@ -26,12 +26,13 @@ Information Systems Frontiers (**ISFI**), 2020, ONLINE<br>
 
 2. E. Galimberti, F. Bonchi, F. Gullo, T. Lanciano<br>
 [Core Decomposition in Multilayer Networks: Theory, Algorithms, and Applications](http://dx.doi.org/10.1145/3369872)<br>
-Transactions on Knowledge Discovery from Data (**TKDD**), 14(1):11:1-11:40, 2020
+Transactions on Knowledge Discovery from Data (**TKDD**), 14(1):11:1-11:40, 2020<br>
+[[pdf](https://arxiv.org/abs/1812.08712)] [[code&data](https://github.com/egalimberti/multilayer_core_decomposition)]
 
 
 3. F. Bonchi, I. Bordino, F. Gullo, G. Stilo<br>
-[The Importance of Unexpectedness: Discovering Buzzing Stories in Anomalous Temporal Graphs](http://dx.doi.org/10.3233/WEB-190412)<br><br>
-Web Intelligence (**WI**), 17(3):177-198, 2019
+[The Importance of Unexpectedness: Discovering Buzzing Stories in Anomalous Temporal Graphs](http://dx.doi.org/10.3233/WEB-190412)<br>
+Web Intelligence (**WI**), 17(3):177-198, 2019<br>
 [[pdf](/files/papers/WI19.pdf)]
 
 4. A. Khan, F. Bonchi, F. Gullo, A. Nufer<br> 
