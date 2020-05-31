@@ -91,7 +91,7 @@ Physics Procedia, 62:18-22, 2015<br>
 13. F. Gullo, C. Domeniconi, A. Tagarelli<br> 
 [Metacluster-based Projective Clustering Ensembles](http://dx.doi.org/10.1007/s10994-013-5395-y)<br> 
 Machine Learning (**MACH**), 98(1-2):181-216, 2015<br>
-[[pdf](/files/papers/MACH15.pdf)] [[code](https://github.com/fgullo/jpce)]
+[[pdf](/files/papers/MACH15.pdf)] [[code&data](https://github.com/fgullo/jpce)]
 
 
 14. F. Gullo, G. Ponti, A. Tagarelli<br> 
@@ -103,33 +103,37 @@ Statistical Analysis and Data Mining (**SAM**), 6(2):116-135, 2013<br>
 15. F. Gullo, C. Domeniconi, A. Tagarelli<br> 
 [Projective Clustering Ensembles](http://dx.doi.org/10.1007/s10618-012-0266-x)<br> 
 Data Mining and Knowledge Discovery (**DAMI**), 26(3):452-511, 2013<br>
-[[pdf](/files/papers/DAMI13.pdf)] [[code](https://github.com/fgullo/jpce)]
+[[pdf](/files/papers/DAMI13.pdf)] [[code&data](https://github.com/fgullo/jpce)]
 
 
 16. F. Gullo, A. Tagarelli<br> 
 [Uncertain Centroid based Partitional Clustering of Uncertain Data](https://doi.org/10.14778/2180912.2180914)<br> 
 Proceedings of the VLDB Endowment (**PVLDB**), 5(7):610-621, 2012<br>
-[[pdf](http://vldb.org/pvldb/vol5/p610_francescogullo_vldb2012.pdf)] [[slides](/files/slides/PVLDB12.pdf)] [[code](https://github.com/fgullo/jcludata)] [BC label](http://reproducibility.cs.arizona.edu/v2/)
+[[pdf](http://vldb.org/pvldb/vol5/p610_francescogullo_vldb2012.pdf)] [[slides](/files/slides/PVLDB12.pdf)] [[code](https://github.com/fgullo/jcludata)] [[BC label](http://reproducibility.cs.arizona.edu/v2/)]
 
 
 17. F. Gullo, G. Ponti, A. Tagarelli, G. Tradigo, P. Veltri<br> 
 [A Time Series Approach for Clustering Mass Spectrometry Data](http://dx.doi.org/10.1016/j.jocs.2011.06.008)<br> 
-Journal of Computational Science (**JOCS**), 3(5):344-355, 2012
+Journal of Computational Science (**JOCS**), 3(5):344-355, 2012<br>
+[[pdf](/files/papers/JOCS12.pdf)]
 
 
 18. S. Greco, F. Gullo, G. Ponti, A. Tagarelli<br> 
 [Collaborative Clustering of XML Documents](http://dx.doi.org/10.1016/j.jcss.2011.02.005)<br> 
-Journal of Computer and System Sciences (**JCSS**), 77(6):988-1008, 2011
+Journal of Computer and System Sciences (**JCSS**), 77(6):988-1008, 2011<br>
+[[pdf](/files/papers/JCSS11.pdf)]
 
 
 19. F. Gullo, G. Ponti, A. Tagarelli, S. Greco<br> 
 [A Time Series Representation Model for Accurate and Fast Similarity Detection](http://dx.doi.org/10.1016/j.patcog.2009.03.030)<br> 
-Pattern Recognition (**PR**), 42(11):2998-3014, 2009
+Pattern Recognition (**PR**), 42(11):2998-3014, 2009<br>
+[[pdf](/files/papers/PR09.pdf)]
 
 
 20. F. Gullo, G. Ponti, A. Tagarelli, G. Tradigo, P. Veltri<br> 
 [MaSDA: A System for Analyzing Mass Spectrometry Data](http://dx.doi.org/10.1016/j.cmpb.2009.02.011)<br> 
-Computer Methods and Programs in Biomedicine (**CMPB**), 95(2 suppl.):S12-S21, 2009
+Computer Methods and Programs in Biomedicine (**CMPB**), 95(2 suppl.):S12-S21, 2009<br>
+[[pdf](/files/papers/CMPB09.pdf)]
 
 
     <br>
