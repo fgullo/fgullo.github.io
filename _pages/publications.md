@@ -159,7 +159,7 @@ In Proceedings of the ACM International Conference on Knowledge and Information 
 23. F. Bonchi, F. Gullo, B. Mishra, D. Ramazzotti<br>
 [Probabilistic Causal Analysis of Social Influence](https://doi.org/10.1145/3269206.3271756)<br>
 In Proceedings of the ACM International Conference on Knowledge and Information Management (**CIKM '18**), pp. 1003-1012. Turin, Italy, October 22-26, 2018<br>
-[[pdf](http://arxiv.org/abs/1808.02129)] [[slides](/files/slides/CIKM18_ProbCausation.pdf)]
+[[pdf](http://arxiv.org/abs/1808.02129)] [[slides](/files/slides/CIKM18_ProbCausation.pdf)] [[code&data](https://www.dropbox.com/s/7cqq4ljybgdci7m/CIKM18--Probabilistic_Causal_Analysis_of_Social_Influence--Code%26Datasets.zip?dl=0)]
 
 
 24. I. Bordino, F. Gullo<br>
@@ -230,12 +230,14 @@ In Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery
 
 35. P. Parchas, F. Gullo, D. Papadias, F. Bonchi<br>
 [The Pursuit of a Good Possible World: Extracting Representative Instances of Uncertain Graphs](https://doi.org/10.1145/2588555.2593668)<br>
-In Proceedings of the ACM SIGMOD International Conference on Management of Data (**SIGMOD '14**), pp. 967-978. Snowbird, Utah (USA), June 22-27, 2014
+In Proceedings of the ACM SIGMOD International Conference on Management of Data (**SIGMOD '14**), pp. 967-978. Snowbird, Utah (USA), June 22-27, 2014<br>
+[[pdf](/files/papers/SIGMOD14.pdf)]
 
 
 36. F. Bonchi, A. Gionis, F. Gullo, A. Ukkonen<br>
 [Distance oracles in edge-labeled graphs](https://doi.org/10.5441/002/edbt.2014.49)<br>
-In Proceedings of the International Conference on Extending Database Technology (**EDBT '14**), pp. 547-558. Athens, Greece, March 24-28, 2014
+In Proceedings of the International Conference on Extending Database Technology (**EDBT '14**), pp. 547-558. Athens, Greece, March 24-28, 2014<br>
+[[pdf](https://openproceedings.org/EDBT/2014/paper_269.pdf)] [[slides](/files/slides/EDBT14_CSP.pdf)]
 
 
 37. A. Khan, F. Bonchi, A. Gionis, F. Gullo<br>
