@@ -261,7 +261,7 @@ In Proceedings of the ACM SIGKDD International Conference on Knowledge Discov- e
 40. F. Bonchi, A. Gionis, F. Gullo, A. Ukkonen<br>
 [Chromatic Correlation Clustering](https://doi.org/10.1145/2339530.2339735)<br>
 In Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD '12**), pp. 1321-1329. Beijing, China, August 12-16, 2012<br>
-[[pdf](/files/papers/KDD12.pdf)] [[poster](/files/posters/KDD12.pdf)] [[video](/files/videos/KDD12.pdf)] 
+[[pdf](/files/papers/KDD12.pdf)] [[poster](/files/posters/KDD12.pdf)] [[video](/files/videos/KDD12.mov)] 
 
 
 41. F. Gullo, A. K. A. Talukder, S. Luke, C. Domeniconi, A. Tagarelli<br>
