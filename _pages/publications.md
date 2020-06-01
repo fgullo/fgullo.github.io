@@ -150,54 +150,61 @@ In Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery
 22. E. Galimberti, A. Barrat, F. Bonchi, C. Cattuto, F. Gullo<br>
 [Mining (maximal) Span-cores from Temporal Networks](https://doi.org/10.1145/3269206.3271767)<br>
 In Proceedings of the ACM International Conference on Knowledge and Information Management (**CIKM '18**). pp. 107- 116. Turin, Italy, October 22-26, 2018<br>
-[[pdf](http://arxiv.org/abs/1808.09376)]
+[[pdf](http://arxiv.org/abs/1808.09376)] [[slides](/files/slides/CIKM18_SpanCores.pdf)] [[code&data](https://github.com/egalimberti/span_cores)]
 
 
 23. F. Bonchi, F. Gullo, B. Mishra, D. Ramazzotti<br>
 [Probabilistic Causal Analysis of Social Influence](https://doi.org/10.1145/3269206.3271756)<br>
 In Proceedings of the ACM International Conference on Knowledge and Information Management (**CIKM '18**), pp. 1003-1012. Turin, Italy, October 22-26, 2018<br>
-[[pdf](http://arxiv.org/abs/1808.02129)]
+[[pdf](http://arxiv.org/abs/1808.02129)] [[slides](/files/slides/CIKM18_ProbCausation.pdf)]
 
 
 24. I. Bordino, F. Gullo<br>
 [Network-based Receivable Financing](https://doi.org/10.1145/3269206.3272017)<br>
-In Proceedings of the ACM International Conference on Knowledge and Information Management (**CIKM '18**), pp. 2137-2145. Turin, Italy, October 22-26, 2018
+In Proceedings of the ACM International Conference on Knowledge and Information Management (**CIKM '18**), pp. 2137-2145. Turin, Italy, October 22-26, 2018<br>
+[[pdf](/files/papers/CIKM18_RecFin.pdf)] [[slides](/files/slides/CIKM18_RecFin.pdf)]
 
 
 25. E. Galimberti, F. Bonchi, F. Gullo<br>
 [Core Decomposition and Densest Subgraph in Multilayer Networks](https://doi.org/10.1145/3132847.3132993)<br>
-In Proceedings of the ACM International Conference on Knowledge and Information Management (**CIKM '17**), pp. 1807-1816. Singapore, November 6-10, 2017
+In Proceedings of the ACM International Conference on Knowledge and Information Management (**CIKM '17**), pp. 1807-1816. Singapore, November 6-10, 2017<br>
+[[pdf](/files/papers/CIKM17_MLCores.pdf)] [[slides](/files/slides/CIKM17_MLCores.pdf)] [[code&data](https://github.com/egalimberti/multilayer_core_decomposition)]
 
 
 26. N. Ruchansky, F. Bonchi, D. Garcia Soriano, F. Gullo, N. Kourtellis<br>
 [To Be Connected, or Not to Be Connected: That is the Minimum Inefficiency Subgraph Problem](https://doi.org/10.1145/3132847.3132991)<br>
 In Proceedings of the ACM International Conference on Knowledge and Information Management (**CIKM '17**), pp. 879-888. Singapore, November 6-10, 2017<br>
-[[pdf](http://arxiv.org/abs/1709.01123)]
+[[pdf](http://arxiv.org/abs/1709.01123)] [[slides](/files/slides/CIKM17_SelConn.pdf)] 
+
 
 27. I. Bordino, A. Ferretti, M. Firrincieli, F. Gullo, M. Paris, S. Pascolutti, G. Sabena<br>
 [Advancing NLP via a distributed-messaging approach](https://doi.org/10.1109/BigData.2016.7840764)<br>
-In Proceedings of the 2016 IEEE International Conference on Big Data (**IEEE BigData '16**), pp. 1561-1568. Washington D.C., USA, December 5-8, 2016
+In Proceedings of the 2016 IEEE International Conference on Big Data (**IEEE BigData '16**), pp. 1561-1568. Washington D.C., USA, December 5-8, 2016<br>
+[[pdf](/files/papers/BigData16.pdf)] [[slides](/files/slides/BigData16.pdf)] 
 
 
 28. H. Vahabi, I. Koutsopoulos, F. Gullo, M. Halkidi<br>
 [DifRec: a Social-Diffusion-aware Recommender System](https://doi.org/10.1145/2806416.2806559)<br>
-In Proceedings of the ACM International Conference on Knowledge and Information Management (**CIKM '15**), pp. 1481-1490. Melbourne, Australia, October 19-23, 2015
+In Proceedings of the ACM International Conference on Knowledge and Information Management (**CIKM '15**), pp. 1481-1490. Melbourne, Australia, October 19-23, 2015<br>
+[[pdf](/files/papers/CIKM15_DifRec.pdf)]
 
 
 29. A. Khan, F. Gullo, T. Wohler, F. Bonchi<br>
 [Top-k Reliable Edge Colors in Uncertain Graphs](https://doi.org/10.1145/2806416.2806619)<br>
-In Proceedings of the ACM International Conference on Knowledge and Information Management (**CIKM '15**), pp. 1851-1854. Melbourne, Australia, October 19-23, 2015
+In Proceedings of the ACM International Conference on Knowledge and Information Management (**CIKM '15**), pp. 1851-1854. Melbourne, Australia, October 19-23, 2015<br>
+[[pdf](/files/papers/ColorRel.pdf)]
 
 
 30. D. Mottin, F. Bonchi, F. Gullo<br>
 [Graph Query Reformulation with Diversity](https://doi.org/10.1145/2783258.2783343)<br>
-In Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD '15**), pp. 825-834. Sydney, Australia, August 10-13, 2015
+In Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD '15**), pp. 825-834. Sydney, Australia, August 10-13, 2015<br>
+[[pdf](/files/papers/KDD15.pdf)] [[slides](/files/slides/KDD15.pdf)] [[poster](/files/posters/KDD15.pdf)] [[code&data](https://github.com/mutandon/GQRef)]
 
 
 31. N. Ruchansky, F. Bonchi, D. Garcia Soriano, F. Gullo, N. Kourtellis<br>
 [The Minimum Wiener Connector Problem](https://doi.org/10.1145/2723372.2749449)<br>
 In Proceedings of the ACM SIGMOD International Conference on Management of Data (**SIGMOD '15**), pp. 1587-1602. Melbourne, Victoria, Australia, May 31-June 14, 2015<br>
-[[pdf](http://arxiv.org/abs/1504.00513)]
+[[pdf](http://arxiv.org/abs/1504.00513)] [[slides](/files/slides/SIGMOD15.pdf)] [[Wikipedia](https://en.wikipedia.org/wiki/Wiener_Connector)]
 
 
 32. O. Balalau, F. Bonchi, T-H. Hubert Chan, F. Gullo, M. Sozio<br>
@@ -228,7 +235,8 @@ In Proceedings of the International Conference on Extending Database Technology 
 
 37. A. Khan, F. Bonchi, A. Gionis, F. Gullo<br>
 [Fast Reliability Search in Uncertain Graphs](https://doi.org/10.5441/002/edbt.2014.48)<br>
-In Proceedings of the International Conference on Extending Database Technology (**EDBT '14**), pp. 535-546. Athens, Greece, March 24-28, 2014
+In Proceedings of the International Conference on Extending Database Technology (**EDBT '14**), pp. 535-546. Athens, Greece, March 24-28, 2014<br>
+[[pdf](https://openproceedings.org/EDBT/2014/paper_404.pdf)] [[slides](/files/slides/EDBT14_RQTree.pdf)] [[code&data](http://graphlive.scse.ntu.edu.sg/RQ_Tree.tar.gz)]
 
 
 38. L. Macchia, F. Bonchi, F. Gullo, L. Chiarandini<br>
