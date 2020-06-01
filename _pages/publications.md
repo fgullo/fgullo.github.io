@@ -254,7 +254,7 @@ In Proceedings of the IEEE International Conference on Data Mining (**ICDM '13**
 
 39. C. E. Tsourakakis, F. Bonchi, A. Gionis, F. Gullo, M. A. Tsiarli<br>
 [Denser than the densest subgraph: extracting optimal quasi-cliques with quality guarantees](https://doi.org/10.1145/2487575.2487645)<br>
-In Proceedings of the ACM SIGKDD International Conference on Knowledge Discov- ery and Data Mining (**KDD '13**), pp. 104-112. Chicago, Illinois (USA), August 11-14, 2013br>
+In Proceedings of the ACM SIGKDD International Conference on Knowledge Discov- ery and Data Mining (**KDD '13**), pp. 104-112. Chicago, Illinois (USA), August 11-14, 2013<br>
 [[pdf](/files/papers/KDD13.pdf)] [[slides](/files/slides/KDD13.pdf)] [[code](https://github.com/tsourolampis/Optimal-Quasicliques)]
 
 
