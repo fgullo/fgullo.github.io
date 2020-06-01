@@ -267,13 +267,13 @@ In Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery
 41. F. Gullo, A. K. A. Talukder, S. Luke, C. Domeniconi, A. Tagarelli<br>
 [Multiobjective Optimization of Co-Clustering Ensembles](https://doi.org/10.1145/2330784.2331010)<br>
 In Proceedings of the Genetic and Evolutionary Computation Conference (**GECCO '12**), pp. 1495-1496. Philadelphia, PA (USA), July 7-11, 2012<br>
-[[pdf](/files/papers/GECCO12.pdf)] [[extended](/files/papers/GECCO12_extended.pdf)] [[poster](/files/posters/GECCO12.pdf)]
+[[pdf](/files/papers/GECCO12.pdf)] [[extended](/files/papers/GECCO12_extended.pdf)] [[poster](/files/posters/GECCO12.pdf)] [[code&data](https://github.com/fgullo/jpce)]
 
 
 42. F. Gullo, C. Domeniconi, A. Tagarelli<br>
 [Advancing Data Clustering via Projective Clustering Ensembles](https://doi.org/10.1145/1989323.1989400)<br>
 In Proceedings of the 2011 ACM SIGMOD International Conference on Management of Data (**SIGMOD '11**), pp. 733-744. Athens, Greece, June 12-16, 2011<br>
-[[pdf](/files/papers/SIGMOD11.pdf)] [[slides](/files/slides/SIGMOD11.pdf)] [[code&data](https://github.com/fgullo/jpce)] [[RWE label](https://doi.org/10.1145/2034863.2034873)]
+[[pdf](/files/papers/SIGMOD11.pdf)] [[slides](/files/slides/SIGMOD11.pdf)] [[code&data](https://github.com/fgullo/jpce)] [[repeatability and workability (RWE) label](https://doi.org/10.1145/2034863.2034873)]
 
 
 
