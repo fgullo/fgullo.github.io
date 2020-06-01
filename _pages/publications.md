@@ -355,14 +355,14 @@ Lecture Notes in Computer Science 7769, Springer, 2013, ISBN 978-3-642-36777-9
     ### Book chapters (refereed)
 
 
-[54] F. Bonchi, F. Gullo, A. Kaltenbrunner Core Decomposition of Massive,
-Information-Rich Graphs. In Encyclopedia of Social Network Analysis and Mining - 2 edition, Springer, 2018 (DOI: https://doi.org/10.1007/978-1-4939-7131-
-2 110176).
+55. F. Bonchi, F. Gullo, A. Kaltenbrunner<br>
+[Core Decomposition of Massive, Information-Rich Graphs](https://doi.org/10.1007/978-1-4939-7131-2_110176)<br>
+In Encyclopedia of Social Network Analysis and Mining - 2 edition, Springer, 2018
 
-[55] F. Gullo, G. Ponti, and S. Greco. Organizing XML Documents on a Peer-to-Peer
-Network by Collaborative Clustering. In XML Data Mining: Models, Methods, and
-Applications, IGI Global, 2012, pp. 449-466 (DOI: http://dx.doi.org/10.4018/978-
-1-61350-356-0.ch018).
+
+56. F. Gullo, G. Ponti, S. Greco<br>
+[Organizing XML Documents on a Peer-to-Peer Network by Collaborative Clustering](http://dx.doi.org/10.4018/978-1-61350-356-0.ch018)<br>
+In XML Data Mining: Models, Methods, and Applications, IGI Global, 2012, pp. 449-466
 
 
     <br>
