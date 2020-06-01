@@ -272,7 +272,9 @@ In Proceedings of the Genetic and Evolutionary Computation Conference (**GECCO '
 
 42. F. Gullo, C. Domeniconi, A. Tagarelli<br>
 [Advancing Data Clustering via Projective Clustering Ensembles](https://doi.org/10.1145/1989323.1989400)<br>
-In Proceedings of the 2011 ACM SIGMOD International Conference on Management of Data (**SIGMOD '11**), pp. 733-744. Athens, Greece, June 12-16, 2011
+In Proceedings of the 2011 ACM SIGMOD International Conference on Management of Data (**SIGMOD '11**), pp. 733-744. Athens, Greece, June 12-16, 2011<br>
+[[pdf](/files/papers/SIGMOD11.pdf)] [[slides](/files/slides/SIGMOD11.pdf)] [[code&data](https://github.com/fgullo/jpce)] [[RWE label](https://doi.org/10.1145/2034863.2034873)]
+
 
 
 43. F. Gullo, G. Ponti, A. Tagarelli<br>
