@@ -249,7 +249,7 @@ In Proceedings of the International Conference on Extending Database Technology 
 38. L. Macchia, F. Bonchi, F. Gullo, L. Chiarandini<br>
 [Mining Summaries of Propagations](https://doi.org/10.1109/ICDM.2013.163)<br>
 In Proceedings of the IEEE International Conference on Data Mining (**ICDM '13**), pp. 498-507. Dallas, Texas (USA), December 7-10, 2013<br>
-[[pdf](/files/papers/ICDM13.pdf)]
+[[pdf](/files/papers/ICDM13.pdf)] [[code&data](https://www.dropbox.com/s/mvnt9k5vwtte9vo/ICDM13_code%26data.zip?dl=0)]
 
 
 39. C. E. Tsourakakis, F. Bonchi, A. Gionis, F. Gullo, M. A. Tsiarli<br>
