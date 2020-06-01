@@ -428,13 +428,15 @@ In Proceedings of the 20th IEEE International Symposium on Computer-Based Medica
     ## Workshops and national conferences
 
 68. C. Domeniconi, F. Gullo, A. Tagarelli<br>
-[The Projective Clustering Ensemble Problem for Advanced Data Clustering]()<br>
-In Proceedings of the 25th Italian Symposium on Advanced Database Systems (**SEBD '17**). Squillace Lido (Catanzaro), Italy, June 25-29, 2017
+[The Projective Clustering Ensemble Problem for Advanced Data Clustering](http://ceur-ws.org/Vol-2037/paper_28.pdf)<br>
+In Proceedings of the 25th Italian Symposium on Advanced Database Systems (**SEBD '17**). Squillace Lido (Catanzaro), Italy, June 25-29, 2017<br>
+[[pdf](http://ceur-ws.org/Vol-2037/paper_28.pdf)] [[code&data](https://github.com/fgullo/jpce)]
 
 
 69. A. Freire, M. Manca, D. Saez-Trumper, D. Laniado, I. Bordino, F. Gullo, A. Kaltenbrunner<br>
-[Graph-Based Breaking News Detection on Wikipedia]()<br>
-In Proceedings of the 2016 International Wiki Workshop, in conjunction with the 10th International AAAI Conference on Web and Social Media (**Wiki@ICWSM '16**). Cologne, Germany, May 17, 2016
+[Graph-Based Breaking News Detection on Wikipedia](http://aaai.org/ocs/index.php/ICWSM/ICWSM16/paper/view/13198)<br>
+In Proceedings of the 2016 International Wiki Workshop, in conjunction with the 10th International AAAI Conference on Web and Social Media (**Wiki@ICWSM '16**). Cologne, Germany, May 17, 2016<br>
+[[pdf](https://aaai.org/ocs/index.php/ICWSM/ICWSM16/paper/view/13198/12870)]
 
 
 70. S. Greco, F. Gullo, G. Ponti, A. Tagarelli, G. Agapito<br>
@@ -443,7 +445,7 @@ In Proceedings of the 18th Italian Symposium on Advanced Database Systems (**SEB
 
 
 71. S. Greco, F. Gullo, G. Ponti, A. Tagarelli<br>
-[Collaborative Clustering of XML Documents]()<br>
+[Collaborative Clustering of XML Documents](https://doi.org/10.1109/ICPPW.2009.58)<br>
 In Proceedings of the 1st International Workshop on Distributed XML Processing: Theory and Practice (**DXP '09**), in conjunction with the 38th International Conference on Parallel Processing (ICPP ‘09). Vienna, Austria, September 22-25, 2009
 
 
