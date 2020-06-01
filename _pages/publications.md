@@ -261,12 +261,13 @@ In Proceedings of the ACM SIGKDD International Conference on Knowledge Discov- e
 40. F. Bonchi, A. Gionis, F. Gullo, A. Ukkonen<br>
 [Chromatic Correlation Clustering](https://doi.org/10.1145/2339530.2339735)<br>
 In Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD '12**), pp. 1321-1329. Beijing, China, August 12-16, 2012<br>
-[[pdf](/files/papers/KDD12.pdf)] [[poster](/files/posters/KDD12.pdf)] [[video](/files/videos/KDD12.mov)] 
+[[pdf](/files/papers/KDD12.pdf)] [[extended](/files/papers/KDD12_extended.pdf)] [[poster](/files/posters/KDD12.pdf)] [[video](/files/videos/KDD12.mov)] 
 
 
 41. F. Gullo, A. K. A. Talukder, S. Luke, C. Domeniconi, A. Tagarelli<br>
 [Multiobjective Optimization of Co-Clustering Ensembles](https://doi.org/10.1145/2330784.2331010)<br>
-In Proceedings of the Genetic and Evolutionary Computation Conference (**GECCO '12**), pp. 1495-1496. Philadelphia, PA (USA), July 7-11, 2012
+In Proceedings of the Genetic and Evolutionary Computation Conference (**GECCO '12**), pp. 1495-1496. Philadelphia, PA (USA), July 7-11, 2012<br>
+[[pdf](/files/papers/GECCO12.pdf)] [[extended](/files/papers/GECCO12_extended.pdf)] [[poster](/files/posters/GECCO12.pdf)]
 
 
 42. F. Gullo, C. Domeniconi, A. Tagarelli<br>
