@@ -13,6 +13,9 @@ Look also at my [DBLP](http://www.informatik.uni-trier.de/~ley/pers/hc/g/Gullo:F
 
 <br>
 
+Copyright of every publication is held by the corresponding publisher. PDFs are provided for personal use only.
+
+<br>
 
 ## International journals
 
@@ -209,18 +212,20 @@ In Proceedings of the ACM SIGMOD International Conference on Management of Data 
 
 32. O. Balalau, F. Bonchi, T-H. Hubert Chan, F. Gullo, M. Sozio<br>
 [Finding Subgraphs with Maximum Total Density and Limited Overlap](https://doi.org/10.1145/2684822.2685298)<br>
-In Proceedings of the International Conference on Web Search and Data Mining (**WSDM '15**), pp. 379- 388. Shanghai, China, February 2-6, 2015
+In Proceedings of the International Conference on Web Search and Data Mining (**WSDM '15**), pp. 379- 388. Shanghai, China, February 2-6, 2015<br>
+[[pdf](/files/papers/WSDM15.pdf)] [[slides](/files/slides/WSDM15.pdf)] [[code](https://github.com/nyxpho/wsdm2015)]
 
 
 33. F. Gullo, G. Ponti, A. Tagarelli<br>
 [Be certain of how-to before mining uncertain data](https://doi.org/10.1007/978-3-662-44845-8_42)<br>
 In Proceedings of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (**ECML-PKDD '14**) (Nectar Track), pp. 489-493. Nancy, France, September 15-19, 2014<br>
-[[pdf](https://link.springer.com/content/pdf/10.1007%2F978-3-662-44845-8_42.pdf)]
+[[pdf](https://link.springer.com/content/pdf/10.1007%2F978-3-662-44845-8_42.pdf)] [[slides](/files/slides/ECML-PKDD14.pdf)] [[code](https://github.com/fgullo/jcludata)]
 
 
 34. F. Bonchi, F. Gullo, A. Kaltenbrunner, Y. Volkovich<br>
 [Core Decomposition of Uncertain Graphs](https://doi.org/10.1145/2623330.2623655)<br>
-In Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD '14**), pp. 1316-1325. New York City, New York (USA), August 24-27, 2014
+In Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD '14**), pp. 1316-1325. New York City, New York (USA), August 24-27, 2014<br>
+[[pdf](/files/papers/KDD14.pdf)] [[slides](/files/slides/KDD14.pdf)] [[poster](/files/posters/KDD14.pdf)] [[code&data](https://github.com/fgullo/uncertaincores)]
 
 
 35. P. Parchas, F. Gullo, D. Papadias, F. Bonchi<br>
