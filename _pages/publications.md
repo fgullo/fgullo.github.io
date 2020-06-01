@@ -370,56 +370,56 @@ In XML Data Mining: Models, Methods, and Applications, IGI Global, 2012, pp. 449
     ## Other international conferences
 
 57. C. Di Crescenzo, G. Gavazzi, G. Legnaro, E. Troccoli, I. Bordino, F. Gullo<br>
-[HERMEVENT: A News Collection for Emerging-Event Detection]()<br>
+[HERMEVENT: A News Collection for Emerging-Event Detection](https://doi.org/10.1145/3102254.3102262)<br>
 In Proceedings of the International Conference on Web Intelligence, Mining and Semantics (**WIMS '17**). Amantea, Italy, June 19-22, 2017
 
 
 58. F. Bonchi, I. Bordino, F. Gullo, G. Stilo<br>
-[Identifying Buzzing Stories via Anomalous Temporal Subgraph Discovery]()<br>
+[Identifying Buzzing Stories via Anomalous Temporal Subgraph Discovery](https://doi.org/10.1109/WI.2016.0032)<br>
 In Proceedings of the IEEE/WIC/ACM International Conference on Web Intelligence (**WI '16**), pp. 161-168. Omaha, Nebraska, USA, October 13-16, 2016
 
 
 59. F. Gullo, G. Ponti, A. Tagarelli, S. Cuomo, P. De Michele, F. Piccialli<br>
-[Handling Uncertainty in Clustering Art-exhibition Visiting Styles]()<br>
+[Handling Uncertainty in Clustering Art-exhibition Visiting Styles](https://doi.org/10.1007/978-3-319-58967-1_7)<br>
 In Proceedings of the 7th EAI International Conference on Big Data Technologies and Applications (**BDTA '16**). Seoul, South Korea, November 17-18, 2016
 
 
 60. I. Bordino, A. Ferretti, M. Firrincieli, F. Gullo, M. Paris, G. Sabena<br>
-[Hermes: A Distributed-Messaging Tool for NLP]()<br>
+[Hermes: A Distributed-Messaging Tool for NLP](https://doi.org/10.1007/978-3-319-51469-7_33)<br>
 In Proceedings of the 2nd International Conference on Machine Learning, Optimization, and Big Data (**MOD '16**), pp. 402-406. Volterra, Italy, August 26-29, 2016
 
 
 61. S. Romeo, A. Tagarelli, F. Gullo, S. Greco<br>
-[A Tensor-based Clustering Approach for Multiple Document Classifications]()<br>
+[A Tensor-based Clustering Approach for Multiple Document Classifications](http://dx.doi.org/10.5220/0004269102000205)<br>
 In Proceedings of the International Conference on Pattern Recognition Applications and Methods (**ICPRAM '13**), pp. 200-205. Barcelona, Spain, February 15-18, 2013
 
 
 62. A. Tagarelli, F. Gullo<br>
-[Evaluating PageRank Methods for Structural Sense Ranking in Labeled Tree Data]()<br>
+[Evaluating PageRank Methods for Structural Sense Ranking in Labeled Tree Data](https://doi.org/10.1145/2254129.2254174)<br>
 In Proceedings of the Int. Conf. on Web Intelligence, Mining and Semantics (**WIMS '12**). Craiova, Romania, June 13-15, 2012
 
 
 63. F. Gullo, G. Ponti, A. Tagarelli, S. Iiritano, M. Ruffolo, D. Labate<br>
-[Low-voltage Electricity Customer Profiling based on Load Data Clustering]()<br>
+[Low-voltage Electricity Customer Profiling based on Load Data Clustering](https://doi.org/10.1145/1620432.1620472)<br>
 In Proceedings of the 13th International Database Engineering & Applications Symposium (**IDEAS '09**), pp. 330-333. Cetraro, Italy, September 16-18, 2009
 
 
 64. F. Gullo, G. Ponti, A. Tagarelli, G. Tradigo, P. Veltri<br>
-[Hierarchical Clustering of Microarray Data with Probe-level Uncertainty]()<br>
+[Hierarchical Clustering of Microarray Data with Probe-level Uncertainty](https://doi.org/10.1109/CBMS.2009.5255403)<br>
 In Proceedings of the 22th IEEE International Symposium on Computer-Based Medical Systems (**CBMS '09**). Albuquerque, New Mexico (USA), August 3-4, 2009
 
 
 65. F. Gullo, G. Ponti, A. Tagarelli<br>
-[Clustering Uncertain Data via K-medoids]()<br>
+[Clustering Uncertain Data via K-medoids](https://doi.org/10.1007/978-3-540-87993-0_19)<br>
 In Proceedings of the 2nd International Conference on Scalable Uncertainty Management (**SUM '08**), pp. 229-242. Napoli, Italy, October 1-3, 2008
 
 
 66. F. Gullo, G. Ponti, A. Tagarelli, G. Tradigo, P. Veltri<br>
-[MSPtool: A Versatile Tool for Mass Spectrometry Data Preprocessing]()<br>
+[MSPtool: A Versatile Tool for Mass Spectrometry Data Preprocessing](https://doi.org/10.1109/CBMS.2008.53)<br>
 In Proceedings of the 21th IEEE International Symposium on Computer-Based Medical Systems (**CBMS '08**), pp. 209-214. Jyv¨askyl¨a, Finland, June 17-19, 2008
 
 67. F. Gullo, G. Ponti, A. Tagarelli, G. Tradigo, P. Veltri<br>
-[A Time Series Based Approach for Classifying Mass Spectrometry Data]()<br>
+[A Time Series Based Approach for Classifying Mass Spectrometry Data](https://doi.org/10.1109/CBMS.2007.16)<br>
 In Proceedings of the 20th IEEE International Symposium on Computer-Based Medical Systems (**CBMS '07**), pp. 412-417. Maribor, Slovenia, June 20-23, 2007
 
 
