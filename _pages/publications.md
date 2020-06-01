@@ -279,27 +279,32 @@ In Proceedings of the 2011 ACM SIGMOD International Conference on Management of 
 
 43. F. Gullo, G. Ponti, A. Tagarelli<br>
 [Minimizing the Variance of Cluster Mixture Models for Clustering Uncertain Objects](https://doi.org/10.1109/ICDM.2010.134)<br>
-In Proceedings of the 10th IEEE International Conference on Data Mining (**ICDM '10**), pp. 839-844. Sydney, Australia, December 14-17, 2010
+In Proceedings of the 10th IEEE International Conference on Data Mining (**ICDM '10**), pp. 839-844. Sydney, Australia, December 14-17, 2010<br>
+[[pdf](/files/papers/ICDM10_MMVar.pdf)] [[slides](/files/slides/ICDM10_MMVar.pdf)]
 
 
 44. F. Gullo, C. Domeniconi, A. Tagarelli<br>
 [Enhancing Single-Objective Projective Clustering Ensembles](https://doi.org/10.1109/ICDM.2010.138)<br>
-In Proceedings of the 10th IEEE International Conference on Data Mining (**ICDM '10**), pp. 833-838. Sydney, Australia, December 14-17, 2010
+In Proceedings of the 10th IEEE International Conference on Data Mining (**ICDM '10**), pp. 833-838. Sydney, Australia, December 14-17, 2010<br>
+[[pdf](/files/papers/ICDM10_PCE.pdf)] [[slides](/files/slides/ICDM10_PCE.pdf)] [[code&data](https://github.com/fgullo/jpce)]
 
 
 45. F. Gullo, C. Domeniconi, A. Tagarelli<br>
 [Projective Clustering Ensembles](https://doi.org/10.1109/ICDM.2009.131)<br>
-In Proceedings of the 9th IEEE International Conference on Data Mining (**ICDM '09**), pp. 794-799. Miami, Florida (USA), December 6-9, 2009
+In Proceedings of the 9th IEEE International Conference on Data Mining (**ICDM '09**), pp. 794-799. Miami, Florida (USA), December 6-9, 2009<br>
+[[pdf](/files/papers/ICDM09.pdf)] [[slides](/files/slides/ICDM09.pdf)] [[code&data](https://github.com/fgullo/jpce)]
 
 
 46. F. Gullo, A. Tagarelli, S. Greco<br>
 [Diversity-based Weighting Schemes for Clustering Ensembles](https://doi.org/10.1137/1.9781611972795.38)<br>
-In Proceedings of the 9th SIAM International Conference on Data Mining (**SDM '09**), pp. 437-448. Sparks, Nevada (USA), April 30-May 2, 2009
+In Proceedings of the 9th SIAM International Conference on Data Mining (**SDM '09**), pp. 437-448. Sparks, Nevada (USA), April 30-May 2, 2009<br>
+[[pdf](https://epubs.siam.org/doi/10.1137/1.9781611972795.38)] [[slides](/files/slides/SDM09.pdf)]
 
 
 47. F. Gullo, G. Ponti, A. Tagarelli, S. Greco<br>
 [A Hierarchical Algorithm for Clustering Uncertain Data via an Information-Theoretic Approach](https://doi.org/10.1109/ICDM.2008.115)<br>
-In Proceedings of the 8th IEEE International Conference on Data Mining (**ICDM '08**), pp. 821-826. Pisa, Italy, December 15-19, 2008
+In Proceedings of the 8th IEEE International Conference on Data Mining (**ICDM '08**), pp. 821-826. Pisa, Italy, December 15-19, 2008<br>
+[[pdf](/files/papers/ICDM08.pdf)] [[slides](/files/slides/ICDM08.pdf)] [[code](https://github.com/fgullo/jcludata)]
 
 
 
