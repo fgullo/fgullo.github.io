@@ -192,7 +192,7 @@ In Proceedings of the ACM International Conference on Knowledge and Information 
 29. A. Khan, F. Gullo, T. Wohler, F. Bonchi<br>
 [Top-k Reliable Edge Colors in Uncertain Graphs](https://doi.org/10.1145/2806416.2806619)<br>
 In Proceedings of the ACM International Conference on Knowledge and Information Management (**CIKM '15**), pp. 1851-1854. Melbourne, Australia, October 19-23, 2015<br>
-[[pdf](/files/papers/ColorRel.pdf)]
+[[pdf](/files/papers/CIKM15_ColorRel.pdf)]
 
 
 30. D. Mottin, F. Bonchi, F. Gullo<br>
