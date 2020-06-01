@@ -307,20 +307,139 @@ In Proceedings of the 8th IEEE International Conference on Data Mining (**ICDM '
 [[pdf](/files/papers/ICDM08.pdf)] [[slides](/files/slides/ICDM08.pdf)] [[code](https://github.com/fgullo/jcludata)]
 
 
+    <br>
 
 
+    ### Edited volumes
+
+48. V. Bitetta, I. Bordino, A. Ferretti, F. Gullo, S. Pascolutti, G. Ponti<br>
+[Mining Data for Financial Applications - 4th ECML PKDD Workshop, MIDAS 2019](https://doi.org/10.1007/978-3-030-37720-5), co-located
+with the 2019 European Conference on Machine Learning and Principles and Practice of Knowledge Discovery (ECML-PKDD 2019), Wurzburg, Germany, September
+16, 2019<br>
+Lecture Notes in Computer Science (LNCS) 11985, Springer, 2020, ISBN 978-3-030-37719-9
 
 
+49. C. Alzate, A. Monreale, L. Bioglio, V. Bitetta, I. Bordino, G. Caldarelli, A. Ferretti, R. Guidotti, F. Gullo, S. Pascolutti, R. G. Pensa, C. Robardet, T. Squartini<br>
+[ECML PKDD 2018 Workshops – MIDAS 2018 and PAP 2018, Proceeding](https://doi.org/10.1007/978-3-030-13463-1)s, co-located with the 2018 European Conference on Machine Learning and Principles and Practice of Knowledge Discovery (ECML-PKDD 2018), Dublin, Ireland, September 10-14, 2018<br>
+Lecture Notes in Computer Science (LNCS) 11054, Springer, 2019, ISBN 978-3-030-13462-4
 
 
-
-### Edited volumes
-
-
-### Book chapters (refereed)
+50. I. Bordino, G. Caldarelli, F. Fumarola, F. Gullo, T. Squartini<br>
+[Proceedings of the First Workshop on MIning DAta for financial applicationS (MIDAS 2017)](http://ceur-ws.org/Vol-1941), colocated with the 2017 European Conference on Machine Learning and Principles and Practice of Knowledge Discovery (ECML-PKDD 2017), Skopje, Macedonia, September 18, 2017<br>
+CEUR Workshop Proceedings Vol-1941, CEUR-WS.org, 2017
 
 
-### Other international conferences
+51. C. Domeniconi, F. Gullo, F. Bonchi, J. Domingo-Ferrer, R. Baeza-Yates, Z.-H. Zhou, X. Wu<br>
+[16th IEEE International Conference on Data Mining Workshops (ICDMW 2016)](https://ieeexplore.ieee.org/xpl/conhome/7836069/proceeding), Barcelona, Spain, December 12, 2016<br>
+IEEE Computer Society, 2016, ISBN 978-1-5090-5472-5
 
 
-### Workshops and national conferences
+52. I. Bordino, G. Caldarelli, F. Fumarola, F. Gullo, T. Squartini<br>
+[Proceedings of the First Workshop on MIning DAta for financial applicationS (MIDAS 2016)](http://ceur-ws.org/Vol-1774), colocated with the 2016 European Conference on Machine Learning and Principles and Practice of Knowledge Discovery (ECML-PKDD 2016), Riva del Garda, Italy, September 19, 2016<br>
+CEUR Workshop Proceedings Vol-1774, CEUR-WS.org, 2016
+
+
+53. I. Assent, C. Domeniconi, F. Gullo, A. Tagarelli, A. Zimek<br>
+[MultiClust '13: Proceedings of the 4th MultiClust Workshop on Multiple Clusterings, Multi-view Data, and Multi-source Knowledge-driven Clustering](http://dl.acm.org/citation.cfm?id=2501006), co-located with the KDD '13 conference, Chicago, Illinois (USA), August 11 - 14, 2013<br>
+ACM, 2013, ISBN 978-1-4503-2334-5
+
+
+54. T. Washio, J. Luo, P. Desikan, K.-W. Hsu, J. Srivastava, E.-P. Lim, M. Teisseire, M. Roche, C. Domeniconi, F. Gullo, A. Tagarelli, H. K. Tan, and W. C. Onn<br>
+[Emerging Trends in Knowledge Discovery and Data Mining - PAKDD 2012 International Workshops: DMHM, GeoDoc, 3Clust, and DSDM](http://www.springer.com/computer/database+management+%26+information+retrieval/book/978-3-642-36777-9), Kuala Lumpur, Malaysia, May 29 - June 1, 2012, Revised Selected Papers<br>
+Lecture Notes in Computer Science 7769, Springer, 2013, ISBN 978-3-642-36777-9
+
+
+    <br>
+
+
+    ### Book chapters (refereed)
+
+
+[54] F. Bonchi, F. Gullo, A. Kaltenbrunner Core Decomposition of Massive,
+Information-Rich Graphs. In Encyclopedia of Social Network Analysis and Mining - 2 edition, Springer, 2018 (DOI: https://doi.org/10.1007/978-1-4939-7131-
+2 110176).
+
+[55] F. Gullo, G. Ponti, and S. Greco. Organizing XML Documents on a Peer-to-Peer
+Network by Collaborative Clustering. In XML Data Mining: Models, Methods, and
+Applications, IGI Global, 2012, pp. 449-466 (DOI: http://dx.doi.org/10.4018/978-
+1-61350-356-0.ch018).
+
+
+    <br>
+
+    ### Other international conferences
+
+[56] C. Di Crescenzo, G. Gavazzi, G. Legnaro, E. Troccoli, I. Bordino, and F. Gullo.
+HERMEVENT: A News Collection for Emerging-Event Detection. In Proceedings
+of the Int. Conf. on Web Intelligence, Mining and Semantics (WIMS ‘17). Amantea, Italy, June 19-22, 2017.
+
+[57] F. Bonchi, I. Bordino, F. Gullo, and G. Stilo. Identifying Buzzing Stories via
+Anomalous Temporal Subgraph Discovery. In Proceedings of the IEEE/WIC/ACM
+International Conference on Web Intelligence (WI ‘16), pp. 161-168. Omaha, Nebraska, USA, October 13-16, 2016.
+
+[58] F. Gullo, G. Ponti, A. Tagarelli, S. Cuomo, P. De Michele, F. Piccialli, Handling Uncertainty in Clustering Art-exhibition Visiting Styles. In Proceedings of the 7th EAI International Conference on Big Data Technologies and Applications
+(BDTA ‘16). Seoul, South Korea, November 17-18, 2016.
+
+[59] I. Bordino, A. Ferretti, M. Firrincieli, F. Gullo, M. Paris, G. Sabena. Hermes:
+A Distributed-Messaging Tool for NLP. In Proceedings of the 2nd International
+Conference on Machine Learning, Optimization, and Big Data (MOD ‘16), pp.
+402-406. Volterra, Italy, August 26-29, 2016.
+
+[60] S. Romeo, A. Tagarelli, F. Gullo, and S. Greco. A Tensor-based Clustering Approach for Multiple Document Classifications. In Proceedings of the International
+Conference on Pattern Recognition Applications and Methods (ICPRAM ‘13),
+pp. 200-205. Barcelona, Spain, February 15-18, 2013.
+
+[61] A. Tagarelli, and F. Gullo. Evaluating PageRank Methods for Structural Sense
+Ranking in Labeled Tree Data. In Proceedings of the Int. Conf. on Web Intelligence,
+Mining and Semantics (WIMS ‘12). Craiova, Romania, June 13-15, 2012.
+
+[62] F. Gullo, G. Ponti, A. Tagarelli, S. Iiritano, M. Ruffolo, and D. Labate. Lowvoltage Electricity Customer Profiling based on Load Data Clustering. In Proceedings of the 13th International Database Engineering & Applications Symposium
+(IDEAS ‘09), pp. 330-333. Cetraro, Italy, September 16-18, 2009.
+
+[63] F. Gullo, G. Ponti, A. Tagarelli, G. Tradigo, P. Veltri. Hierarchical Clustering of
+Microarray Data with Probe-level Uncertainty. In Proceedings of the 22th IEEE
+International Symposium on Computer-Based Medical Systems (CBMS ‘09). Albuquerque, New Mexico (USA), August 3-4, 2009.
+
+[64] F. Gullo, G. Ponti, and A. Tagarelli. Clustering Uncertain Data via K-medoids. In
+Proceedings of the 2nd International Conference on Scalable Uncertainty Management (SUM ‘08), pp. 229-242. Napoli, Italy, October 1-3, 2008.
+
+[65] F. Gullo, G. Ponti, A. Tagarelli, G. Tradigo, and P. Veltri. MSPtool: A Versatile
+Tool for Mass Spectrometry Data Preprocessing. In Proceedings of the 21th IEEE
+International Symposium on Computer-Based Medical Systems (CBMS ‘08), pp.
+209-214. Jyv¨askyl¨a, Finland, June 17-19, 2008.
+
+[66] F. Gullo, G. Ponti, A. Tagarelli, G. Tradigo, and P. Veltri. A Time Series Based
+Approach for Classifying Mass Spectrometry Data. In Proceedings of the 20th IEEE
+International Symposium on Computer-Based M
+
+
+    <br>
+
+    ### Workshops and national conferences
+
+[67] C. Domeniconi, F. Gullo, and A. Tagarelli. The Projective Clustering Ensemble
+Problem for Advanced Data Clustering. In Proceedings of the 25th Italian Symposium on Advanced Database Systems (SEBD ‘17). Squillace Lido (Catanzaro),
+Italy, June 25-29, 2017.
+
+[68] A. Freire, M. Manca, D. Saez-Trumper, D. Laniado, I. Bordino, F. Gullo, and
+A. Kaltenbrunner. Graph-Based Breaking News Detection on Wikipedia. In Proceedings of the 2016 International Wiki Workshop, in conjunction with the 10th
+International AAAI Conference on Web and Social Media (Wiki@ICWSM ‘16).
+Cologne, Germany, May 17, 2016.
+
+[69] S. Greco, F. Gullo, G. Ponti, A. Tagarelli, and G. Agapito. Clustering XML Documents: a Distributed Collaborative Approach. In Proceedings of the 18th Italian Symposium on Advanced Database Systems (SEBD ‘10), pp. 406-413. Rimini,
+Italy, June 20-23, 2010.
+
+[70] S. Greco, F. Gullo, G. Ponti, and A. Tagarelli. Collaborative Clustering of XML
+Documents. In Proceedings of the 1st International Workshop on Distributed XML
+Processing: Theory and Practice (DXP ‘09), in conjunction with the 38th International Conference on Parallel Processing (ICPP ‘09). Vienna, Austria, September
+22-25, 2009.
+
+[71] F. Gullo, G. Ponti, A. Tagarelli, and S. Greco. Information-Theoretic Hierarchical
+Clustering of Uncertain Data. In Proc. of the 17th Italian Symposium on Advanced
+Database Systems (SEBD ‘09), pp. 273-280. Geneva, Italy, June 21-24, 2009.
+
+[72] F. Gullo, and G. Ponti. Hierarchical Clustering of Uncertain Data. In Doctoral Symposium in conjunction with the 14th GII Doctoral School on Advances
+in Databases, Cetraro, Italy, September 19, 2009.
+
+[73] F. Gullo, G. Ponti, A. Tagarelli, and S. Greco. Accurate and Fast Similarity Detection in Time Series. In Proceedings of the 15th Italian Symposium on Advanced
+Database Systems (SEBD ‘07), pp. 172-183. Bari, Italy, June 17-20, 2007.
