@@ -448,22 +448,25 @@ In Proceedings of the 25th Italian Symposium on Advanced Database Systems (**SEB
 69. A. Freire, M. Manca, D. Saez-Trumper, D. Laniado, I. Bordino, F. Gullo, A. Kaltenbrunner<br>
 [Graph-Based Breaking News Detection on Wikipedia](http://aaai.org/ocs/index.php/ICWSM/ICWSM16/paper/view/13198)<br>
 In Proceedings of the 2016 International Wiki Workshop, in conjunction with the 10th International AAAI Conference on Web and Social Media (**Wiki@ICWSM '16**). Cologne, Germany, May 17, 2016<br>
-[[pdf](https://aaai.org/ocs/index.php/ICWSM/ICWSM16/paper/view/13198/12870)]
+[[pdf](https://aaai.org/ocs/index.php/ICWSM/ICWSM16/paper/view/13198/12870)] [[poster](/files/posters/WikiICWSM16.pdf)]
 
 
 70. S. Greco, F. Gullo, G. Ponti, A. Tagarelli, G. Agapito<br>
 [Clustering XML Documents: a Distributed Collaborative Approach]()<br>
-In Proceedings of the 18th Italian Symposium on Advanced Database Systems (**SEBD '10**), pp. 406-413. Rimini, Italy, June 20-23, 2010
+In Proceedings of the 18th Italian Symposium on Advanced Database Systems (**SEBD '10**), pp. 406-413. Rimini, Italy, June 20-23, 2010<br>
+[[pdf](/files/papers/SEBD10.pdf)]
 
 
 71. S. Greco, F. Gullo, G. Ponti, A. Tagarelli<br>
 [Collaborative Clustering of XML Documents](https://doi.org/10.1109/ICPPW.2009.58)<br>
-In Proceedings of the 1st International Workshop on Distributed XML Processing: Theory and Practice (**DXP '09**), in conjunction with the 38th International Conference on Parallel Processing (ICPP ‘09). Vienna, Austria, September 22-25, 2009
+In Proceedings of the 1st International Workshop on Distributed XML Processing: Theory and Practice (**DXP '09**), in conjunction with the 38th International Conference on Parallel Processing (ICPP ‘09). Vienna, Austria, September 22-25, 2009<br>
+[[pdf](/files/papers/DXP09.pdf)]
 
 
 72. F. Gullo, G. Ponti, A. Tagarelli, S. Greco<br>
 [Information-Theoretic Hierarchical Clustering of Uncertain Data]()<br>
-In Proceedings of the 17th Italian Symposium on Advanced Database Systems (**SEBD '09**), pp. 273-280. Geneva, Italy, June 21-24, 2009
+In Proceedings of the 17th Italian Symposium on Advanced Database Systems (**SEBD '09**), pp. 273-280. Geneva, Italy, June 21-24, 2009<br>
+[[pdf](/files/papers/SEBD09.pdf)]
 
 
 73. F. Gullo, G. Ponti<br>
@@ -473,4 +476,6 @@ In Doctoral Symposium in conjunction with the 14th GII Doctoral School on Advanc
 
 74. F. Gullo, G. Ponti, A. Tagarelli, S. Greco<br>
 [Accurate and Fast Similarity Detection in Time Series]()<br>
-In Proceedings of the 15th Italian Symposium on Advanced Database Systems (**SEBD '07**), pp. 172-183. Bari, Italy, June 17-20, 2007
+In Proceedings of the 15th Italian Symposium on Advanced Database Systems (**SEBD '07**), pp. 172-183. Bari, Italy, June 17-20, 2007<br>
+[[pdf](/files/papers/SEBD07.pdf)]
+
