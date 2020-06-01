@@ -248,12 +248,14 @@ In Proceedings of the International Conference on Extending Database Technology 
 
 38. L. Macchia, F. Bonchi, F. Gullo, L. Chiarandini<br>
 [Mining Summaries of Propagations](https://doi.org/10.1109/ICDM.2013.163)<br>
-In Proceedings of the IEEE International Conference on Data Mining (**ICDM '13**), pp. 498-507. Dallas, Texas (USA), December 7-10, 2013
+In Proceedings of the IEEE International Conference on Data Mining (**ICDM '13**), pp. 498-507. Dallas, Texas (USA), December 7-10, 2013<br>
+[[pdf](/files/papers/ICDM13.pdf)]
 
 
 39. C. E. Tsourakakis, F. Bonchi, A. Gionis, F. Gullo, M. A. Tsiarli<br>
 [Denser than the densest subgraph: extracting optimal quasi-cliques with quality guarantees](https://doi.org/10.1145/2487575.2487645)<br>
-In Proceedings of the ACM SIGKDD International Conference on Knowledge Discov- ery and Data Mining (**KDD '13**), pp. 104-112. Chicago, Illinois (USA), August 11-14, 2013
+In Proceedings of the ACM SIGKDD International Conference on Knowledge Discov- ery and Data Mining (**KDD '13**), pp. 104-112. Chicago, Illinois (USA), August 11-14, 2013br>
+[[pdf](/files/papers/KDD13.pdf)] [[slides](/files/slides/KDD13.pdf)] [[code](https://github.com/tsourolampis/Optimal-Quasicliques)]
 
 
 40. F. Bonchi, A. Gionis, F. Gullo, A. Ukkonen<br>
