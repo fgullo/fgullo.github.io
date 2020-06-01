@@ -454,24 +454,25 @@ In Proceedings of the 2016 International Wiki Workshop, in conjunction with the 
 70. S. Greco, F. Gullo, G. Ponti, A. Tagarelli, G. Agapito<br>
 [Clustering XML Documents: a Distributed Collaborative Approach]()<br>
 In Proceedings of the 18th Italian Symposium on Advanced Database Systems (**SEBD '10**), pp. 406-413. Rimini, Italy, June 20-23, 2010<br>
-[[pdf](/files/papers/SEBD10.pdf)]
+[[pdf](/files/papers/SEBD10.pdf)] [[slides](/files/slides/SEBD10.pdf)]
 
 
 71. S. Greco, F. Gullo, G. Ponti, A. Tagarelli<br>
 [Collaborative Clustering of XML Documents](https://doi.org/10.1109/ICPPW.2009.58)<br>
 In Proceedings of the 1st International Workshop on Distributed XML Processing: Theory and Practice (**DXP '09**), in conjunction with the 38th International Conference on Parallel Processing (ICPP ‘09). Vienna, Austria, September 22-25, 2009<br>
-[[pdf](/files/papers/DXP09.pdf)]
+[[pdf](/files/papers/DXP09.pdf)] [[slides](/files/slides/DXP09.pdf)]
 
 
 72. F. Gullo, G. Ponti, A. Tagarelli, S. Greco<br>
 [Information-Theoretic Hierarchical Clustering of Uncertain Data]()<br>
 In Proceedings of the 17th Italian Symposium on Advanced Database Systems (**SEBD '09**), pp. 273-280. Geneva, Italy, June 21-24, 2009<br>
-[[pdf](/files/papers/SEBD09.pdf)]
+[[pdf](/files/papers/SEBD09.pdf)] [[code](https://github.com/fgullo/jcludata)]
 
 
 73. F. Gullo, G. Ponti<br>
 [Hierarchical Clustering of Uncertain Data]()<br>
-In Doctoral Symposium in conjunction with the 14th GII Doctoral School on Advances in Databases, Cetraro, Italy, September 19, 2009
+In Doctoral Symposium in conjunction with the 14th GII Doctoral School on Advances in Databases, Cetraro, Italy, September 19, 2009<br>
+[[pdf](/files/papers/GII09.pdf)] [[slides](/files/slides/GII09.pdf)]
 
 
 74. F. Gullo, G. Ponti, A. Tagarelli, S. Greco<br>
