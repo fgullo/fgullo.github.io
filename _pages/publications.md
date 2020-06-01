@@ -254,7 +254,7 @@ In Proceedings of the IEEE International Conference on Data Mining (**ICDM '13**
 
 39. C. E. Tsourakakis, F. Bonchi, A. Gionis, F. Gullo, M. A. Tsiarli<br>
 [Denser than the densest subgraph: extracting optimal quasi-cliques with quality guarantees](https://doi.org/10.1145/2487575.2487645)<br>
-In Proceedings of the ACM SIGKDD International Conference on Knowledge Discov- ery and Data Mining (**KDD '13**), pp. 104-112. Chicago, Illinois (USA), August 11-14, 2013<br>
+In Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD '13**), pp. 104-112. Chicago, Illinois (USA), August 11-14, 2013<br>
 [[pdf](/files/papers/KDD13.pdf)] [[slides](/files/slides/KDD13.pdf)] [[code](https://github.com/tsourolampis/Optimal-Quasicliques)]
 
 
@@ -310,7 +310,7 @@ In Proceedings of the 8th IEEE International Conference on Data Mining (**ICDM '
     <br>
 
 
-    ### Edited volumes
+    ## Edited volumes
 
 48. V. Bitetta, I. Bordino, A. Ferretti, F. Gullo, S. Pascolutti, G. Ponti<br>
 [Mining Data for Financial Applications - 4th ECML PKDD Workshop, MIDAS 2019](https://doi.org/10.1007/978-3-030-37720-5), co-located
@@ -320,7 +320,7 @@ Lecture Notes in Computer Science (LNCS) 11985, Springer, 2020, ISBN 978-3-030-3
 
 
 49. C. Alzate, A. Monreale, L. Bioglio, V. Bitetta, I. Bordino, G. Caldarelli, A. Ferretti, R. Guidotti, F. Gullo, S. Pascolutti, R. G. Pensa, C. Robardet, T. Squartini<br>
-[ECML PKDD 2018 Workshops – MIDAS 2018 and PAP 2018, Proceeding](https://doi.org/10.1007/978-3-030-13463-1)s, co-located with the 2018 European Conference on Machine Learning and Principles and Practice of Knowledge Discovery (ECML-PKDD 2018), Dublin, Ireland, September 10-14, 2018<br>
+[ECML PKDD 2018 Workshops – MIDAS 2018 and PAP 2018, Proceedings](https://doi.org/10.1007/978-3-030-13463-1), co-located with the 2018 European Conference on Machine Learning and Principles and Practice of Knowledge Discovery (ECML-PKDD 2018), Dublin, Ireland, September 10-14, 2018<br>
 Lecture Notes in Computer Science (LNCS) 11054, Springer, 2019, ISBN 978-3-030-13462-4
 
 
@@ -352,7 +352,7 @@ Lecture Notes in Computer Science 7769, Springer, 2013, ISBN 978-3-642-36777-9
     <br>
 
 
-    ### Book chapters (refereed)
+    ## Book chapters (refereed)
 
 
 55. F. Bonchi, F. Gullo, A. Kaltenbrunner<br>
@@ -367,55 +367,65 @@ In XML Data Mining: Models, Methods, and Applications, IGI Global, 2012, pp. 449
 
     <br>
 
-    ### Other international conferences
+    ## Other international conferences
 
-[56] C. Di Crescenzo, G. Gavazzi, G. Legnaro, E. Troccoli, I. Bordino, and F. Gullo.
-HERMEVENT: A News Collection for Emerging-Event Detection. In Proceedings
-of the Int. Conf. on Web Intelligence, Mining and Semantics (WIMS ‘17). Amantea, Italy, June 19-22, 2017.
+57. C. Di Crescenzo, G. Gavazzi, G. Legnaro, E. Troccoli, I. Bordino, F. Gullo<br>
+[HERMEVENT: A News Collection for Emerging-Event Detection]()<br>
+In Proceedings of the International Conference on Web Intelligence, Mining and Semantics (**WIMS '17**). Amantea, Italy, June 19-22, 2017
 
-[57] F. Bonchi, I. Bordino, F. Gullo, and G. Stilo. Identifying Buzzing Stories via
-Anomalous Temporal Subgraph Discovery. In Proceedings of the IEEE/WIC/ACM
-International Conference on Web Intelligence (WI ‘16), pp. 161-168. Omaha, Nebraska, USA, October 13-16, 2016.
 
-[58] F. Gullo, G. Ponti, A. Tagarelli, S. Cuomo, P. De Michele, F. Piccialli, Handling Uncertainty in Clustering Art-exhibition Visiting Styles. In Proceedings of the 7th EAI International Conference on Big Data Technologies and Applications
-(BDTA ‘16). Seoul, South Korea, November 17-18, 2016.
+58. F. Bonchi, I. Bordino, F. Gullo, G. Stilo<br>
+[Identifying Buzzing Stories via Anomalous Temporal Subgraph Discovery]()<br>
+In Proceedings of the IEEE/WIC/ACM International Conference on Web Intelligence (**WI '16**), pp. 161-168. Omaha, Nebraska, USA, October 13-16, 2016
 
-[59] I. Bordino, A. Ferretti, M. Firrincieli, F. Gullo, M. Paris, G. Sabena. Hermes:
-A Distributed-Messaging Tool for NLP. In Proceedings of the 2nd International
-Conference on Machine Learning, Optimization, and Big Data (MOD ‘16), pp.
-402-406. Volterra, Italy, August 26-29, 2016.
 
-[60] S. Romeo, A. Tagarelli, F. Gullo, and S. Greco. A Tensor-based Clustering Approach for Multiple Document Classifications. In Proceedings of the International
-Conference on Pattern Recognition Applications and Methods (ICPRAM ‘13),
-pp. 200-205. Barcelona, Spain, February 15-18, 2013.
+59. F. Gullo, G. Ponti, A. Tagarelli, S. Cuomo, P. De Michele, F. Piccialli<br>
+[Handling Uncertainty in Clustering Art-exhibition Visiting Styles]()<br>
+In Proceedings of the 7th EAI International Conference on Big Data Technologies and Applications (**BDTA '16**). Seoul, South Korea, November 17-18, 2016
 
-[61] A. Tagarelli, and F. Gullo. Evaluating PageRank Methods for Structural Sense
-Ranking in Labeled Tree Data. In Proceedings of the Int. Conf. on Web Intelligence,
-Mining and Semantics (WIMS ‘12). Craiova, Romania, June 13-15, 2012.
 
-[62] F. Gullo, G. Ponti, A. Tagarelli, S. Iiritano, M. Ruffolo, and D. Labate. Lowvoltage Electricity Customer Profiling based on Load Data Clustering. In Proceedings of the 13th International Database Engineering & Applications Symposium
-(IDEAS ‘09), pp. 330-333. Cetraro, Italy, September 16-18, 2009.
+60. I. Bordino, A. Ferretti, M. Firrincieli, F. Gullo, M. Paris, G. Sabena<br>
+[Hermes: A Distributed-Messaging Tool for NLP]()<br>
+In Proceedings of the 2nd International Conference on Machine Learning, Optimization, and Big Data (**MOD '16**), pp. 402-406. Volterra, Italy, August 26-29, 2016
 
-[63] F. Gullo, G. Ponti, A. Tagarelli, G. Tradigo, P. Veltri. Hierarchical Clustering of
-Microarray Data with Probe-level Uncertainty. In Proceedings of the 22th IEEE
-International Symposium on Computer-Based Medical Systems (CBMS ‘09). Albuquerque, New Mexico (USA), August 3-4, 2009.
 
-[64] F. Gullo, G. Ponti, and A. Tagarelli. Clustering Uncertain Data via K-medoids. In
-Proceedings of the 2nd International Conference on Scalable Uncertainty Management (SUM ‘08), pp. 229-242. Napoli, Italy, October 1-3, 2008.
+61. S. Romeo, A. Tagarelli, F. Gullo, S. Greco<br>
+[A Tensor-based Clustering Approach for Multiple Document Classifications]()<br>
+In Proceedings of the International Conference on Pattern Recognition Applications and Methods (**ICPRAM '13**), pp. 200-205. Barcelona, Spain, February 15-18, 2013
 
-[65] F. Gullo, G. Ponti, A. Tagarelli, G. Tradigo, and P. Veltri. MSPtool: A Versatile
-Tool for Mass Spectrometry Data Preprocessing. In Proceedings of the 21th IEEE
-International Symposium on Computer-Based Medical Systems (CBMS ‘08), pp.
-209-214. Jyv¨askyl¨a, Finland, June 17-19, 2008.
 
-[66] F. Gullo, G. Ponti, A. Tagarelli, G. Tradigo, and P. Veltri. A Time Series Based
-Approach for Classifying Mass Spectrometry Data. In Proceedings of the 20th IEEE
-International Symposium on Computer-Based M
+62. A. Tagarelli, F. Gullo<br>
+[Evaluating PageRank Methods for Structural Sense Ranking in Labeled Tree Data]()<br>
+In Proceedings of the Int. Conf. on Web Intelligence, Mining and Semantics (**WIMS '12**). Craiova, Romania, June 13-15, 2012
+
+
+63. F. Gullo, G. Ponti, A. Tagarelli, S. Iiritano, M. Ruffolo, D. Labate<br>
+[Low-voltage Electricity Customer Profiling based on Load Data Clustering]()<br>
+In Proceedings of the 13th International Database Engineering & Applications Symposium (**IDEAS '09**), pp. 330-333. Cetraro, Italy, September 16-18, 2009
+
+
+64. F. Gullo, G. Ponti, A. Tagarelli, G. Tradigo, P. Veltri<br>
+[Hierarchical Clustering of Microarray Data with Probe-level Uncertainty]()<br>
+In Proceedings of the 22th IEEE International Symposium on Computer-Based Medical Systems (**CBMS '09**). Albuquerque, New Mexico (USA), August 3-4, 2009
+
+
+65. F. Gullo, G. Ponti, A. Tagarelli<br>
+[Clustering Uncertain Data via K-medoids]()<br>
+In Proceedings of the 2nd International Conference on Scalable Uncertainty Management (**SUM '08**), pp. 229-242. Napoli, Italy, October 1-3, 2008
+
+
+66. F. Gullo, G. Ponti, A. Tagarelli, G. Tradigo, P. Veltri<br>
+[MSPtool: A Versatile Tool for Mass Spectrometry Data Preprocessing]()<br>
+In Proceedings of the 21th IEEE International Symposium on Computer-Based Medical Systems (**CBMS '08**), pp. 209-214. Jyv¨askyl¨a, Finland, June 17-19, 2008
+
+67. F. Gullo, G. Ponti, A. Tagarelli, G. Tradigo, P. Veltri<br>
+[A Time Series Based Approach for Classifying Mass Spectrometry Data]()<br>
+In Proceedings of the 20th IEEE International Symposium on Computer-Based Medical Systems (**CBMS '07**), pp. 412-417. Maribor, Slovenia, June 20-23, 2007
 
 
     <br>
 
-    ### Workshops and national conferences
+    ## Workshops and national conferences
 
 [67] C. Domeniconi, F. Gullo, and A. Tagarelli. The Projective Clustering Ensemble
 Problem for Advanced Data Clustering. In Proceedings of the 25th Italian Symposium on Advanced Database Systems (SEBD ‘17). Squillace Lido (Catanzaro),
