@@ -427,36 +427,36 @@ In Proceedings of the 20th IEEE International Symposium on Computer-Based Medica
 
     ## Workshops and national conferences
 
-68. C. Domeniconi, F. Gullo, A. Tagarelli
-[The Projective Clustering Ensemble Problem for Advanced Data Clustering]()
+68. C. Domeniconi, F. Gullo, A. Tagarelli<br>
+[The Projective Clustering Ensemble Problem for Advanced Data Clustering]()<br>
 In Proceedings of the 25th Italian Symposium on Advanced Database Systems (**SEBD '17**). Squillace Lido (Catanzaro), Italy, June 25-29, 2017
 
 
-69. A. Freire, M. Manca, D. Saez-Trumper, D. Laniado, I. Bordino, F. Gullo, A. Kaltenbrunner
-[Graph-Based Breaking News Detection on Wikipedia]()
+69. A. Freire, M. Manca, D. Saez-Trumper, D. Laniado, I. Bordino, F. Gullo, A. Kaltenbrunner<br>
+[Graph-Based Breaking News Detection on Wikipedia]()<br>
 In Proceedings of the 2016 International Wiki Workshop, in conjunction with the 10th International AAAI Conference on Web and Social Media (**Wiki@ICWSM '16**). Cologne, Germany, May 17, 2016
 
 
-70. S. Greco, F. Gullo, G. Ponti, A. Tagarelli, G. Agapito
-[Clustering XML Documents: a Distributed Collaborative Approach]()
+70. S. Greco, F. Gullo, G. Ponti, A. Tagarelli, G. Agapito<br>
+[Clustering XML Documents: a Distributed Collaborative Approach]()<br>
 In Proceedings of the 18th Italian Symposium on Advanced Database Systems (**SEBD '10**), pp. 406-413. Rimini, Italy, June 20-23, 2010
 
 
-71. S. Greco, F. Gullo, G. Ponti, A. Tagarelli
-[Collaborative Clustering of XML Documents]()
+71. S. Greco, F. Gullo, G. Ponti, A. Tagarelli<br>
+[Collaborative Clustering of XML Documents]()<br>
 In Proceedings of the 1st International Workshop on Distributed XML Processing: Theory and Practice (**DXP '09**), in conjunction with the 38th International Conference on Parallel Processing (ICPP ‘09). Vienna, Austria, September 22-25, 2009
 
 
-72. F. Gullo, G. Ponti, A. Tagarelli, S. Greco
-[Information-Theoretic Hierarchical Clustering of Uncertain Data]()
+72. F. Gullo, G. Ponti, A. Tagarelli, S. Greco<br>
+[Information-Theoretic Hierarchical Clustering of Uncertain Data]()<br>
 In Proceedings of the 17th Italian Symposium on Advanced Database Systems (**SEBD '09**), pp. 273-280. Geneva, Italy, June 21-24, 2009
 
 
-73. F. Gullo, G. Ponti
-[Hierarchical Clustering of Uncertain Data]()
+73. F. Gullo, G. Ponti<br>
+[Hierarchical Clustering of Uncertain Data]()<br>
 In Doctoral Symposium in conjunction with the 14th GII Doctoral School on Advances in Databases, Cetraro, Italy, September 19, 2009
 
 
-74. F. Gullo, G. Ponti, A. Tagarelli, S. Greco
-[Accurate and Fast Similarity Detection in Time Series]()
+74. F. Gullo, G. Ponti, A. Tagarelli, S. Greco<br>
+[Accurate and Fast Similarity Detection in Time Series]()<br>
 In Proceedings of the 15th Italian Symposium on Advanced Database Systems (**SEBD '07**), pp. 172-183. Bari, Italy, June 17-20, 2007
