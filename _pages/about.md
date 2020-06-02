@@ -22,7 +22,6 @@ His work has been published in premier venues in the areas of AI, data science, 
 <br>
 He has also been active in serving the scientific community, by, e.g., being Workshop Chair of ICDM’16, organizing [MIDAS workshop](http://midas.portici.enea.it) @ECML-PKDD['16-'20], MultiClust mini-symposium @SDM'14, MultiClust workshop @KDD'13, 3Clust workshop @PAKDD'12), or being stably part of the program committee of major AI/data-science conferences (e.g., KDD, WWW, IJCAI, CIKM, SIGIR, ICDM, WSDM, SDM, ECML-PKDD, ICWSM).
 
-<br>
 
 Please see <a href="/files/CV_FrancescoGullo.pdf">here</a> (curriculum vitae) for more details.
 
