@@ -145,9 +145,10 @@ Computer Methods and Programs in Biomedicine (**CMPB**), 95(2 suppl.):S12-S21, 2
     ## International conferences (selected)
 
 
-21. D. Mandaglio, F. Gullo, A. Tagarelli<br>
-[In and Out: Optimizing Overall Interaction in Probabilistic Graphs under Clustering Constraints]()<br>
-In Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD '20**). San Diego, CA – USA, August 23-27, 2020 (TO APPEAR)
+21. D. Mandaglio, A. Tagarelli, F. Gullo<br>
+[In and Out: Optimizing Overall Interaction in Probabilistic Graphs under Clustering Constraints](https://doi.org/10.1145/3394486.3403190)<br>
+In Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD '20**). San Diego, CA – USA, August 23-27, 2020 (TO APPEAR)<br>
+[[pdf](/files/papers/KDD20.pdf)] [[code&data](https://github.com/Ralyhu/optimize_interactions)]
 
 
 22. E. Galimberti, A. Barrat, F. Bonchi, C. Cattuto, F. Gullo<br>
