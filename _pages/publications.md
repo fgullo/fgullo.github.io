@@ -20,7 +20,7 @@ Copyright of every publication is held by the corresponding publisher. PDFs are 
 ## International journals
 
 
-I. Bordino, F. Gullo, G. Legnaro<br>
+0. I. Bordino, F. Gullo, G. Legnaro<br>
 [Advancing Receivable Financing via a Network-based Approach]()<br> 
 IEEE Transactions on Network Science and Engineering (**TNSE**), 2020, TO APPEAR
 
