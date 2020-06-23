@@ -20,6 +20,11 @@ Copyright of every publication is held by the corresponding publisher. PDFs are 
 ## International journals
 
 
+I. Bordino, F. Gullo, G. Legnaro<br>
+[Advancing Receivable Financing via a Network-based Approach]()<br> 
+IEEE Transactions on Network Science and Engineering (**TNSE**), 2020, TO APPEAR
+
+
 1. I. Bordino, A. Ferretti, F. Gullo, S. Pascolutti<br>
 [GarNLP: A Natural Language Processing Pipeline for Garnishment Documents](http://dx.doi.org/10.1007/s10796-020-09997-0)<br>
 Information Systems Frontiers (**ISFI**), 2020, ONLINE<br>
@@ -28,7 +33,7 @@ Information Systems Frontiers (**ISFI**), 2020, ONLINE<br>
 
 2. E. Galimberti, F. Bonchi, F. Gullo, T. Lanciano<br>
 [Core Decomposition in Multilayer Networks: Theory, Algorithms, and Applications](http://dx.doi.org/10.1145/3369872)<br>
-Transactions on Knowledge Discovery from Data (**TKDD**), 14(1):11:1-11:40, 2020<br>
+ACM Transactions on Knowledge Discovery from Data (**TKDD**), 14(1):11:1-11:40, 2020<br>
 [[pdf](https://arxiv.org/abs/1812.08712)] [[code&data](https://github.com/egalimberti/multilayer_core_decomposition)]
 
 
@@ -81,7 +86,7 @@ Data Mining and Knowledge Discovery (**DAMI**), 29(5):1406-1433, 2015<br>
 
 11. F. Bonchi, A. Gionis, F. Gullo, C. Tsourakakis, A. Ukkonen<br> 
 [Chromatic Correlation Clustering](http://dx.doi.org/10.1145/2728170)<br> 
-Transactions on Knowledge Discovery from Data (**TKDD**), 9(4):34:1-34:24, 2015<br>
+ACM Transactions on Knowledge Discovery from Data (**TKDD**), 9(4):34:1-34:24, 2015<br>
 [[pdf](/files/papers/TKDD15.pdf)]
 
 
