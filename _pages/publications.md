@@ -22,7 +22,8 @@ Copyright of every publication is held by the corresponding publisher. PDFs are 
 
 0. I. Bordino, F. Gullo, G. Legnaro<br>
 [Advancing Receivable Financing via a Network-based Approach]()<br> 
-IEEE Transactions on Network Science and Engineering (**TNSE**), 2020, TO APPEAR
+IEEE Transactions on Network Science and Engineering (**TNSE**), 2020, TO APPEAR<br>
+[[pdf](/files/papers/TNSE20.pdf)] [[extended](https://arxiv.org/abs/2006.13738)]
 
 
 1. I. Bordino, A. Ferretti, F. Gullo, S. Pascolutti<br>
