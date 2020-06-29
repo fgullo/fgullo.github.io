@@ -446,43 +446,48 @@ In Proceedings of the 20th IEEE International Symposium on Computer-Based Medica
 
     ## Workshops and national conferences
 
-68. C. Domeniconi, F. Gullo, A. Tagarelli<br>
+68. X. Bai, B. B. Cambazoglu, F. Gullo, A. Mantrach, F. Silvestri<br>
+[Improving News Personalization Through Search Logs](https://doi.org/10.1007/978-3-030-52485-2_14)<br>
+In Proceedings of the 1st Workshop on Social Aspects in Personalization and Search (**SoAPS '18**), in conjunction with the 40th European Conference on Information Retrieval (ECIR '18). Grenoble, France, March 26-29, 2018.<br>
+[[pdf](/files/papers/SOAPS18.pdf)] [[slides](/files/slides/SOAPS18.pdf)]
+
+69. C. Domeniconi, F. Gullo, A. Tagarelli<br>
 [The Projective Clustering Ensemble Problem for Advanced Data Clustering](http://ceur-ws.org/Vol-2037/paper_28.pdf)<br>
 In Proceedings of the 25th Italian Symposium on Advanced Database Systems (**SEBD '17**). Squillace Lido (Catanzaro), Italy, June 25-29, 2017<br>
 [[pdf](http://ceur-ws.org/Vol-2037/paper_28.pdf)] [[code&data](https://github.com/fgullo/jpce)]
 
 
-69. A. Freire, M. Manca, D. Saez-Trumper, D. Laniado, I. Bordino, F. Gullo, A. Kaltenbrunner<br>
+70. A. Freire, M. Manca, D. Saez-Trumper, D. Laniado, I. Bordino, F. Gullo, A. Kaltenbrunner<br>
 [Graph-Based Breaking News Detection on Wikipedia](http://aaai.org/ocs/index.php/ICWSM/ICWSM16/paper/view/13198)<br>
 In Proceedings of the 2016 International Wiki Workshop, in conjunction with the 10th International AAAI Conference on Web and Social Media (**Wiki@ICWSM '16**). Cologne, Germany, May 17, 2016<br>
 [[pdf](https://aaai.org/ocs/index.php/ICWSM/ICWSM16/paper/view/13198/12870)] [[poster](/files/posters/WikiICWSM16.pdf)]
 
 
-70. S. Greco, F. Gullo, G. Ponti, A. Tagarelli, G. Agapito<br>
+71. S. Greco, F. Gullo, G. Ponti, A. Tagarelli, G. Agapito<br>
 [Clustering XML Documents: a Distributed Collaborative Approach]()<br>
 In Proceedings of the 18th Italian Symposium on Advanced Database Systems (**SEBD '10**), pp. 406-413. Rimini, Italy, June 20-23, 2010<br>
 [[pdf](/files/papers/SEBD10.pdf)] [[slides](/files/slides/SEBD10.pdf)]
 
 
-71. S. Greco, F. Gullo, G. Ponti, A. Tagarelli<br>
+72. S. Greco, F. Gullo, G. Ponti, A. Tagarelli<br>
 [Collaborative Clustering of XML Documents](https://doi.org/10.1109/ICPPW.2009.58)<br>
 In Proceedings of the 1st International Workshop on Distributed XML Processing: Theory and Practice (**DXP '09**), in conjunction with the 38th International Conference on Parallel Processing (ICPP ‘09). Vienna, Austria, September 22-25, 2009<br>
 [[pdf](/files/papers/DXP09.pdf)] [[slides](/files/slides/DXP09.pdf)]
 
 
-72. F. Gullo, G. Ponti, A. Tagarelli, S. Greco<br>
+73. F. Gullo, G. Ponti, A. Tagarelli, S. Greco<br>
 [Information-Theoretic Hierarchical Clustering of Uncertain Data]()<br>
 In Proceedings of the 17th Italian Symposium on Advanced Database Systems (**SEBD '09**), pp. 273-280. Geneva, Italy, June 21-24, 2009<br>
 [[pdf](/files/papers/SEBD09.pdf)] [[code](https://github.com/fgullo/jcludata)]
 
 
-73. F. Gullo, G. Ponti<br>
+74. F. Gullo, G. Ponti<br>
 [Hierarchical Clustering of Uncertain Data]()<br>
 In Doctoral Symposium in conjunction with the 14th GII Doctoral School on Advances in Databases, Cetraro, Italy, September 19, 2009<br>
 [[pdf](/files/papers/GII09.pdf)] [[slides](/files/slides/GII09.pdf)] [[code](https://github.com/fgullo/jcludata)]
 
 
-74. F. Gullo, G. Ponti, A. Tagarelli, S. Greco<br>
+75. F. Gullo, G. Ponti, A. Tagarelli, S. Greco<br>
 [Accurate and Fast Similarity Detection in Time Series]()<br>
 In Proceedings of the 15th Italian Symposium on Advanced Database Systems (**SEBD '07**), pp. 172-183. Bari, Italy, June 17-20, 2007<br>
 [[pdf](/files/papers/SEBD07.pdf)]
