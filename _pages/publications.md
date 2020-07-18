@@ -19,8 +19,14 @@ Copyright of every publication is held by the corresponding publisher. PDFs are 
 
 ## International journals
 
+0. E. Galimberti, M. Ciaperoni, A. Barrat, F. Bonchi, C. Cattuto, F. Gullo.<br>
+[Span-core Decomposition for Temporal Networks: Algorithms and Applications]()<br>
+ACM Transactions on Knowledge Discovery from Data (**TKDD**), 2020, TO APPEAR<br>
+[[pdf](https://arxiv.org/abs/1910.03645)]
+
+
 0. M. Ciaperoni, E. Galimberti, F. Bonchi, C. Cattuto, F. Gullo, A. Barrat<br>
-[Relevance of temporal cores for epidemic spread in temporal networks]()<br>
+[Relevance of temporal cores for epidemic spread in temporal networks](https://doi.org/10.1038/s41598-020-69464-3)<br>
 Scientific Reports (**SciRep**), 2020, TO APPEAR<br>
 [[pdf](http://arxiv.org/abs/2003.09377)]
 
