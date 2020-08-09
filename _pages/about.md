@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Francesco's Homepage!"
+title: "Welcome to Francesco Gullo's Homepage!"
 excerpt: "Personal website"
 author_profile: true
 redirect_from: 
