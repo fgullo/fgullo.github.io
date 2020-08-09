@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Francesco Gullo"
+title                    : "Francesco Gullo - Personal website"
 title_separator          : "-"
 name                     : &name "Francesco Gullo"
 description              : &description "Francesco Gullo's homepage - Francesco Gullo, PhD, researcher at UniCredit, R&D Department"
@@ -177,17 +177,23 @@ kramdown:
 
 
 # Collections
-collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
+#collections:
+#  teaching:
+#    output: true
+#    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+#  portfolio:
+#    output: true
+#    permalink: /:collection/:path/
+#  talks:
+#    output: true
+#   permalink: /:collection/:path/
+  research:
     output: true
     permalink: /:collection/:path/
-  talks:
+  service:
     output: true
     permalink: /:collection/:path/
 
@@ -195,16 +201,16 @@ collections:
 # Defaults
 defaults:
   # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+#  - scope:
+#      path: ""
+#      type: posts
+#    values:
+#      layout: single
+#      author_profile: true
+#      read_time: true
+#      comments: true
+#      share: true
+#      related: true
   # _pages
   - scope:
       path: ""
@@ -213,14 +219,14 @@ defaults:
       layout: single
       author_profile: true
   # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+#  - scope:
+#      path: ""
+#      type: teaching
+#    values:
+#      layout: single
+#      author_profile: true
+#      share: true
+#      comments: true
   # _publications
   - scope:
       path: ""
@@ -231,22 +237,38 @@ defaults:
       share: true
       comments: true
   # _portfolio
+#  - scope:
+#      path: ""
+#      type: portfolio
+#    values:
+#      layout: single
+#      author_profile: true
+#      share: true
+#      comment: true
+  # _talks
+#  - scope:
+#      path: ""
+#      type: talks
+#    values:
+#      layout: talk
+#      author_profile: true
+#      share: true
   - scope:
       path: ""
-      type: portfolio
+      type: research
     values:
       layout: single
       author_profile: true
       share: true
-      comment: true
-  # _talks
+      comments: true
   - scope:
       path: ""
-      type: talks
+      type: service
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
+      comments: true
 
 # Sass/SCSS
 sass:
