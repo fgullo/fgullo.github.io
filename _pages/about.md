@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Welcome to Francesco's Homepage!"
-excerpt: "About me"
+excerpt: "Personal website"
 author_profile: true
 redirect_from: 
   - /about/
@@ -21,7 +21,7 @@ He has been practicing both *applied research* (with a ~10-year work experience 
 He has also been active in serving the scientific community, by, e.g., being Workshop Chair of ICDM’16, organizing workshops/symposia ([MIDAS workshop](http://midas.portici.enea.it) @ECML-PKDD['16-'20], MultiClust symposium @SDM'14, MultiClust workshop @KDD'13, 3Clust workshop @PAKDD'12), or being stably part of the program committee of major AI/data-science conferences (e.g., KDD, WWW, IJCAI, CIKM, SIGIR, ICDM, WSDM, SDM, ECML-PKDD, ICWSM).
 
 
-Please see <a href="/files/CV_FrancescoGullo.pdf">here</a> (curriculum vitae) for more details.
+Please see <a href="/files/CV_FrancescoGullo.pdf">here (curriculum vitae)</a>  for more details.
 
 
 
