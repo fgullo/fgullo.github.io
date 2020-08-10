@@ -58,87 +58,86 @@ Editors: S. Consoli, D. Reforgiato Recupero, M. Salsana. Publisher: Springer Nat
 
 ## Program committees
 
-* International World Wide Web Conference (*WWW*) <br>
+* *International World Wide Web Conference* (*WWW*) <br>
 [2014, 2016-2021]
 
-* SIAM International Conference on Data Mining (*SDM*) <br>
+* *SIAM International Conference on Data Mining* (*SDM*) <br>
 [2012, 2014-2021]
 
-* ACM International Conference on Web Search and Data Mining (*WSDM*) <br>
+* *ACM International Conference on Web Search and Data Mining* (*WSDM*) <br>
 [2013-2014, 2020-2021]
 
-* ACM SIGKDD Int. Conf. on Knowledge Discovery and Data Mining (*KDD*) <br>
+* *ACM SIGKDD International Conference on Knowledge Discovery and Data Mining* (*KDD*) <br>
 [2014-2020]
 
-* IEEE International Conference on Data Mining (*ICDM*) <br>
+* *IEEE International Conference on Data Mining* (*ICDM*) <br>
 [2014-2016, 2018-2020]
 
-* ACM International Conference on Information and Knowledge Management (*CIKM*) (*Research Track, long papers*) <br>
+* *ACM International Conference on Information and Knowledge Management* (*CIKM*) (*Research Track, long papers*) <br>
 [2012-2020]
 
-* ACM International Conference on Information and Knowledge Management (*CIKM*) (*Research Track, short papers*) <br>
+* *ACM International Conference on Information and Knowledge Management* (*CIKM*) (*Research Track, short papers*) <br>
 [2019-2020]
 
-* International ACM SIGIR Conference on Research and Development in Information Retrieval (*SIGIR*) <br>
+* *International ACM SIGIR Conference on Research and Development in Information Retrieval* (*SIGIR*) <br>
 [2020]
 
-* International AAAI Conference on Web and Social Media (*ICWSM*) <br>
+* *International AAAI Conference on Web and Social Media* (*ICWSM*) <br>
 [2014, 2017-2020]
 
-* International Joint Conference on Artificial Intelligence - Pacific Rim International  <br> Conference on Artificial Intelligence (*IJCAI-PRICAI*) (*Special Track on AI in FinTech*) <br>
+* *International Joint Conference on Artificial Intelligence - Pacific Rim International Conference on Artificial Intelligence* (*IJCAI-PRICAI*) (*Special Track on AI in FinTech*) <br>
 [2020]
 
-* IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (*ASONAM*) <br>
+* *IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining* (*ASONAM*) <br>
 [2015-2020]
 
-* IEEE International Conference on Data Science and Advanced Analytics (*DSAA*)  <br> 
-(*Application Track*) \ [2019-2020]
+* *IEEE International Conference on Data Science and Advanced Analytics* (*DSAA*)  <br> 
+(*Application Track*) [2019-2020]
 
-* International Conference on Network Science (*NetSci*) <br>
+* *International Conference on Network Science* (*NetSci*) <br>
 [2020]
 
-* International Conference on machine Learning, Optimization and big Data (*LOD*) <br>
+* *International Conference on machine Learning, Optimization and big Data* (*LOD*) <br>
 [2017-2020]
 
-* International Workshop on Modeling and mining Social-Media-driven Complex Networks (*Soc2Net*), in conjunction with the
+* *International Workshop on Modeling and mining Social-Media-driven Complex Networks* (*Soc2Net*), in conjunction with the
 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (*ASONAM*) <br>
 [2019-2020]
 
-* European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (*ECML PKDD*) (*Research Track*)  <br>
-[2016-2019]
+* *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases* (*ECML PKDD*) <br> (*Research Track*) [2016-2019]
  
-* International Conference on Computational Data and Social Networks (*CSoNet*) <br>
+* *International Conference on Computational Data and Social Networks* (*CSoNet*) <br>
 [2019]
 
-* International Conference on Social Informatics (*SocInfo*) <br>
+* *International Conference on Social Informatics* (*SocInfo*) <br>
 [2019]
 
-* International Conference on Knowledge Discovery and Information Retrieval (*KDIR*) <br>
+* *International Conference on Knowledge Discovery and Information Retrieval* (*KDIR*) <br>
 [2016-2019]
 
-* International Workshop on Big Social Media Data Management and Analysis (*BSMDMA*), in conjunction with the International IEEE Conference on Big Data (*IEEE BigData*) and International Joint Conference on Artificial Intelligence (*IJCAI*) <br>
+* *International Workshop on Big Social Media Data Management and Analysis* (*BSMDMA*), in conjunction with the International IEEE Conference on Big Data (*IEEE BigData*) and International Joint Conference on Artificial Intelligence (*IJCAI*) <br>
 [2018-2019]
 
-* ACM International Conference on Information and Knowledge Management (*CIKM*) (*Industry/Case Studies Track*) <br>
+* *ACM International Conference on Information and Knowledge Management* (*CIKM*) (*Industry/Case Studies Track*) <br>
 [2017-2018]
 
-* European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (*ECML PKDD*) (*Applied Data Science Track*)  <br>[2015-2018]
+* *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases* (*ECML PKDD*) (*Applied Data Science Track*)  <br>[2015-2018]
 
-* International Conference on Mathematics and Statistics (*ICoMS*) <br>
+* *International Conference on Mathematics and Statistics* (*ICoMS*) <br>
 [2018]
 
-* International Workshop on Mining Attributed Networks (*MATNet*), in conjunction with the International World Wide Web Conference (*WWW*) <br>
+* *International Workshop on Mining Attributed Networks* (*MATNet*), in conjunction with the *International World Wide Web Conference* (*WWW*) <br>
 [2018]
 
-* Workshop on Social Aspects in Personalization and Search (*SoAPS*), in conjunction with the European Conference on Information Retrieval (*ECIR*) <br>
+* *Workshop on Social Aspects in Personalization and Search* (*SoAPS*), in conjunction with the *European Conference on Information Retrieval* (*ECIR*) <br>
 [2018]
 
-* IEEE International Conference on Big Knowledge (*ICBK*) <br>
+* *IEEE International Conference on Big Knowledge* (*ICBK*) <br>
 [2017]
 
-* IEEE Symposium on Computational Intelligence and Data Mining (*CIDM*) <br>
+* *IEEE Symposium on Computational Intelligence and Data Mining* (*CIDM*) <br>
 [2016]
 
-* 3rd MultiClust Workshop: Discovering, Summarizing and Using Multiple Clusterings, in conjunction with the SIAM International Conf. on Data Mining (*SDM '12*)
+* *3rd MultiClust Workshop: Discovering, Summarizing and Using Multiple Clusterings*, in conjunction with the *12th SIAM International Conference on Data Mining* (*SDM '12*)
 
-* International Conference on Emerging Intelligent Data and Web Technologies (*EIDWT '11*)
+* *International Conference on Emerging Intelligent Data and Web Technologies* (*EIDWT '11*)
