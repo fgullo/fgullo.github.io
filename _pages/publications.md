@@ -27,7 +27,7 @@ ACM Transactions on Knowledge Discovery from Data (**TKDD**), 2020, TO APPEAR<br
 
 0. M. Ciaperoni, E. Galimberti, F. Bonchi, C. Cattuto, F. Gullo, A. Barrat<br>
 [Relevance of temporal cores for epidemic spread in temporal networks](https://doi.org/10.1038/s41598-020-69464-3)<br>
-Scientific Reports (**SciRep**), 2020, TO APPEAR<br>
+Scientific Reports (**SciRep**), 2020, ONLINE<br>
 [[pdf](http://arxiv.org/abs/2003.09377)]
 
 
