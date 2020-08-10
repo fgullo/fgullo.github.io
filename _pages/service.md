@@ -32,3 +32,11 @@ In conjunction with the *19th ACM SIGKDD International Conference on Knowledge D
 * Program co-Chair <br>
 *1st International Workshop on  Multi-view data, High-dimensionality, External Knowledge: Striving for a Unified Approach to Clustering* (*3Clust '12*) <br>
 In conjunction with the *16th Pacific-Asia Conference on Knowledge Discovery and Data Mining* (*PAKDD '12*)
+
+
+
+## Editorial boards
+
+
+* Journal Track of the *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases* (*ECML PKDD JT*)<br>
+[2020]
