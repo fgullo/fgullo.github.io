@@ -34,9 +34,10 @@ In conjunction with the *19th ACM SIGKDD International Conference on Knowledge D
 In conjunction with the *16th Pacific-Asia Conference on Knowledge Discovery and Data Mining* (*PAKDD '12*)
 
 
+<br>
+
 
 ## Editorial boards
-
 
 * Journal Track of the *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases* (*ECML PKDD JT*)<br>
 [2020]
