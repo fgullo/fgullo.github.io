@@ -7,7 +7,10 @@ main:
     url: /research/
 
   - title: "Service"
-    url: /service/
+    url: /sciservice/
+
+#  - title: "Service"
+#    url: /service/
 
 #  - title: "Talks"
 #    url: /talks/    
