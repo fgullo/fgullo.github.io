@@ -70,7 +70,7 @@ Editors: S. Consoli, D. Reforgiato Recupero, M. Salsana. Publisher: Springer Nat
 * *ACM SIGKDD International Conference on Knowledge Discovery and Data Mining* (*KDD*) <br>
 [2014-2020]
 
-* *IEEE International Conference on Data Mining* (*ICDM*) <br>
+* *IEEE International Conference on Data Mining* (*IEEE ICDM*) <br>
 [2014-2016, 2018-2020]
 
 * *ACM International Conference on Information and Knowledge Management* (*CIKM*) (*Research Track, long papers*) <br>
@@ -141,3 +141,29 @@ IEEE/ACM International Conference on Advances in Social Networks Analysis and Mi
 * *3rd MultiClust Workshop: Discovering, Summarizing and Using Multiple Clusterings*, in conjunction with the *12th SIAM International Conference on Data Mining* (*SDM '12*)
 
 * *International Conference on Emerging Intelligent Data and Web Technologies* (*EIDWT '11*)
+
+
+<br>
+
+
+## Invited talks
+
+* *Data Science on Information-rich Graphs: New Frontiers, Problems, and Methods* <br>
+University of Milan <br>
+Milan, Italy, June 2019
+
+* *Mining Massive Complex Graphs: New Frontiers and Methods* <br>
+ISI Foundation <br>
+Turin, Italy, September 2015
+
+* *From Patterns in Data to Knowledge Discovery: what Data Mining can do* <br>
+3rd International Conference Frontiers in Diagnostic Technologies (*ICFDT '13*} <br>
+Frascati, Italy, November 25-27, 2013
+
+* *Projective Clustering Ensembles* <br>
+Yahoo Labs <br>
+Barcelona, Spain, September 2011
+
+* *Information-Theoretic Hierarchical Clustering of Uncertain Data* <br>
+George Mason University <br>
+Fairfax VA, USA, April 2009
