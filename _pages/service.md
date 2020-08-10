@@ -167,3 +167,16 @@ Barcelona, Spain, September 2011
 * *Information-Theoretic Hierarchical Clustering of Uncertain Data* <br>
 George Mason University <br>
 Fairfax VA, USA, April 2009
+
+
+<br>
+
+
+## External refereeing
+
+* Journals: <br>
+TKDE, TKDD, TPAMI, VLDBJ, MACH, DAMI, TIST, Information Systems, TWEB, TCSS, TBDATA, Pattern Recognition, Internet Mathematics, KAIS, Information Sciences, APNS, DKE, SAM, AI Communications, AI in Medicine, JOCS, Computational Intelligence, BDR, IJDSN, IJITDM, JINT, JIIS, EAAI, ADAC, Neural Networks, JDIQ, Information Fusion, IEEE Access
+
+* Conferences: <br>
+SIGMOD, KDD, WWW, ICDE, ICDM, WSDM, CIKM, EDBT, SDM, ECML PKDD, PAKDD, DaWaK, CIDM, EDB, IDEAS, SEBD
+}
