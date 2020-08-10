@@ -54,4 +54,49 @@ Editors: S. Consoli, D. Reforgiato Recupero, M. Salsana. Publisher: Springer Nat
 
 <br>
 
+## Program committees
 
+<br>
+
+
+## Invited talks
+
+* *Data Science on Information-rich Graphs: New Frontiers, Problems, and Methods* <br>
+University of Milan <br>
+Milan, Italy, June 2019
+
+* *Mining Massive Complex Graphs: New Frontiers and Methods* <br>
+ISI Foundation <br>
+Turin, Italy, September 2015
+
+* *From Patterns in Data to Knowledge Discovery: what Data Mining can do* <br>
+3rd International Conference Frontiers in Diagnostic Technologies (*ICFDT '13*} <br>
+Frascati, Italy, November 25-27, 2013
+
+* *Projective Clustering Ensembles* <br>
+Yahoo Labs <br>
+Barcelona, Spain, September 2011
+
+* *Information-Theoretic Hierarchical Clustering of Uncertain Data* <br>
+George Mason University <br>
+Fairfax VA, USA, April 2009
+
+
+<br>
+
+
+## External refereeing
+
+* Journals: <br>
+TKDE, TKDD, TPAMI, VLDBJ, MACH, DAMI, TIST, Information Systems, TWEB, TCSS, TBDATA, Pattern Recognition, Internet Mathematics, KAIS, Information Sciences, APNS, DKE, SAM, AI Communications, AI in Medicine, JOCS, Computational Intelligence, BDR, IJDSN, IJITDM, JINT, JIIS, EAAI, ADAC, Neural Networks, JDIQ, Information Fusion, IEEE Access
+
+* Conferences: <br>
+SIGMOD, KDD, WWW, ICDE, ICDM, WSDM, CIKM, EDBT, SDM, ECML PKDD, PAKDD, DaWaK, CIDM, EDB, IDEAS, SEBD
+
+
+<br>
+
+
+## Conference participation
+
+ECML-PKDD '19, BigNOMICS '19, CIKM '18, ECML-PKDD '18, ECML-PKDD '17, WIMS '17, IEEE BigData '16, ECML-PKDD '16, ECML-PKDD '14, KDD '14, EDBT '14, VLDB '12, SEBD '11, SIGMOD '11, ICDM '10, ICDM '09, IDEAS '09, SDM '09, ICDM '08, SUM '08, CBMS '07  
