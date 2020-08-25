@@ -164,13 +164,13 @@ Computer Methods and Programs in Biomedicine (**CMPB**), 95(2 suppl.):S12-S21, 2
 
 21. D. Mandaglio, A. Tagarelli, F. Gullo<br>
 [In and Out: Optimizing Overall Interaction in Probabilistic Graphs under Clustering Constraints](https://doi.org/10.1145/3394486.3403190)<br>
-In Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD '20**). San Diego, CA – USA, August 23-27, 2020 (TO APPEAR)<br>
+In Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD '20**), pp. 1371-1381. San Diego, CA – USA, August 23-27, 2020<br>
 [[pdf](/files/papers/KDD20.pdf)] [[slides](/files/slides/KDD20.pdf)] [[code&data](https://github.com/Ralyhu/optimize_interactions)]
 
 
 22. E. Galimberti, A. Barrat, F. Bonchi, C. Cattuto, F. Gullo<br>
 [Mining (maximal) Span-cores from Temporal Networks](https://doi.org/10.1145/3269206.3271767)<br>
-In Proceedings of the ACM International Conference on Knowledge and Information Management (**CIKM '18**). pp. 107- 116. Turin, Italy, October 22-26, 2018<br>
+In Proceedings of the ACM International Conference on Knowledge and Information Management (**CIKM '18**), pp. 107-116. Turin, Italy, October 22-26, 2018<br>
 [[pdf](http://arxiv.org/abs/1808.09376)] [[slides](/files/slides/CIKM18_SpanCores.pdf)] [[code&data](https://github.com/egalimberti/span_cores)]
 
 
