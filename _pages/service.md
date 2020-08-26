@@ -59,6 +59,9 @@ Editors: S. Consoli, D. Reforgiato Recupero, M. Salsana. Publisher: Springer Nat
 * *International World Wide Web Conference* (*WWW*) <br>
 [2014, 2016-2021]
 
+* *International Joint Conference on Artificial Intelligence* (*IJCAI*) <br>
+[2020-2021]
+
 * *SIAM International Conference on Data Mining* (*SDM*) <br>
 [2012, 2014-2021]
 
@@ -82,9 +85,6 @@ Editors: S. Consoli, D. Reforgiato Recupero, M. Salsana. Publisher: Springer Nat
 
 * *International AAAI Conference on Web and Social Media* (*ICWSM*) <br>
 [2014, 2017-2020]
-
-* *International Joint Conference on Artificial Intelligence - Pacific Rim International Conference on Artificial Intelligence* (*IJCAI-PRICAI*) (*Special Track on AI in FinTech*) <br>
-[2020]
 
 * *IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining* (*ASONAM*) <br>
 [2015-2020]
