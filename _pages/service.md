@@ -39,7 +39,7 @@ In conjunction with the *16th Pacific-Asia Conference on Knowledge Discovery and
 ## Editorial boards
 
 * Journal Track of the *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases* (*ECML PKDD JT*)<br>
-[2020]
+[2020-2021]
 
 
 <br>
