@@ -62,6 +62,9 @@ Editors: S. Consoli, D. Reforgiato Recupero, M. Salsana. Publisher: Springer Nat
 * *International Joint Conference on Artificial Intelligence* (*IJCAI*) <br>
 [2020-2021]
 
+* *AAAI Conference on Artificial Intelligence* (*AAAI*) <br>
+[2021]
+
 * *SIAM International Conference on Data Mining* (*SDM*) <br>
 [2012, 2014-2021]
 
