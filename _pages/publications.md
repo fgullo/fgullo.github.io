@@ -20,8 +20,8 @@ Copyright of every publication is held by the corresponding publisher. PDFs are 
 ## International journals
 
 0. E. Galimberti, M. Ciaperoni, A. Barrat, F. Bonchi, C. Cattuto, F. Gullo.<br>
-[Span-core Decomposition for Temporal Networks: Algorithms and Applications]()<br>
-ACM Transactions on Knowledge Discovery from Data (**TKDD**), 2020, TO APPEAR<br>
+[Span-core Decomposition for Temporal Networks: Algorithms and Applications](https://doi.org/10.1145/3418226)<br>
+ACM Transactions on Knowledge Discovery from Data (**TKDD**), 2020, ONLINE<br>
 [[pdf](https://arxiv.org/abs/1910.03645)]
 
 
