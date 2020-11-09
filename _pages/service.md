@@ -71,6 +71,9 @@ Editors: S. Consoli, D. Reforgiato Recupero, M. Salsana. Publisher: Springer Nat
 * *ACM International Conference on Web Search and Data Mining* (*WSDM*) <br>
 [2013-2014, 2020-2021]
 
+* *International ACM SIGIR Conference on Research and Development in Information Retrieval* (*SIGIR*) <br>
+[2020-2021]
+
 * *ACM SIGKDD International Conference on Knowledge Discovery and Data Mining* (*KDD*) <br>
 [2014-2020]
 
@@ -82,9 +85,6 @@ Editors: S. Consoli, D. Reforgiato Recupero, M. Salsana. Publisher: Springer Nat
 
 * *ACM International Conference on Information and Knowledge Management* (*CIKM*) (*Research Track, short papers*) <br>
 [2019-2020]
-
-* *International ACM SIGIR Conference on Research and Development in Information Retrieval* (*SIGIR*) <br>
-[2020]
 
 * *International AAAI Conference on Web and Social Media* (*ICWSM*) <br>
 [2014, 2017-2020]
