@@ -12,7 +12,7 @@ redirect_from:
 Francesco Gullo is a *senior researcher* at the [UniCredit](https://www.unicreditgroup.eu/en.html) financial group, specifically in the "*AI, Data & Analytics ICT*" department - "*Applied Research and Innovation*" unit of [UniCredit Services S.C.p.A.](https://www.unicreditgroup.eu/en/worldwide/our-worldwide-presence/europe/italy/unicredit-services-s-c-p-a-.html) Previously, he has been part of the "*R&D*" department of [UniCredit S.p.A.](https://www.unicreditgroup.eu/en/worldwide/our-worldwide-presence/europe/italy/unicredit.html) for 5 years.
 He received his PhD, in "*Computer and Systems Engineering*", from the [University of Calabria](https://www.unical.it), Italy, in 2010. 
 During his PhD, he was an *intern* at the [George Mason University](https://www2.gmu.edu), USA. 
-Before joining UniCredit, he spent 1.5 years in the *University of Calabria*, Italy (as a *postdoc*), and 4 years in the *Yahoo Labs*, Spain (as a *postdoc* first, and as a *research scientist* then).
+After his graduation, he spent 1.5 years in the *University of Calabria*, Italy (as a *postdoc*), and 4 years in the *Yahoo Labs*, Spain (as a *postdoc* first, and as a *research scientist* then).
 <br>
 His research falls into the broad areas of *artificial intelligence* and *data science*, with special emphasis on *algorithmic* aspects, i.e., on formulating novel problems, theoretically characterizing them, and designing/analyzing algorithms for their solution.
 His recent interests include *mining and learning on graphs*, *natural language processing*, *AI in finance*, and *(social) Web mining*.
