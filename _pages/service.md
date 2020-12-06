@@ -56,6 +56,9 @@ Editors: S. Consoli, D. Reforgiato Recupero, M. Salsana. Publisher: Springer Nat
 
 ## Program committees
 
+* *ACM SIGKDD International Conference on Knowledge Discovery and Data Mining* (*KDD*) <br>
+[2014-2021]
+
 * *International World Wide Web Conference* (*WWW*) <br>
 [2014, 2016-2021]
 
@@ -73,9 +76,6 @@ Editors: S. Consoli, D. Reforgiato Recupero, M. Salsana. Publisher: Springer Nat
 
 * *International ACM SIGIR Conference on Research and Development in Information Retrieval* (*SIGIR*) <br>
 [2020-2021]
-
-* *ACM SIGKDD International Conference on Knowledge Discovery and Data Mining* (*KDD*) <br>
-[2014-2020]
 
 * *IEEE International Conference on Data Mining* (*IEEE ICDM*) <br>
 [2014-2016, 2018-2020]
