@@ -330,6 +330,11 @@ In Proceedings of the 8th IEEE International Conference on Data Mining (**ICDM '
 
     ## Edited volumes
 
+ 48. V. Bitetta, I. Bordino, A. Ferretti, F. Gullo, G. Ponti, L. Severini<br>
+[Mining Data for Financial Applications - 5th ECML PKDD Workshop, MIDAS 2020](https://doi.org/10.1007/978-3-030-66981-2), co-located
+with the 2020 European Conference on Machine Learning and Principles and Practice of Knowledge Discovery (ECML-PKDD 2020), Ghent, Belgium, September 18, 2020<br>
+Lecture Notes in Computer Science (LNCS) 12591, Springer, 2021, ISBN 978-3-030-66980-5
+
 48. V. Bitetta, I. Bordino, A. Ferretti, F. Gullo, S. Pascolutti, G. Ponti<br>
 [Mining Data for Financial Applications - 4th ECML PKDD Workshop, MIDAS 2019](https://doi.org/10.1007/978-3-030-37720-5), co-located
 with the 2019 European Conference on Machine Learning and Principles and Practice of Knowledge Discovery (ECML-PKDD 2019), Wurzburg, Germany, September
