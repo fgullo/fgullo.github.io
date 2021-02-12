@@ -19,6 +19,12 @@ Copyright of every publication is held by the corresponding publisher. PDFs are 
 
 ## International journals
 
+1. I. Bordino, A. Ferretti, F. Gullo, S. Pascolutti<br>
+[GarNLP: A Natural Language Processing Pipeline for Garnishment Documents](http://dx.doi.org/10.1007/s10796-020-09997-0)<br>
+Information Systems Frontiers (**ISFI**), 23(1):101-114, 2021<br>
+[[pdf](/files/papers/ISFI20.pdf)] [[poster](/files/posters/ISFI20.pdf)]
+
+
 0. E. Galimberti, M. Ciaperoni, A. Barrat, F. Bonchi, C. Cattuto, F. Gullo.<br>
 [Span-core Decomposition for Temporal Networks: Algorithms and Applications](https://doi.org/10.1145/3418226)<br>
 ACM Transactions on Knowledge Discovery from Data (**TKDD**), 2020, ONLINE<br>
@@ -35,12 +41,6 @@ Scientific Reports (**SciRep**), 2020, ONLINE<br>
 [Advancing Receivable Financing via a Network-based Approach](http://dx.doi.org/10.1109/TNSE.2020.3005612)<br> 
 IEEE Transactions on Network Science and Engineering (**TNSE**), 2020, ONLINE<br>
 [[pdf](/files/papers/TNSE20.pdf)] [[extended](https://arxiv.org/abs/2006.13738)]
-
-
-1. I. Bordino, A. Ferretti, F. Gullo, S. Pascolutti<br>
-[GarNLP: A Natural Language Processing Pipeline for Garnishment Documents](http://dx.doi.org/10.1007/s10796-020-09997-0)<br>
-Information Systems Frontiers (**ISFI**), 2020, ONLINE<br>
-[[pdf](/files/papers/ISFI20.pdf)] [[poster](/files/posters/ISFI20.pdf)]
 
 
 2. E. Galimberti, F. Bonchi, F. Gullo, T. Lanciano<br>
@@ -62,7 +62,7 @@ IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 30(11):2078-2092
 
 5. A. Tagarelli, A. Amelio, F. Gullo<br>
 [Ensemble-based Community Detection in Multilayer Networks](http://dx.doi.org/10.1007/s10618-017-0528-8)<br> 
-Data Mining and Knowledge Discovery (**DAMI**), 31(5):1506- 1543, 2017<br>
+Data Mining and Knowledge Discovery (**DAMI**), 31(5):1506-1543, 2017<br>
 [[pdf](/files/papers/DAMI17.pdf)] [[slides](/files/slides/DAMI17.pdf)] [[code&data](http://people.dimes.unical.it/andreatagarelli/emcd/)]
 
 
