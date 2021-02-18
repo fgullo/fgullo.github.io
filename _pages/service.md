@@ -74,8 +74,13 @@ Editors: S. Consoli, D. Reforgiato Recupero, M. Salsana. Publisher: Springer Nat
 * *ACM International Conference on Web Search and Data Mining* (*WSDM*) <br>
 [2013-2014, 2020-2021]
 
+* *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases* (*ECML PKDD*) <br> (*Research Track*) [2016-2019, 2021]
+
 * *International ACM SIGIR Conference on Research and Development in Information Retrieval* (*SIGIR*) <br>
 [2020-2021]
+
+* *International AAAI Conference on Web and Social Media* (*ICWSM*) <br>
+[2014, 2017-2021]
 
 * *IEEE International Conference on Data Mining* (*IEEE ICDM*) <br>
 [2014-2016, 2018-2020]
@@ -85,9 +90,6 @@ Editors: S. Consoli, D. Reforgiato Recupero, M. Salsana. Publisher: Springer Nat
 
 * *ACM International Conference on Information and Knowledge Management* (*CIKM*) (*Research Track, short papers*) <br>
 [2019-2020]
-
-* *International AAAI Conference on Web and Social Media* (*ICWSM*) <br>
-[2014, 2017-2020]
 
 * *IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining* (*ASONAM*) <br>
 [2015-2020]
@@ -104,8 +106,6 @@ Editors: S. Consoli, D. Reforgiato Recupero, M. Salsana. Publisher: Springer Nat
 * *International Workshop on Modeling and mining Social-Media-driven Complex Networks* (*Soc2Net*), in conjunction with the
 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (*ASONAM*) <br>
 [2019-2020]
-
-* *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases* (*ECML PKDD*) <br> (*Research Track*) [2016-2019]
  
 * *International Conference on Computational Data and Social Networks* (*CSoNet*) <br>
 [2019]
