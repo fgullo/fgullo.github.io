@@ -76,6 +76,8 @@ Editors: S. Consoli, D. Reforgiato Recupero, M. Salsana. Publisher: Springer Nat
 
 * *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases* (*ECML PKDD*) <br> (*Research Track*) [2016-2019, 2021]
 
+* *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases* (*ECML PKDD*) (*Applied Data Science Track*)  <br>[2015-2018, 2021]
+
 * *International ACM SIGIR Conference on Research and Development in Information Retrieval* (*SIGIR*) <br>
 [2020-2021]
 
@@ -121,8 +123,6 @@ IEEE/ACM International Conference on Advances in Social Networks Analysis and Mi
 
 * *ACM International Conference on Information and Knowledge Management* (*CIKM*) (*Industry/Case Studies Track*) <br>
 [2017-2018]
-
-* *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases* (*ECML PKDD*) (*Applied Data Science Track*)  <br>[2015-2018]
 
 * *International Conference on Mathematics and Statistics* (*ICoMS*) <br>
 [2018]
