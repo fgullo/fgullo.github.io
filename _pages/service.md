@@ -14,8 +14,8 @@ author_profile: true
 16th IEEE International Conference on Data Mining (*IEEE ICDM '16*)
 
 * Program co-Chair<br>
-*[1st, 2nd, 3rd, 4th, 5th]* [*Workshop on  MIning DAta for financial applicationS*](http://midas.portici.enea.it) (*MIDAS ['16, '17, '18, '19, '20]*) <br>
-In conjunction with the *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery* (*ECML-PKDD ['16, '17, '18, '19, '20]*)
+*[1st, 2nd, 3rd, 4th, 5th, 6th]* [*Workshop on  MIning DAta for financial applicationS*](http://midas.portici.enea.it) (*MIDAS ['16, '17, '18, '19, '20, '21]*) <br>
+In conjunction with the *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery* (*ECML-PKDD ['16, '17, '18, '19, '20, '21]*)
 
 * Industrial Session co-Chair <br>
 *[2nd, 3rd] International Conference on Machine Learning, Optimization and Big Data* (*MOD ['16, '17]*)
@@ -38,8 +38,13 @@ In conjunction with the *16th Pacific-Asia Conference on Knowledge Discovery and
 
 ## Editorial boards
 
-* Journal Track of the *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases* (*ECML PKDD JT*)<br>
+* Guest Editor <br>
+Journal Track of the *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases* (*ECML PKDD JT*)<br>
 [2020-2021]
+
+* Associate Editor <br>
+*Frontiers in Big Data* journal <br>
+*Data Mining and Management* section
 
 
 <br>
@@ -56,23 +61,29 @@ Editors: S. Consoli, D. Reforgiato Recupero, M. Salsana. Publisher: Springer Nat
 
 ## Program committees
 
+* *International Joint Conference on Artificial Intelligence* (*IJCAI*) <br>
+[2020-2022]
+
+* *AAAI Conference on Artificial Intelligence* (*AAAI*) <br>
+[2021-2022]
+
+* *ACM International Conference on Web Search and Data Mining* (*WSDM*) <br>
+[2013-2014, 2020-2022]
+
 * *ACM SIGKDD International Conference on Knowledge Discovery and Data Mining* (*KDD*) <br>
 [2014-2021]
 
 * *International World Wide Web Conference* (*WWW*) <br>
 [2014, 2016-2021]
 
-* *International Joint Conference on Artificial Intelligence* (*IJCAI*) <br>
-[2020-2021]
+* *ACM International Conference on Information and Knowledge Management* (*CIKM*) (*Research Track, long papers*) <br>
+[2012-2021]
 
-* *AAAI Conference on Artificial Intelligence* (*AAAI*) <br>
-[2021]
+* *IEEE International Conference on Data Mining* (*IEEE ICDM*) <br>
+[2014-2016, 2018-2021]
 
 * *SIAM International Conference on Data Mining* (*SDM*) <br>
 [2012, 2014-2021]
-
-* *ACM International Conference on Web Search and Data Mining* (*WSDM*) <br>
-[2013-2014, 2020-2021]
 
 * *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases* (*ECML PKDD*) <br> (*Research Track*) [2016-2019, 2021]
 
@@ -84,11 +95,8 @@ Editors: S. Consoli, D. Reforgiato Recupero, M. Salsana. Publisher: Springer Nat
 * *International AAAI Conference on Web and Social Media* (*ICWSM*) <br>
 [2014, 2017-2021]
 
-* *IEEE International Conference on Data Mining* (*IEEE ICDM*) <br>
-[2014-2016, 2018-2020]
-
-* *ACM International Conference on Information and Knowledge Management* (*CIKM*) (*Research Track, long papers*) <br>
-[2012-2020]
+* *IEEE International Conference on Data Science and Advanced Analytics* (*DSAA*) (Special Session on *Data Science Approaches for Modeling, Analyzing and Mining Networks on Networks*) [2021] <br>
+[2021]
 
 * *ACM International Conference on Information and Knowledge Management* (*CIKM*) (*Research Track, short papers*) <br>
 [2019-2020]
@@ -148,6 +156,11 @@ IEEE/ACM International Conference on Advances in Social Networks Analysis and Mi
 
 
 ## Invited talks
+
+* *Dense Subgraph Discovery in Temporal Networks* <br>
+Workshop on *Algorithmic Aspects of Temporal Graphs IV* <br>
+*48th Int. Colloq. on Automata, Languages, and Programming* (*ICALP '21*) <br>
+Virtual Event, July 2021
 
 * *Data Science on Information-rich Graphs: New Frontiers, Problems, and Methods* <br>
 University of Milan <br>

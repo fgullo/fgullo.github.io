@@ -19,6 +19,12 @@ Copyright of every publication is held by the corresponding publisher. PDFs are 
 
 ## International journals
 
+0. I. Bordino, F. Gullo, G. Legnaro<br>
+[Advancing Receivable Financing via a Network-based Approach](http://dx.doi.org/10.1109/TNSE.2020.3005612)<br> 
+IEEE Transactions on Network Science and Engineering (**TNSE**), 8(2):1328-1337, 2021<br>
+[[pdf](/files/papers/TNSE20.pdf)] [[extended](https://arxiv.org/abs/2006.13738)]
+
+
 1. I. Bordino, A. Ferretti, F. Gullo, S. Pascolutti<br>
 [GarNLP: A Natural Language Processing Pipeline for Garnishment Documents](http://dx.doi.org/10.1007/s10796-020-09997-0)<br>
 Information Systems Frontiers (**ISFI**), 23(1):101-114, 2021<br>
@@ -35,12 +41,6 @@ ACM Transactions on Knowledge Discovery from Data (**TKDD**), 2020, ONLINE<br>
 [Relevance of temporal cores for epidemic spread in temporal networks](https://doi.org/10.1038/s41598-020-69464-3)<br>
 Scientific Reports (**SciRep**), 2020, ONLINE<br>
 [[pdf](http://arxiv.org/abs/2003.09377)]
-
-
-0. I. Bordino, F. Gullo, G. Legnaro<br>
-[Advancing Receivable Financing via a Network-based Approach](http://dx.doi.org/10.1109/TNSE.2020.3005612)<br> 
-IEEE Transactions on Network Science and Engineering (**TNSE**), 2020, ONLINE<br>
-[[pdf](/files/papers/TNSE20.pdf)] [[extended](https://arxiv.org/abs/2006.13738)]
 
 
 2. E. Galimberti, F. Bonchi, F. Gullo, T. Lanciano<br>
@@ -160,6 +160,11 @@ Computer Methods and Programs in Biomedicine (**CMPB**), 95(2 suppl.):S12-S21, 2
 
 
     ## International conferences (selected)
+
+21. D. Mandaglio, A. Tagarelli, F. Gullo<br> 
+[Correlation Clustering with Global Weight Bounds]()<br>
+In Proceedings of the European Conference on Machine Learning and Prin-ciples and Practice of Knowledge Discovery in Databases (**ECML-PKDD '21**). Bilbao, Spain, September 13-17, 2021. TO APPEAR<br>
+[[pdf](/files/papers/ECMLPKDD21.pdf)] [[slides](/files/slides/ECMLPKDD21.pdf)] [[poster](/files/posters/ECMLPKDD21.pdf)] [[code&data](https://github.com/Ralyhu/globalCC)]
 
 
 21. D. Mandaglio, A. Tagarelli, F. Gullo<br>
