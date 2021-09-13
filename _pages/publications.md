@@ -19,6 +19,12 @@ Copyright of every publication is held by the corresponding publisher. PDFs are 
 
 ## International journals
 
+0. E. Galimberti, M. Ciaperoni, A. Barrat, F. Bonchi, C. Cattuto, F. Gullo.<br>
+[Span-core Decomposition for Temporal Networks: Algorithms and Applications](https://doi.org/10.1145/3418226)<br>
+ACM Transactions on Knowledge Discovery from Data (**TKDD**), 15(1):2:1-2:44, 2021<br>
+[[pdf](https://arxiv.org/abs/1910.03645)]
+
+
 0. I. Bordino, F. Gullo, G. Legnaro<br>
 [Advancing Receivable Financing via a Network-based Approach](http://dx.doi.org/10.1109/TNSE.2020.3005612)<br> 
 IEEE Transactions on Network Science and Engineering (**TNSE**), 8(2):1328-1337, 2021<br>
@@ -29,12 +35,6 @@ IEEE Transactions on Network Science and Engineering (**TNSE**), 8(2):1328-1337,
 [GarNLP: A Natural Language Processing Pipeline for Garnishment Documents](http://dx.doi.org/10.1007/s10796-020-09997-0)<br>
 Information Systems Frontiers (**ISFI**), 23(1):101-114, 2021<br>
 [[pdf](/files/papers/ISFI20.pdf)] [[poster](/files/posters/ISFI20.pdf)]
-
-
-0. E. Galimberti, M. Ciaperoni, A. Barrat, F. Bonchi, C. Cattuto, F. Gullo.<br>
-[Span-core Decomposition for Temporal Networks: Algorithms and Applications](https://doi.org/10.1145/3418226)<br>
-ACM Transactions on Knowledge Discovery from Data (**TKDD**), 2020, ONLINE<br>
-[[pdf](https://arxiv.org/abs/1910.03645)]
 
 
 0. M. Ciaperoni, E. Galimberti, F. Bonchi, C. Cattuto, F. Gullo, A. Barrat<br>
@@ -162,8 +162,8 @@ Computer Methods and Programs in Biomedicine (**CMPB**), 95(2 suppl.):S12-S21, 2
     ## International conferences (selected)
 
 21. D. Mandaglio, A. Tagarelli, F. Gullo<br> 
-[Correlation Clustering with Global Weight Bounds]()<br>
-In Proceedings of the European Conference on Machine Learning and Prin-ciples and Practice of Knowledge Discovery in Databases (**ECML-PKDD '21**). Bilbao, Spain, September 13-17, 2021. TO APPEAR<br>
+[Correlation Clustering with Global Weight Bounds](https://doi.org/10.1007/978-3-030-86520-7_31)<br>
+In Proceedings of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (**ECML-PKDD '21**), pp. 1371-1381. Bilbao, Spain, September 13-17, 2021<br>
 [[pdf](/files/papers/ECMLPKDD21.pdf)] [[slides](/files/slides/ECMLPKDD21.pdf)] [[poster](/files/posters/ECMLPKDD21.pdf)] [[code&data](https://github.com/Ralyhu/globalCC)]
 
 

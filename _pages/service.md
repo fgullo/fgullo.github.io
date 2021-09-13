@@ -61,6 +61,9 @@ Editors: S. Consoli, D. Reforgiato Recupero, M. Salsana. Publisher: Springer Nat
 
 ## Program committees
 
+* *International World Wide Web Conference* (*WWW*) <br>
+[2014, 2016-2022]
+
 * *International Joint Conference on Artificial Intelligence* (*IJCAI*) <br>
 [2020-2022]
 
@@ -72,9 +75,6 @@ Editors: S. Consoli, D. Reforgiato Recupero, M. Salsana. Publisher: Springer Nat
 
 * *ACM SIGKDD International Conference on Knowledge Discovery and Data Mining* (*KDD*) <br>
 [2014-2021]
-
-* *International World Wide Web Conference* (*WWW*) <br>
-[2014, 2016-2021]
 
 * *ACM International Conference on Information and Knowledge Management* (*CIKM*) (*Research Track, long papers*) <br>
 [2012-2021]
