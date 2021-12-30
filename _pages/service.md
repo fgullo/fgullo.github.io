@@ -40,7 +40,7 @@ In conjunction with the *16th Pacific-Asia Conference on Knowledge Discovery and
 
 * Guest Editor <br>
 Journal Track of the *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases* (*ECML PKDD JT*)<br>
-[2020-2021]
+[2020-2022]
 
 * Associate Editor <br>
 *Frontiers in Big Data* journal <br>
@@ -61,8 +61,14 @@ Editors: S. Consoli, D. Reforgiato Recupero, M. Salsana. Publisher: Springer Nat
 
 ## Program committees
 
+* *ACM SIGMOD International Conference on Management of Data* (*SIGMOD*) <br>
+(*research* track) [2022]
+
+* *ACM SIGKDD International Conference on Knowledge Discovery and Data Mining* (*KDD*) <br>
+(*research* track) [2014-2022]
+
 * *International World Wide Web Conference* (*WWW*) <br>
-[2014, 2016-2022]
+(*social network analysis and graph algorithms* track) [2014, 2016-2022]
 
 * *International Joint Conference on Artificial Intelligence* (*IJCAI*) <br>
 [2020-2022]
@@ -70,42 +76,41 @@ Editors: S. Consoli, D. Reforgiato Recupero, M. Salsana. Publisher: Springer Nat
 * *AAAI Conference on Artificial Intelligence* (*AAAI*) <br>
 [2021-2022]
 
+* *SIAM International Conference on Data Mining* (*SDM*) <br>
+[2012, 2014-2022]
+
 * *ACM International Conference on Web Search and Data Mining* (*WSDM*) <br>
 [2013-2014, 2020-2022]
 
-* *ACM SIGKDD International Conference on Knowledge Discovery and Data Mining* (*KDD*) <br>
-[2014-2021]
+* *International AAAI Conference on Web and Social Media* (*ICWSM*) <br>
+[2014, 2017-2022]
 
-* *ACM International Conference on Information and Knowledge Management* (*CIKM*) (*Research Track, long papers*) <br>
-[2012-2021]
+* *ACM International Conference on Information and Knowledge Management* (*CIKM*) <br> 
+(*research* track, *long papers*) [2012-2021]
 
 * *IEEE International Conference on Data Mining* (*IEEE ICDM*) <br>
 [2014-2016, 2018-2021]
 
-* *SIAM International Conference on Data Mining* (*SDM*) <br>
-[2012, 2014-2021]
+* *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases* (*ECML PKDD*) <br> 
+(*research* track) [2016-2019, 2021]
 
-* *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases* (*ECML PKDD*) <br> (*Research Track*) [2016-2019, 2021]
-
-* *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases* (*ECML PKDD*) (*Applied Data Science Track*)  <br>[2015-2018, 2021]
+* *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases* (*ECML PKDD*) <br> 
+(*applied data science* track) [2015-2018, 2021]
 
 * *International ACM SIGIR Conference on Research and Development in Information Retrieval* (*SIGIR*) <br>
 [2020-2021]
 
-* *International AAAI Conference on Web and Social Media* (*ICWSM*) <br>
-[2014, 2017-2021]
+* *IEEE International Conference on Data Science and Advanced Analytics* (*DSAA*) <br> 
+(*data science approaches for modeling, analyzing and mining networks on networks* special session) [2021]
 
-* *IEEE International Conference on Data Science and Advanced Analytics* (*DSAA*) (Special Session on *Data Science Approaches for Modeling, Analyzing and Mining Networks on Networks*) [2021] <br>
-[2021]
-
-* *ACM International Conference on Information and Knowledge Management* (*CIKM*) (*Research Track, short papers*) <br>
-[2019-2020]
+* *ACM International Conference on Information and Knowledge Management* (*CIKM*) <br> 
+(*research* track, *short papers*) [2019-2020]
 
 * *IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining* (*ASONAM*) <br>
 [2015-2020]
 
 * *IEEE International Conference on Data Science and Advanced Analytics* (*DSAA*)  <br> 
-(*Application Track*) [2019-2020]
+(*application* track) [2019-2020]
 
 * *International Conference on Network Science* (*NetSci*) <br>
 [2020]
@@ -129,8 +134,8 @@ IEEE/ACM International Conference on Advances in Social Networks Analysis and Mi
 * *International Workshop on Big Social Media Data Management and Analysis* (*BSMDMA*), in conjunction with the International IEEE Conference on Big Data (*IEEE BigData*) and International Joint Conference on Artificial Intelligence (*IJCAI*) <br>
 [2018-2019]
 
-* *ACM International Conference on Information and Knowledge Management* (*CIKM*) (*Industry/Case Studies Track*) <br>
-[2017-2018]
+* *ACM International Conference on Information and Knowledge Management* (*CIKM*) <br> 
+(*industry/case studies* track) [2017-2018]
 
 * *International Conference on Mathematics and Statistics* (*ICoMS*) <br>
 [2018]
@@ -156,6 +161,10 @@ IEEE/ACM International Conference on Advances in Social Networks Analysis and Mi
 
 
 ## Invited talks
+
+* *Network-based Receivable Financing* <br>
+Scuola Normale Superiore <br>
+Virtual Seminar, December 2021
 
 * *Dense Subgraph Discovery in Temporal Networks* <br>
 Workshop on *Algorithmic Aspects of Temporal Graphs IV* <br>
@@ -200,4 +209,4 @@ SIGMOD, KDD, WWW, ICDE, ICDM, WSDM, CIKM, EDBT, SDM, ECML PKDD, PAKDD, DaWaK, CI
 
 ## Conference participation
 
-ECML-PKDD '20, ECML-PKDD '19, BigNOMICS '19, CIKM '18, ECML-PKDD '18, ECML-PKDD '17, WIMS '17, IEEE BigData '16, ECML-PKDD '16, ECML-PKDD '14, KDD '14, EDBT '14, VLDB '12, SEBD '11, SIGMOD '11, ICDM '10, ICDM '09, IDEAS '09, SDM '09, ICDM '08, SUM '08, CBMS '07  
+CIKM '21, ECML-PKDD '21, ECML-PKDD '20, ECML-PKDD '19, BigNOMICS '19, CIKM '18, ECML-PKDD '18, ECML-PKDD '17, WIMS '17, IEEE BigData '16, ECML-PKDD '16, ECML-PKDD '14, KDD '14, EDBT '14, VLDB '12, SEBD '11, SIGMOD '11, ICDM '10, ICDM '09, IDEAS '09, SDM '09, ICDM '08, SUM '08, CBMS '07  
