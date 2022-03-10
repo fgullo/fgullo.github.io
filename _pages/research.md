@@ -17,7 +17,7 @@ As far as data types, special emphasis has been given to *graphs*, *text*, and *
 
 More specifically, his recent research interests include:
 
-* Mining and learning on graphs
+* Graph mining and graph learning
     + graph embedding; graph neural networks; explainability in graph learning; graph similarity learning; mining and learning on blockchain graphs; dense-subgraph discovery; mining/querying information-rich graphs (e.g., temporal/knowledge//multi-layer/uncertain graphs); reachability/distance queries on graphs; graph pattern mining; graph clustering; querying graph databases; link prediction
 * Natural Language Processing (NLP)
     + word embeddings; privacy-preserving text analysis; sentiment analysis; text summarization; document categorization; entity recognition and disambiguation; information extraction from text

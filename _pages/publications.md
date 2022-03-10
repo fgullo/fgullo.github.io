@@ -333,7 +333,25 @@ In Proceedings of the 8th IEEE International Conference on Data Mining (**ICDM '
     <br>
 
 
+    ## Books
+
+48. F. Bonchi, D. Garcia Soriano, F. Gullo<br> 
+[Correlation Clustering](http://dx.doi.org/10.2200/S01163ED1V01Y202201DMK019)<br>
+Synthesis Lectures on Data Mining and Knowledge Discovery, Morgan & Claypool Publishers, 2022
+
+
+    <br>
+
+
     ## Edited volumes
+
+48. Kamp *et al.*<br>
+[Machine Learning and Principles and Practice of Knowledge Discovery in Databases - International Workshops of ECML PKDD 2021, Proceedings, Part I](https://doi.org/10.1007/978-3-030-93736-2)<br>
+Communications in Computer and Information Science (CCIS) 1524, Springer, 2021, ISBN 978-3-030-93735-5
+
+48. Kamp *et al.*<br>
+[Machine Learning and Principles and Practice of Knowledge Discovery in Databases - International Workshops of ECML PKDD 2021, Proceedings, Part II](https://doi.org/10.1007/978-3-030-93733-1)<br>
+Communications in Computer and Information Science (CCIS) 1525, Springer, 2021, ISBN 978-3-030-93732-4
 
  48. V. Bitetta, I. Bordino, A. Ferretti, F. Gullo, G. Ponti, L. Severini<br>
 [Mining Data for Financial Applications - 5th ECML PKDD Workshop, MIDAS 2020](https://doi.org/10.1007/978-3-030-66981-2), co-located

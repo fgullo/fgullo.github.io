@@ -70,6 +70,9 @@ Editors: S. Consoli, D. Reforgiato Recupero, M. Salsana. Publisher: Springer Nat
 * *International World Wide Web Conference* (*WWW*) <br>
 (*social network analysis and graph algorithms* track) [2014, 2016-2022]
 
+* *ACM International Conference on Information and Knowledge Management* (*CIKM*) <br> 
+(*research* track, *long papers*) [2012-2022]
+
 * *International Joint Conference on Artificial Intelligence* (*IJCAI*) <br>
 [2020-2022]
 
@@ -85,17 +88,20 @@ Editors: S. Consoli, D. Reforgiato Recupero, M. Salsana. Publisher: Springer Nat
 * *International AAAI Conference on Web and Social Media* (*ICWSM*) <br>
 [2014, 2017-2022]
 
-* *ACM International Conference on Information and Knowledge Management* (*CIKM*) <br> 
-(*research* track, *long papers*) [2012-2021]
+* *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases* (*ECML PKDD*) <br> 
+(*research* track) [2016-2019, 2021-2022]
+
+* *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases* (*ECML PKDD*) <br> 
+(*applied data science* track) [2015-2018, 2021-2022]
+
+* *International Conference on Discovery Science* (*DS*) <br>
+[2022]
+
+* *Italian Symposium on Advanced Database Systems* (*SEBD*) <br>
+[2022]
 
 * *IEEE International Conference on Data Mining* (*IEEE ICDM*) <br>
 [2014-2016, 2018-2021]
-
-* *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases* (*ECML PKDD*) <br> 
-(*research* track) [2016-2019, 2021]
-
-* *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases* (*ECML PKDD*) <br> 
-(*applied data science* track) [2015-2018, 2021]
 
 * *International ACM SIGIR Conference on Research and Development in Information Retrieval* (*SIGIR*) <br>
 [2020-2021]
@@ -198,7 +204,7 @@ Fairfax VA, USA, April 2009
 ## External refereeing
 
 * Journals: <br>
-TKDE, TKDD, TPAMI, VLDBJ, MACH, DAMI, TIST, Information Systems, TWEB, TCSS, TBDATA, Pattern Recognition, Internet Mathematics, Nature Communications, KAIS, Information Sciences, APNS, DKE, SAM, AI Communications, AI in Medicine, JOCS, Computational Intelligence, BDR, IJDSN, IJITDM, JINT, JIIS, EAAI, ADAC, Neural Networks, JDIQ, Information Fusion, IEEE Access
+TKDE, TKDD, TPAMI, VLDBJ, MACH, DAMI, TIST, Information Systems, TWEB, TCSS, TBDATA, Pattern Recognition, Internet Mathematics, Nature Communications, KAIS, Information Sciences, APNS, DKE, SAM, AI Communications, AI in Medicine, JOCS, Computational Intelligence, BDR, IJDSN, IJITDM, JINT, JIIS, EAAI, ADAC, Neural Networks, JDIQ, Information Fusion, IEEE Access, ISSI
 
 * Conferences: <br>
 SIGMOD, KDD, WWW, ICDE, ICDM, WSDM, CIKM, EDBT, SDM, ECML PKDD, PAKDD, DaWaK, CIDM, EDB, IDEAS, SEBD
