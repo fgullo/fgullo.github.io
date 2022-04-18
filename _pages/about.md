@@ -24,6 +24,9 @@ He has also been serving the scientific community, by, e.g., being Workshop Chai
 Please see <a href="/files/CV_FrancescoGullo.pdf">here (curriculum vitae)</a>  for more details.
 
 
+<b>NEW!</b> <a href="https://www.morganclaypoolpublishers.com/catalog_Orig/product_info.php?products_id=1706">Correlation Clustering book</a>
+
+
 
 
 
