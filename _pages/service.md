@@ -14,8 +14,8 @@ author_profile: true
 16th IEEE International Conference on Data Mining (*IEEE ICDM '16*)
 
 * Program co-Chair<br>
-*[1st, 2nd, 3rd, 4th, 5th, 6th]* [*Workshop on  MIning DAta for financial applicationS*](http://midas.portici.enea.it) (*MIDAS ['16, '17, '18, '19, '20, '21]*) <br>
-In conjunction with the *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery* (*ECML-PKDD ['16, '17, '18, '19, '20, '21]*)
+*[1st, 2nd, 3rd, 4th, 5th, 6th, 7th]* [*Workshop on  MIning DAta for financial applicationS*](http://midas.portici.enea.it) (*MIDAS ['16, '17, '18, '19, '20, '21, '22']*) <br>
+In conjunction with the *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery* (*ECML-PKDD ['16, '17, '18, '19, '20, '21, '22']*)
 
 * Industrial Session co-Chair <br>
 *[2nd, 3rd] International Conference on Machine Learning, Optimization and Big Data* (*MOD ['16, '17]*)
@@ -79,6 +79,9 @@ Editors: S. Consoli, D. Reforgiato Recupero, M. Salsana. Publisher: Springer Nat
 * *AAAI Conference on Artificial Intelligence* (*AAAI*) <br>
 [2021-2022]
 
+* *IEEE International Conference on Data Mining* (*IEEE ICDM*) <br>
+[2014-2016, 2018-2022]
+
 * *SIAM International Conference on Data Mining* (*SDM*) <br>
 [2012, 2014-2022]
 
@@ -94,20 +97,20 @@ Editors: S. Consoli, D. Reforgiato Recupero, M. Salsana. Publisher: Springer Nat
 * *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases* (*ECML PKDD*) <br> 
 (*applied data science* track) [2015-2018, 2021-2022]
 
+* *IEEE International Conference on Data Science and Advanced Analytics* (*DSAA*) <br> 
+(*special sessions* track) [2021-2022]
+
 * *International Conference on Discovery Science* (*DS*) <br>
 [2022]
 
 * *Italian Symposium on Advanced Database Systems* (*SEBD*) <br>
 [2022]
 
-* *IEEE International Conference on Data Mining* (*IEEE ICDM*) <br>
-[2014-2016, 2018-2021]
+* *Open data Science fOr FOod Security* (*Open-SOFOS*) Workshop, in conjunction with the *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases* (*ECML PKDD*)<br>
+[2022]
 
 * *International ACM SIGIR Conference on Research and Development in Information Retrieval* (*SIGIR*) <br>
 [2020-2021]
-
-* *IEEE International Conference on Data Science and Advanced Analytics* (*DSAA*) <br> 
-(*data science approaches for modeling, analyzing and mining networks on networks* special session) [2021]
 
 * *ACM International Conference on Information and Knowledge Management* (*CIKM*) <br> 
 (*research* track, *short papers*) [2019-2020]
@@ -125,7 +128,7 @@ Editors: S. Consoli, D. Reforgiato Recupero, M. Salsana. Publisher: Springer Nat
 [2017-2020]
 
 * *International Workshop on Modeling and mining Social-Media-driven Complex Networks* (*Soc2Net*), in conjunction with the
-IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (*ASONAM*) <br>
+*IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining* (*ASONAM*) <br>
 [2019-2020]
  
 * *International Conference on Computational Data and Social Networks* (*CSoNet*) <br>
@@ -137,7 +140,7 @@ IEEE/ACM International Conference on Advances in Social Networks Analysis and Mi
 * *International Conference on Knowledge Discovery and Information Retrieval* (*KDIR*) <br>
 [2016-2019]
 
-* *International Workshop on Big Social Media Data Management and Analysis* (*BSMDMA*), in conjunction with the International IEEE Conference on Big Data (*IEEE BigData*) and International Joint Conference on Artificial Intelligence (*IJCAI*) <br>
+* *International Workshop on Big Social Media Data Management and Analysis* (*BSMDMA*), in conjunction with the *International IEEE Conference on Big Data* (*IEEE BigData*) and *International Joint Conference on Artificial Intelligence* (*IJCAI*) <br>
 [2018-2019]
 
 * *ACM International Conference on Information and Knowledge Management* (*CIKM*) <br> 
@@ -158,7 +161,7 @@ IEEE/ACM International Conference on Advances in Social Networks Analysis and Mi
 * *IEEE Symposium on Computational Intelligence and Data Mining* (*CIDM*) <br>
 [2016]
 
-* *3rd MultiClust Workshop: Discovering, Summarizing and Using Multiple Clusterings*, in conjunction with the *12th SIAM International Conference on Data Mining* (*SDM '12*)
+* *3rd MultiClust Workshop: Discovering, Summarizing and Using Multiple Clusterings*, in conjunction with the *SIAM International Conference on Data Mining* (*SDM '12*)
 
 * *International Conference on Emerging Intelligent Data and Web Technologies* (*EIDWT '11*)
 

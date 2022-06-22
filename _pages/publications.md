@@ -485,6 +485,10 @@ In Proceedings of the 20th IEEE International Symposium on Computer-Based Medica
 
     ## Workshops and national conferences
 
+68. D. Mandaglio, A. Tagarelli, F. Gullo<br>
+[Correlation Clustering: from Local to Global Constraints](). In Proceedings of the 30th Italian Symposium on Advanced Database Systems (SEBD '22). Tirrenia (Pisa), Italy, June 19-22, 2022.<br>
+[[pdf](/files/papers/SEBD22.pdf)]
+
 68. X. Bai, B. B. Cambazoglu, F. Gullo, A. Mantrach, F. Silvestri<br>
 [Improving News Personalization Through Search Logs](https://doi.org/10.1007/978-3-030-52485-2_14)<br>
 In Proceedings of the 1st Workshop on Social Aspects in Personalization and Search (**SoAPS '18**), in conjunction with the 40th European Conference on Information Retrieval (ECIR '18). Grenoble, France, March 26-29, 2018.<br>
