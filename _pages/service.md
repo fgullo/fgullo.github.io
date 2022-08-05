@@ -61,6 +61,9 @@ Editors: S. Consoli, D. Reforgiato Recupero, M. Salsana. Publisher: Springer Nat
 
 ## Program committees
 
+* *ACM International Conference on Web Search and Data Mining* (*WSDM*) <br>
+[2013-2014, 2020-2023]
+
 * *ACM SIGMOD International Conference on Management of Data* (*SIGMOD*) <br>
 (*research* track) [2022]
 
@@ -84,9 +87,6 @@ Editors: S. Consoli, D. Reforgiato Recupero, M. Salsana. Publisher: Springer Nat
 
 * *SIAM International Conference on Data Mining* (*SDM*) <br>
 [2012, 2014-2022]
-
-* *ACM International Conference on Web Search and Data Mining* (*WSDM*) <br>
-[2013-2014, 2020-2022]
 
 * *International AAAI Conference on Web and Social Media* (*ICWSM*) <br>
 [2014, 2017-2022]

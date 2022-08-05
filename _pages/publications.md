@@ -415,6 +415,12 @@ In XML Data Mining: Models, Methods, and Applications, IGI Global, 2012, pp. 449
 
     ## Other international conferences
 
+
+57. F. Gullo, L. La Cava, D. Mandaglio, A. Tagarelli<br>
+[When Correlation Clustering Meets Fairness Constraints]()<br>
+In Proceedings of the International Conference on Discovery Science (**DS '22**). Montpellier, France, October 10-12, 2022<br>
+[[pdf]()] [[slides]()] [[code&data]()]
+
 57. C. Di Crescenzo, G. Gavazzi, G. Legnaro, E. Troccoli, I. Bordino, F. Gullo<br>
 [HERMEVENT: A News Collection for Emerging-Event Detection](https://doi.org/10.1145/3102254.3102262)<br>
 In Proceedings of the International Conference on Web Intelligence, Mining and Semantics (**WIMS '17**). Amantea, Italy, June 19-22, 2017<br>
@@ -486,7 +492,7 @@ In Proceedings of the 20th IEEE International Symposium on Computer-Based Medica
     ## Workshops and national conferences
 
 68. D. Mandaglio, A. Tagarelli, F. Gullo<br>
-[Correlation Clustering: from Local to Global Constraints](). In Proceedings of the 30th Italian Symposium on Advanced Database Systems (SEBD '22). Tirrenia (Pisa), Italy, June 19-22, 2022.<br>
+[Correlation Clustering: from Local to Global Constraints](http://bilioso.isti.cnr.it/sebd2022/preprint/SEBD_2022_Camera-ready_PDF_43.pdf). In Proceedings of the 30th Italian Symposium on Advanced Database Systems (SEBD '22). Tirrenia (Pisa), Italy, June 19-22, 2022.<br>
 [[pdf](/files/papers/SEBD22.pdf)]
 
 68. X. Bai, B. B. Cambazoglu, F. Gullo, A. Mantrach, F. Silvestri<br>
