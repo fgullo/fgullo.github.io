@@ -492,7 +492,7 @@ In Proceedings of the 20th IEEE International Symposium on Computer-Based Medica
     ## Workshops and national conferences
 
 68. D. Mandaglio, A. Tagarelli, F. Gullo<br>
-[Correlation Clustering: from Local to Global Constraints](http://bilioso.isti.cnr.it/sebd2022/preprint/SEBD_2022_Camera-ready_PDF_43.pdf). In Proceedings of the 30th Italian Symposium on Advanced Database Systems (SEBD '22). Tirrenia (Pisa), Italy, June 19-22, 2022.<br>
+[Correlation Clustering: from Local to Global Constraints](http://ceur-ws.org/Vol-3194/paper52.pdf). In Proceedings of the 30th Italian Symposium on Advanced Database Systems (SEBD '22). Tirrenia (Pisa), Italy, June 19-22, 2022.<br>
 [[pdf](/files/papers/SEBD22.pdf)]
 
 68. X. Bai, B. B. Cambazoglu, F. Gullo, A. Mantrach, F. Silvestri<br>
