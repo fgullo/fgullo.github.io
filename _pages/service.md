@@ -49,6 +49,13 @@ Journal Track of the *European Conference on Machine Learning and Principles and
 
 <br>
 
+## Distinguished reviewer boards
+
+* *ACM Transactions on the Web* (*TWEB*)<br>
+Appointed for [2022–2024]
+
+
+<br>
 
 ## Scientific committees
 
@@ -61,6 +68,12 @@ Editors: S. Consoli, D. Reforgiato Recupero, M. Salsana. Publisher: Springer Nat
 
 ## Program committees
 
+* *International World Wide Web Conference* (*WWW*) <br>
+(*social network analysis and graph algorithms* track) [2014, 2016-2023]
+
+* *SIAM International Conference on Data Mining* (*SDM*) <br>
+[2012, 2014-2023]
+
 * *ACM International Conference on Web Search and Data Mining* (*WSDM*) <br>
 [2013-2014, 2020-2023]
 
@@ -69,9 +82,6 @@ Editors: S. Consoli, D. Reforgiato Recupero, M. Salsana. Publisher: Springer Nat
 
 * *ACM SIGKDD International Conference on Knowledge Discovery and Data Mining* (*KDD*) <br>
 (*research* track) [2014-2022]
-
-* *International World Wide Web Conference* (*WWW*) <br>
-(*social network analysis and graph algorithms* track) [2014, 2016-2022]
 
 * *ACM International Conference on Information and Knowledge Management* (*CIKM*) <br> 
 (*research* track, *long papers*) [2012-2022]
@@ -207,7 +217,7 @@ Fairfax VA, USA, April 2009
 ## External refereeing
 
 * Journals: <br>
-TKDE, TKDD, TPAMI, VLDBJ, MACH, DAMI, TIST, Information Systems, TWEB, TCSS, TBDATA, Pattern Recognition, Internet Mathematics, Nature Communications, KAIS, Information Sciences, APNS, DKE, SAM, AI Communications, AI in Medicine, JOCS, Computational Intelligence, BDR, IJDSN, IJITDM, JINT, JIIS, EAAI, ADAC, Neural Networks, JDIQ, Information Fusion, IEEE Access, ISSI
+TKDE, TKDD, TPAMI, VLDBJ, MACH, DAMI, TIST, Information Systems, TWEB, TCSS, TBDATA, Pattern Recognition, Internet Mathematics, Nature Communications, AIRE, KAIS, Information Sciences, APNS, DKE, SAM, AI Communications, AI in Medicine, JOCS, Computational Intelligence, BDR, IJDSN, IJITDM, JINT, JIIS, EAAI, ADAC, Neural Networks, JDIQ, Information Fusion, IEEE Access, ISSI
 
 * Conferences: <br>
 SIGMOD, KDD, WWW, ICDE, ICDM, WSDM, CIKM, EDBT, SDM, ECML PKDD, PAKDD, DaWaK, CIDM, EDB, IDEAS, SEBD
@@ -218,4 +228,4 @@ SIGMOD, KDD, WWW, ICDE, ICDM, WSDM, CIKM, EDBT, SDM, ECML PKDD, PAKDD, DaWaK, CI
 
 ## Conference participation
 
-CIKM '21, ECML-PKDD '21, ECML-PKDD '20, ECML-PKDD '19, BigNOMICS '19, CIKM '18, ECML-PKDD '18, ECML-PKDD '17, WIMS '17, IEEE BigData '16, ECML-PKDD '16, ECML-PKDD '14, KDD '14, EDBT '14, VLDB '12, SEBD '11, SIGMOD '11, ICDM '10, ICDM '09, IDEAS '09, SDM '09, ICDM '08, SUM '08, CBMS '07  
+ECML-PKDD '22, CIKM '21, ECML-PKDD '21, ECML-PKDD '20, ECML-PKDD '19, BigNOMICS '19, CIKM '18, ECML-PKDD '18, ECML-PKDD '17, WIMS '17, IEEE BigData '16, ECML-PKDD '16, ECML-PKDD '14, KDD '14, EDBT '14, VLDB '12, SEBD '11, SIGMOD '11, ICDM '10, ICDM '09, IDEAS '09, SDM '09, ICDM '08, SUM '08, CBMS '07  

@@ -17,6 +17,7 @@ As far as data types, special emphasis has been given to *graphs*, *text*, and *
 
 More specifically, his recent research interests include:
 
+<!-->
 * Graph mining and graph learning
     + graph embedding; graph neural networks; explainability in graph learning; graph similarity learning; mining and learning on blockchain graphs; dense-subgraph discovery; mining/querying information-rich graphs (e.g., temporal/knowledge//multi-layer/uncertain graphs); reachability/distance queries on graphs; graph pattern mining; graph clustering; querying graph databases; link prediction
 * Natural Language Processing (NLP)
@@ -26,3 +27,15 @@ More specifically, his recent research interests include:
     + social-network analysis;  information propagation in online services;  community search/detection;  social-influence analysis;  personalization of online services;  log analysis 
 
 In the past he has also focused on topics/problems such as *mining high-dimensional and multifaceted data* (i.e., projective/subspace clustering, clustering ensembles, projective clustering ensembles), *uncertainty in data mining & machine learning*, *time-series data management*, *bioinformatics*, *XML data management*.
+<!-->
+
+* Graph learning
+    + graph representation learning (a.k.a. graph embedding); graph neural networks; machine/graph learning for combinatorial optimization; deep/reinforcement learning paradigms for graph clustering; graph classification;
+* Combinatorial optimization on graphs
+    + dense-subgraph discovery; graph summarization; reachability/distance queries on graphs; graph pattern mining; graph clustering; querying graph databases; link prediction;
+* Ethics and trustworthiness in data management and AI (algorithmic fairness, explainable AI, interpretability, transparency, privacy, responsible AI, sustainable AI)
+* Natural Language Processing (NLP)
+    + word embeddings; sentiment analysis; sentiment transfer; text summarization; document categorization; entity recognition and disambiguation; information extraction from text;
+* AI in finance
+
+Other topics/problems he has focused on in the past include (*social*) *Web mining* (e.g., discovering polarized communities, social-network analysis, information propagation in online services, community search/detection, social-influence analysis, personalization of online services), *mining high-dimensional and multifaceted data* (i.e., projective/subspace clustering, clustering ensembles, projective clustering ensembles), *uncertainty in data mining & machine learning*, *time-series data management*, *bioinformatics*, *XML data management*.
