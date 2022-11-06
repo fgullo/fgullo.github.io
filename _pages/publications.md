@@ -417,9 +417,9 @@ In XML Data Mining: Models, Methods, and Applications, IGI Global, 2012, pp. 449
 
 
 57. F. Gullo, L. La Cava, D. Mandaglio, A. Tagarelli<br>
-[When Correlation Clustering Meets Fairness Constraints]()<br>
+[When Correlation Clustering Meets Fairness Constraints](https://doi.org/10.1007/978-3-031-18840-4_22)<br>
 In Proceedings of the International Conference on Discovery Science (**DS '22**). Montpellier, France, October 10-12, 2022<br>
-[[pdf]()] [[slides]()] [[code&data]()]
+[[pdf](/files/papers/DS22.pdf)]
 
 57. C. Di Crescenzo, G. Gavazzi, G. Legnaro, E. Troccoli, I. Bordino, F. Gullo<br>
 [HERMEVENT: A News Collection for Emerging-Event Detection](https://doi.org/10.1145/3102254.3102262)<br>

@@ -10,6 +10,9 @@ author_profile: true
 
 ## Organization
 
+* Finance Chair <br>
+33rd ACM International Conference on Information and Knowledge Management (*CIKM'24*)
+
 * Workshop co-Chair <br>
 16th IEEE International Conference on Data Mining (*IEEE ICDM '16*)
 
@@ -40,7 +43,7 @@ In conjunction with the *16th Pacific-Asia Conference on Knowledge Discovery and
 
 * Guest Editor <br>
 Journal Track of the *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases* (*ECML PKDD JT*)<br>
-[2020-2022]
+[2020-2023]
 
 * Associate Editor <br>
 *Frontiers in Big Data* journal <br>
@@ -68,6 +71,9 @@ Editors: S. Consoli, D. Reforgiato Recupero, M. Salsana. Publisher: Springer Nat
 
 ## Program committees
 
+* *ACM SIGMOD International Conference on Management of Data* (*SIGMOD*) <br>
+(*research* track) [2022, 2024]
+
 * *International World Wide Web Conference* (*WWW*) <br>
 (*social network analysis and graph algorithms* track) [2014, 2016-2023]
 
@@ -76,9 +82,6 @@ Editors: S. Consoli, D. Reforgiato Recupero, M. Salsana. Publisher: Springer Nat
 
 * *ACM International Conference on Web Search and Data Mining* (*WSDM*) <br>
 [2013-2014, 2020-2023]
-
-* *ACM SIGMOD International Conference on Management of Data* (*SIGMOD*) <br>
-(*research* track) [2022]
 
 * *ACM SIGKDD International Conference on Knowledge Discovery and Data Mining* (*KDD*) <br>
 (*research* track) [2014-2022]
