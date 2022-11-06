@@ -11,7 +11,7 @@ author_profile: true
 ## Organization
 
 * Finance Chair <br>
-33rd ACM International Conference on Information and Knowledge Management (*CIKM'24*)
+33rd ACM International Conference on Information and Knowledge Management (*CIKM '24*)
 
 * Workshop co-Chair <br>
 16th IEEE International Conference on Data Mining (*IEEE ICDM '16*)
