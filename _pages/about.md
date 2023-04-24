@@ -25,7 +25,7 @@ He has also been serving the scientific community: he was/is/will be Finance Cha
 Please see <a href="/files/CV_FrancescoGullo.pdf">here (curriculum vitae)</a>  for more details.
 
 
-<b>NEW!</b> <a href="https://www.morganclaypoolpublishers.com/catalog_Orig/product_info.php?products_id=1706">Correlation Clustering book</a>
+<b>NEW!</b> <a href="https://link.springer.com/book/10.1007/978-3-031-79210-6">Correlation Clustering book</a>
 
 
 
