@@ -19,6 +19,14 @@ Copyright of every publication is held by the corresponding publisher. PDFs are 
 
 ## International journals
 
+0. F. Gullo, D. Mandaglio, A. Tagarelli<br>
+[A Combinatorial Multi-Armed Bandit Approach to Correlation Clustering]()<br>
+Data Mining and Knowledge Discovery (**DAMI**), 2023, TO APPEAR 
+
+0. J. Layne, J. Carpenter, E. Serra, F. Gullo<br>
+[Temporal SIR-GN: Efficient and Effective Structural Representation Learning for Temporal Graphs]()<br>
+Proceedings of the VLDB Endowment (**PVLDB**), 2023, TO APPEAR
+
 0. E. Galimberti, M. Ciaperoni, A. Barrat, F. Bonchi, C. Cattuto, F. Gullo.<br>
 [Span-core Decomposition for Temporal Networks: Algorithms and Applications](https://doi.org/10.1145/3418226)<br>
 ACM Transactions on Knowledge Discovery from Data (**TKDD**), 15(1):2:1-2:44, 2021<br>
@@ -344,6 +352,15 @@ Synthesis Lectures on Data Mining and Knowledge Discovery, Morgan & Claypool Pub
 
 
     ## Edited volumes
+
+
+48. Koprinska *et al.*<br> 
+[Machine Learning and Principles and Practice of Knowledge Discovery in Databases - International Workshops of ECML PKDD 2022, Proceedings, Part I](https://doi.org/10.1007/978-3-031-23618-1)<br>
+Communications in Computer and Information Science (CCIS) 1752, Springer, 2023, ISBN 978-3-031-23617-4
+
+48. Koprinska *et al.*<br> 
+[Machine Learning and Principles and Practice of Knowledge Discovery in Databases - International Workshops of ECML PKDD 2022, Proceedings, Part II](https://doi.org/10.1007/978-3-031-23633-4)<br>
+Communications in Computer and Information Science (CCIS) 1753, Springer, 2023, ISBN 978-3-031-23632-7
 
 48. Kamp *et al.*<br>
 [Machine Learning and Principles and Practice of Knowledge Discovery in Databases - International Workshops of ECML PKDD 2021, Proceedings, Part I](https://doi.org/10.1007/978-3-030-93736-2)<br>
