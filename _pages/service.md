@@ -104,8 +104,6 @@ Editors: S. Consoli, D. Reforgiato Recupero, M. Salsana. Publisher: Springer Nat
 * *ACM International Conference on Information and Knowledge Management* (*CIKM*) <br> 
 (*research* track, *long papers*) [2012-2022]
 
-
-
 * *AAAI Conference on Artificial Intelligence* (*AAAI*) <br>
 [2021-2022]
 
@@ -123,6 +121,32 @@ Editors: S. Consoli, D. Reforgiato Recupero, M. Salsana. Publisher: Springer Nat
 
 * *ACM International Conference on Information and Knowledge Management* (*CIKM*) <br> 
 (*industry/case studies* track) [2017-2018]
+
+<br>
+
+## Program committees (other conferences & workshops)
+
+SEBD [2022--2023]; 
+FRCCS [2023];  
+DSAA - *special sessions* track [2021--2022];  
+DSAA - *applications* track [2019--2020]; 
+DS [2022]; 
+ASONAM [2015--2020]; 
+NetSci [2020]; 
+LOD [2017--2020]; 
+CSoNet [2019]; 
+SocInfo [2019]; 
+KDIR [2016--2019]; 
+ICoMS [2018]; 
+ICBK [2017]; 
+CIDM [2016]; 
+EIDWT [2011]; 
+Open-SOFOS Work. @ECML-PKDD [2022]; 
+Soc2Net Work. @ASONAM [2019--2020]; 
+BSMDMA Work. @IEEE BigData and @IJCAI [2018--2019]; 
+MATNet Work. @WWW [2018]; 
+SoAPS Work. @ECIR [2018]; 
+MultiClust Work.@SDM [2012]
 
 
 <br>
@@ -159,33 +183,6 @@ Barcelona, Spain, September 2011
 George Mason University <br>
 Fairfax VA, USA, April 2009
 
-<br>
-
-## Program committees (other conferences & workshops)
-
-SEBD [2022--2023]; 
-FRCCS [2023];  
-DSAA -- \emph{special sessions} track [2021--2022];  
-DSAA -- \emph{applications} track [2019--2020]; 
-DS [2022]; 
-ASONAM [2015--2020]; 
-NetSci [2020]; 
-LOD [2017--2020]; 
-CSoNet [2019]; 
-SocInfo [2019]; 
-KDIR [2016--2019]; 
-ICoMS [2018]; 
-ICBK [2017]; 
-CIDM [2016]; 
-EIDWT [2011]; 
-Open-SOFOS Work. @ECML-PKDD [2022]; 
-Soc2Net Work. @ASONAM [2019--2020]; 
-BSMDMA Work. @IEEE BigData and @IJCAI [2018--2019]; 
-MATNet Work. @WWW [2018]; 
-SoAPS Work. @ECIR [2018]; 
-MultiClust Work.@SDM [2012]
-
-
 
 <br>
 
@@ -204,4 +201,4 @@ SIGMOD, KDD, WWW, ICDE, ICDM, WSDM, CIKM, EDBT, SDM, ECML PKDD, PAKDD, DaWaK, CI
 
 ## Conference participation
 
-ECML-PKDD '22, CIKM '21, ECML-PKDD '21, ECML-PKDD '20, ECML-PKDD '19, BigNOMICS '19, CIKM '18, ECML-PKDD '18, ECML-PKDD '17, WIMS '17, IEEE BigData '16, ECML-PKDD '16, ECML-PKDD '14, KDD '14, EDBT '14, VLDB '12, SEBD '11, SIGMOD '11, ICDM '10, ICDM '09, IDEAS '09, SDM '09, ICDM '08, SUM '08, CBMS '07  
+ECML-PKDD '23, ECML-PKDD '22, CIKM '21, ECML-PKDD '21, ECML-PKDD '20, ECML-PKDD '19, BigNOMICS '19, CIKM '18, ECML-PKDD '18, ECML-PKDD '17, WIMS '17, IEEE BigData '16, ECML-PKDD '16, ECML-PKDD '14, KDD '14, EDBT '14, VLDB '12, SEBD '11, SIGMOD '11, ICDM '10, ICDM '09, IDEAS '09, SDM '09, ICDM '08, SUM '08, CBMS '07  
