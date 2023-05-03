@@ -10,7 +10,7 @@ redirect_from:
 
 
 Francesco Gullo is a *senior associate researcher* at the [UniCredit](https://www.unicreditgroup.eu/en.html) banking group.
-He joined UniCredit in 2015, and, since then, he has been part of departments/units focusing on research and development in the areas of artificial intelligence and data science: the "*R&D*" department first (for 5 years), the "*Applied Research & Innovation*" unit of the "*AI, Data & Analytics ICT*" department then (for 2 years), and the "*Data & Innovation*" unit of the "*Data Science & AI*" department now (since September 2022).
+He joined UniCredit in 2015, and, since then, he has been part of departments/units focusing on research and development in the areas of artificial intelligence and data science: the "*R&D*" department first (for 5 years), the "*Applied Research & Innovation*" unit of the "*AI, Data & Analytics ICT*" department then (for 2 years), and the "*Group Data & Intelligence*" department now (since September 2022).
 He received his PhD, in "*Computer and Systems Engineering*", from the [University of Calabria](https://www.unical.it)  (Italy), in 2010. 
 During his PhD, he was an *intern* at the [George Mason University](https://www2.gmu.edu) (US), and a teaching/research assistant at the University of Catanzaro (Italy).
 After his graduation, he was a *postdoc* at the University of Calabria (Italy),  a *postdoc* and a *research scientist* at the *Yahoo Labs* (Spain), and a *research scientist* at the *Fundacio Barcelona Media* (Spain).
