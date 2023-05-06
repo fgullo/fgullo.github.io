@@ -17,9 +17,9 @@ As far as data types, special emphasis has been given to *graphs*, *text*, and *
 
 More specifically, his recent research interests include:
 
-* Graph learning
+* Graph machine learning
     + graph representation learning (a.k.a. graph embedding); graph neural networks; machine/graph learning for combinatorial optimization; deep/reinforcement learning paradigms for graph clustering; graph classification;
-* Combinatorial optimization on graphs
+* Graph data management
     + dense-subgraph discovery; graph summarization; reachability/distance queries on graphs; graph pattern mining; graph clustering; querying graph databases; link prediction;
 * Natural Language Processing (NLP)
     + large language models; natural language generation; question answering; word embeddings; text classification; information extraction from text; sentiment analysis/transfer; text summarization; entity recognition and disambiguation;

@@ -16,8 +16,8 @@ During his PhD, he was an *intern* at the [George Mason University](https://www2
 After his graduation, he was a *postdoc* at the University of Calabria (Italy),  a *postdoc* and a *research scientist* at the *Yahoo Labs* (Spain), and a *research scientist* at the *Fundacio Barcelona Media* (Spain).
 <br>
 His research falls into the broad areas of *artificial intelligence* and *data science*, with emphasis on *algorithmic* aspects, i.e., on formulating novel problems, theoretically characterizing them, and designing/analyzing algorithms.
-His recent interests include *graph mining and learning*, *natural language processing*, and *trustworthy AI*.
-He has been practicing both *fundamental research* (with ~90 publications, mostly in premier venues such as SIGMOD, VLDB, KDD, ICDM, CIKM, EDBT, WSDM, ECML-PKDD, SDM, TODS, TKDE, TKDD, MACH, DAMI, JCSS, TNSE, PR), and *applied research* (with a $12$-year work experience in industrial-research environments).
+His recent interests include *graph machine learning*, *graph data management*, *natural language processing*, and *trustworthy AI*.
+He has been practicing both *fundamental research* (~90 publications, mostly in premier venues such as SIGMOD, VLDB, KDD, ICDM, CIKM, EDBT, WSDM, ECML-PKDD, SDM, TODS, TKDE, TKDD, MACH, DAMI, JCSS, TNSE, PR), and *applied research* ($12$-year work experience in industrial-research environments).
 <br>
 He has also been serving the scientific community: he was/is/will be Finance Chair of CIKM'24, Workshop Chair of ICDM'16, Program co-Chair of [MIDAS workshop](http://midas.portici.enea.it) @ECML-PKDD['16-'23], MultiClust symposium @SDM'14, MultiClust workshop @KDD'13, 3Clust workshop @PAKDD'12), as well as (senior) program-committee member of major conferences, including SIGMOD, KDD, WWW, IJCAI, AAAI, CIKM, SIGIR, ICDM, WSDM, SDM, ECML-PKDD, ECAI, ICWSM.
 
