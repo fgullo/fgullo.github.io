@@ -30,7 +30,7 @@ Proceedings of the VLDB Endowment (**PVLDB**), 2023, TO APPEAR
 0. E. Galimberti, M. Ciaperoni, A. Barrat, F. Bonchi, C. Cattuto, F. Gullo.<br>
 [Span-core Decomposition for Temporal Networks: Algorithms and Applications](https://doi.org/10.1145/3418226)<br>
 ACM Transactions on Knowledge Discovery from Data (**TKDD**), 15(1):2:1-2:44, 2021<br>
-[[pdf](https://arxiv.org/abs/1910.03645)]
+[[pdf](https://arxiv.org/abs/1910.03645)] [[code&data](https://github.com/egalimberti/span_cores)]
 
 
 0. I. Bordino, F. Gullo, G. Legnaro<br>
