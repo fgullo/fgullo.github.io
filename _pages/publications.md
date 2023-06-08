@@ -22,6 +22,7 @@ Copyright of every publication is held by the corresponding publisher. PDFs are 
 0. F. Gullo, D. Mandaglio, A. Tagarelli<br>
 [A Combinatorial Multi-Armed Bandit Approach to Correlation Clustering]()<br>
 Data Mining and Knowledge Discovery (**DAMI**), 2023, TO APPEAR 
+[[code&data](https://github.com/Ralyhu/CMAB-CC)]
 
 0. J. Layne, J. Carpenter, E. Serra, F. Gullo<br>
 [Temporal SIR-GN: Efficient and Effective Structural Representation Learning for Temporal Graphs](https://dx.doi.org/0.14778/3598581.3598583)<br>
