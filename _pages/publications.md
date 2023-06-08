@@ -26,7 +26,7 @@ Data Mining and Knowledge Discovery (**DAMI**), 2023, TO APPEAR
 0. J. Layne, J. Carpenter, E. Serra, F. Gullo<br>
 [Temporal SIR-GN: Efficient and Effective Structural Representation Learning for Temporal Graphs](https://dx.doi.org/0.14778/3598581.3598583)<br>
 Proceedings of the VLDB Endowment (**PVLDB**), 16(9):2075-2089, 2023<br>
-[[code&data](https://github.com/janetlayne2/Temporal-SIR-GN)]
+[[pdf](https://www.vldb.org/pvldb/vol16/p2075-layne.pdf)] [[code&data](https://github.com/janetlayne2/Temporal-SIR-GN)]
 
 0. E. Galimberti, M. Ciaperoni, A. Barrat, F. Bonchi, C. Cattuto, F. Gullo.<br>
 [Span-core Decomposition for Temporal Networks: Algorithms and Applications](https://doi.org/10.1145/3418226)<br>
