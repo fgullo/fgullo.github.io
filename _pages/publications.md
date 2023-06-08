@@ -21,7 +21,7 @@ Copyright of every publication is held by the corresponding publisher. PDFs are 
 
 0. F. Gullo, D. Mandaglio, A. Tagarelli<br>
 [A Combinatorial Multi-Armed Bandit Approach to Correlation Clustering]()<br>
-Data Mining and Knowledge Discovery (**DAMI**), 2023, TO APPEAR 
+Data Mining and Knowledge Discovery (**DAMI**), 2023, TO APPEAR <br>
 [[code&data](https://github.com/Ralyhu/CMAB-CC)]
 
 0. J. Layne, J. Carpenter, E. Serra, F. Gullo<br>
