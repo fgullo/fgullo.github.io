@@ -20,12 +20,12 @@ Copyright of every publication is held by the corresponding publisher. PDFs are 
 ## International journals
 
 0. F. Gullo, D. Mandaglio, A. Tagarelli<br>
-[A Combinatorial Multi-Armed Bandit Approach to Correlation Clustering]()<br>
-Data Mining and Knowledge Discovery (**DAMI**), 2023, TO APPEAR <br>
-[[code&data](https://github.com/Ralyhu/CMAB-CC)]
+[A Combinatorial Multi-Armed Bandit Approach to Correlation Clustering](https://doi.org/10.1007/s10618-023-00937-5)<br>
+Data Mining and Knowledge Discovery (**DAMI**), 37(4): 1630-1691, 2023<br>
+[[pdf](https://link.springer.com/content/pdf/10.1007/s10618-023-00937-5.pdf?pdf=button)][[code&data](https://github.com/Ralyhu/CMAB-CC)]
 
 0. J. Layne, J. Carpenter, E. Serra, F. Gullo<br>
-[Temporal SIR-GN: Efficient and Effective Structural Representation Learning for Temporal Graphs](https://dx.doi.org/0.14778/3598581.3598583)<br>
+[Temporal SIR-GN: Efficient and Effective Structural Representation Learning for Temporal Graphs](https://dx.doi.org/10.14778/3598581.3598583)<br>
 Proceedings of the VLDB Endowment (**PVLDB**), 16(9):2075-2089, 2023<br>
 [[pdf](https://www.vldb.org/pvldb/vol16/p2075-layne.pdf)] [[code&data](https://github.com/janetlayne2/Temporal-SIR-GN)]
 
@@ -49,7 +49,7 @@ Information Systems Frontiers (**ISFI**), 23(1):101-114, 2021<br>
 
 0. M. Ciaperoni, E. Galimberti, F. Bonchi, C. Cattuto, F. Gullo, A. Barrat<br>
 [Relevance of temporal cores for epidemic spread in temporal networks](https://doi.org/10.1038/s41598-020-69464-3)<br>
-Scientific Reports (**SciRep**), 2020, ONLINE<br>
+Scientific Reports (**SciRep**), 10, Article number: 12529, 2020<br>
 [[pdf](http://arxiv.org/abs/2003.09377)]
 
 

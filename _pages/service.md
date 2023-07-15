@@ -74,6 +74,9 @@ Editors: S. Consoli, D. Reforgiato Recupero, M. Salsana. Publisher: Springer Nat
 * *ACM SIGMOD International Conference on Management of Data* (*SIGMOD*) <br>
 (*research* track) [2022, 2024]
 
+* *ACM International Conference on Web Search and Data Mining* (*WSDM*) <br>
+[2013-2014, 2020-2024]
+
 * *ACM SIGKDD International Conference on Knowledge Discovery and Data Mining* (*KDD*) <br>
 (*research* track) [2014-2023]
 
@@ -88,9 +91,6 @@ Editors: S. Consoli, D. Reforgiato Recupero, M. Salsana. Publisher: Springer Nat
 
 * *SIAM International Conference on Data Mining* (*SDM*) <br>
 [2012, 2014-2023]
-
-* *ACM International Conference on Web Search and Data Mining* (*WSDM*) <br>
-[2013-2014, 2020-2023]
 
 * *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases* (*ECML PKDD*) <br> 
 (*research* track) [2016-2019, 2021-2023]
