@@ -74,23 +74,23 @@ Editors: S. Consoli, D. Reforgiato Recupero, M. Salsana. Publisher: Springer Nat
 * *ACM SIGMOD International Conference on Management of Data* (*SIGMOD*) <br>
 (*research* track) [2022, 2024]
 
+* *International World Wide Web Conference* (*WWW*) <br>
+(*graph algorithms and learning for the Web* track) [2014, 2016-2024]
+
 * *ACM International Conference on Web Search and Data Mining* (*WSDM*) <br>
 [2013-2014, 2020-2024]
 
+* *SIAM International Conference on Data Mining* (*SDM*) <br>
+[2012, 2014-2024]
+
 * *ACM SIGKDD International Conference on Knowledge Discovery and Data Mining* (*KDD*) <br>
 (*research* track) [2014-2023]
-
-* *International World Wide Web Conference* (*WWW*) <br>
-(*social network analysis and graph algorithms* track) [2014, 2016-2023]
 
 * *IEEE International Conference on Data Mining* (*IEEE ICDM*) <br>
 [2014-2016, 2018-2023]
 
 * *International Joint Conference on Artificial Intelligence* (*IJCAI*) <br>
 [2020-2023]
-
-* *SIAM International Conference on Data Mining* (*SDM*) <br>
-[2012, 2014-2023]
 
 * *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases* (*ECML PKDD*) <br> 
 (*research* track) [2016-2019, 2021-2023]
