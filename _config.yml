@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name: "Francesco Gullo, PhD"
   avatar           : "fg.jpg"
+  name: "Francesco Gullo, PhD"
   bio              : "Associate Professor <br> @University of L'Aquila"
   location         : "DISIM Department, <br> "Alan Turing" building, <br> Room 203"
   employer         : "Via Vetoio, 42 <br> 67100 - Coppito <br> L'Aquila (Italy)"
