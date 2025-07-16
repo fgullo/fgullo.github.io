@@ -18,7 +18,7 @@ author_profile: true
 * Associate Editor<br>
 *Frontiers in Big Data* journal [Jul 2021 – Mar 2025]
 
-
+<br>
 
 ## Organizing committees of conferences
 
@@ -41,6 +41,7 @@ Discovery (*ECML-PKDD '26*)
 * Workshop co-Chair <br>
 16th IEEE International Conference on Data Mining (*IEEE ICDM '16*)
 
+<br>
 
 ## Organization of workshops and similar satellite events of conferences
 
@@ -70,31 +71,16 @@ In conjunction with the *16th Pacific-Asia Conference on Knowledge Discovery and
 
 <br>
 
+## Other boards
 
-## Editorial boards
+* Guest Editor<br>
+*Journal Track* of the *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases* (*ECML-PKDD JT*) [2020–2025]
 
-* Guest Editor <br>
-Journal Track of the *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases* (*ECML PKDD JT*)<br>
-[2020-2023]
+* Distinguished Reviewer Board member<br>
+*ACM Transactions on the Web* (*TWEB*) [2022–2024]
 
-* Associate Editor <br>
-*Frontiers in Big Data* journal <br>
-*Data Mining and Management* section
-
-
-<br>
-
-## Distinguished reviewer boards
-
-* *ACM Transactions on the Web* (*TWEB*)<br>
-Appointed for [2022–2024]
-
-
-<br>
-
-## Scientific committees
-
-* "*Data Science for Economics and Finance: Methodologies and Applications*" book <br>
+* Scientific Committee member
+"*Data Science for Economics and Finance: Methodologies and Applications*" book <br>
 Editors: S. Consoli, D. Reforgiato Recupero, M. Salsana. Publisher: Springer Nature. <br>
 [2020]
 
