@@ -7,18 +7,50 @@ author_profile: true
 
 {% include base_path %}
 
+## Editorial boards of journals
 
-## Organization
+* Associate Editor<br>
+*EPJ Data Science* journal [Nov 2023 – present]
+
+* Associate Editor<br>
+*International Journal of Data Science and Analytics* (*IJDSA*) journal [Jul 2024 – present]
+
+* Associate Editor<br>
+*Frontiers in Big Data* journal [Jul 2021 – Mar 2025]
+
+
+
+## Organizing committees of conferences
+
+* General co-Chair <br>
+19th ACM International Conference on Web Search and Data Mining (*WSDM '26*)
+
+* Applied Data Science Track Program Committee co-Chair <br>
+37th—30th European Conference on Machine Learning and Principles and Practice of Knowledge
+Discovery (*ECML-PKDD '26*)
 
 * Finance Chair <br>
 33rd ACM International Conference on Information and Knowledge Management (*CIKM '24*)
 
+* Workshop co-Chair
+30th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (*KDD '24*)
+
+* Industry Track Program Committee co-Chair <br>
+16th International Conference on Social Networks Analysis and Mining (*ASONAM '24*)
+
 * Workshop co-Chair <br>
 16th IEEE International Conference on Data Mining (*IEEE ICDM '16*)
 
+
+## Organization of workshops and similar satellite events of conferences
+
 * Program co-Chair<br>
-*[1st, 2nd, 3rd, 4th, 5th, 6th, 7th, 8th]* [*Workshop on  MIning DAta for financial applicationS*](http://midas.portici.enea.it) (*MIDAS ['16, '17, '18, '19, '20, '21, '22, '23']*) <br>
-In conjunction with the *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery* (*ECML-PKDD ['16, '17, '18, '19, '20, '21, '22, '23']*)
+*[1st, 2nd, 3rd, 4th, 5th, 6th, 7th, 8th, 9th, 10th]* [*Workshop on  MIning DAta for financial applicationS*](http://midas.portici.enea.it) (*MIDAS ['16, '17, '18, '19, '20, '21, '22, '23, '24, '25]*) <br>
+In conjunction with the *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery* (*ECML-PKDD ['16, '17, '18, '19, '20, '21, '22, '23, '24, '25]*)
+
+* Program co-Chair<br>
+[*1st Workshop on Innovations, Privacy-preservation, and Evaluations Of machine Unlearning Techniques*](https://aiimlab.org/events/ECML_PKDD_2025_WIPE-OUT_Innovations_Privacy-preservation_Evaluations_Machine_Unlearning_Techniques.html) (*WIPE-OUT*)<br>
+In conjunction with the *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery* (*ECML-PKDD '25*)
 
 * Industrial Session co-Chair <br>
 *[2nd, 3rd] International Conference on Machine Learning, Optimization and Big Data* (*MOD ['16, '17]*)
