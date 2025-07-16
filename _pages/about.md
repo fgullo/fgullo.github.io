@@ -46,8 +46,11 @@ He has also actively served the scientific community: he was/is/will be Associat
 
 Please see <a href="/files/CV_FrancescoGullo.pdf">here (curriculum vitae)</a>  for more details.
 
+<b>NEW!</b> <a href="https://www.univaq.it/en/section.php?id=2296&lang_s=en">PhD student positions available: apply! (Deadline: August 22nd, 2025, 1pm CEST)</a>
 
+<!--
 <b>NEW!</b> <a href="https://link.springer.com/book/10.1007/978-3-031-79210-6">Correlation Clustering book</a>
+-->
 
 
 
