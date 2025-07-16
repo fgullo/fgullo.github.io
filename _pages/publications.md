@@ -185,7 +185,7 @@ In Proceedings of the European Conference on Machine Learning and Principles and
 21. D. Mandaglio, A. Tagarelli, F. Gullo<br>
 [In and Out: Optimizing Overall Interaction in Probabilistic Graphs under Clustering Constraints](https://doi.org/10.1145/3394486.3403190)<br>
 In Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD '20**), pp. 1371-1381. San Diego, CA – USA, August 23-27, 2020<br>
-[[pdf](/files/papers/KDD20.pdf)] [[slides](/files/slides/KDD20.pdf)] [[code&data](https://github.com/Ralyhu/optimize_interactions)]
+[[pdf](/files/papers/KDD20.pdf)] [[slides](/files/slides/KDD20.pdf)] [[video](https://dl.acm.org/doi/suppl/10.1145/3394486.3403190/suppl_file/3394486.3403190.mp4)] [[code&data](https://github.com/Ralyhu/optimize_interactions)]
 
 
 22. E. Galimberti, A. Barrat, F. Bonchi, C. Cattuto, F. Gullo<br>
@@ -391,7 +391,7 @@ Physics Procedia, 62:18-22, 2015<br>
     ## Other international conferences
 
 
-0. A. Anagnostopoulos, V. Arrigoni, F. Gullo, G. Salvatori, L. Severini<br>. 
+0. A. Anagnostopoulos, V. Arrigoni, F. Gullo, G. Salvatori, L. Severini<br>
 [General-Purpose Query Processing on Summary Graphs](https://doi.org/10.1007/978-3-031-85386-9_29)<br>
 In Proceedings of the International Conference on Advances in Social Networks Analysis and Mining (**ASONAM**). Rende, Italy, September 2-5, 2024<br>
 [[pdf](/files/papers/SNAM24.pdf)] [[slides](/files/slides/ASONAM24.pdf)]  [[code&data](https://github.com/fgullo/GPQPS)]
@@ -400,7 +400,7 @@ In Proceedings of the International Conference on Advances in Social Networks An
 57. F. Gullo, L. La Cava, D. Mandaglio, A. Tagarelli<br>
 [When Correlation Clustering Meets Fairness Constraints](https://doi.org/10.1007/978-3-031-18840-4_22)<br>
 In Proceedings of the International Conference on Discovery Science (**DS '22**). Montpellier, France, October 10-12, 2022<br>
-[[pdf](/files/papers/DS22.pdf)]
+[[pdf](/files/papers/DS22.pdf)] [[slides](/files/slides/DS22.pdf)]
 
 57. C. Di Crescenzo, G. Gavazzi, G. Legnaro, E. Troccoli, I. Bordino, F. Gullo<br>
 [HERMEVENT: A News Collection for Emerging-Event Detection](https://doi.org/10.1145/3102254.3102262)<br>
@@ -554,6 +554,7 @@ Lecture Notes in Computer Science 7769, Springer, 2013, ISBN 978-3-642-36777-9
 0. F. Gullo, D. Mandaglio, A. Tagarelli<br>
 [Discovering Balance-Aware Polarized Communities in Signed Networks with Graph Neural Networks]()<br>
 In Proceedings of the 33rd Italian Symposium on Advanced Database Systems (**SEBD '25**). Ischia, Italy, June 16-19, 2025.
+[[pdf](/files/papers/SEBD25.pdf)] [[code&data](https://github.com/Ralyhu/neural2pc)]
 
 0. S. Costantini, P. Dell’Acqua, G. De Gasperis, F. Gullo, A. Rafanelli<br>
 [NEMO -- A Neural, Emotional Architecture for Human-AI Teaming]()<br>
