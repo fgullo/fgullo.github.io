@@ -553,25 +553,28 @@ Lecture Notes in Computer Science 7769, Springer, 2013, ISBN 978-3-642-36777-9
 
 0. F. Gullo, D. Mandaglio, A. Tagarelli<br>
 [Discovering Balance-Aware Polarized Communities in Signed Networks with Graph Neural Networks]()<br>
-In Proceedings of the 33rd Italian Symposium on Advanced Database Systems (**SEBD '25**). Ischia, Italy, June 16-19, 2025.
+In Proceedings of the 33rd Italian Symposium on Advanced Database Systems (**SEBD '25**). Ischia, Italy, June 16-19, 2025<br>
 [[pdf](/files/papers/SEBD25.pdf)] [[code&data](https://github.com/Ralyhu/neural2pc)]
 
 0. S. Costantini, P. Dell’Acqua, G. De Gasperis, F. Gullo, A. Rafanelli<br>
-[NEMO -- A Neural, Emotional Architecture for Human-AI Teaming]()<br>
-In Proceedings of the 39th Italian Conference on Computational Logic (**CILC '24**). Rome, Italy, June 26-28, 2024.
+[NEMO -- A Neural, Emotional Architecture for Human-AI Teaming](https://ceur-ws.org/Vol-3733/paper11.pdf)<br>
+In Proceedings of the 39th Italian Conference on Computational Logic (**CILC '24**). Rome, Italy, June 26-28, 2024<br>
+[[pdf](https://ceur-ws.org/Vol-3733/paper11.pdf)] [[slides](/files/slides/CILC24.pdf)]
 
 0. M. K. Egger, W. Ma, D. Mottin, P. Karras, I. Bordino, F. Gullo, A. Anagnostopoulos<br>
-[ReliK: A Reliability Measure for Knowledge Graph Embeddings]()<br>
+[ReliK: A Reliability Measure for Knowledge Graph Embeddings](https://ceur-ws.org/Vol-3741/paper04.pdf)<br>
 In Proceedings of the 32nd Italian Symposium on Advanced Database Systems (**SEBD '24**). Villasimius, Italy,
-June 23-26, 2024.
+June 23-26, 2024<br>
+[[pdf](https://ceur-ws.org/Vol-3741/paper04.pdf)] [[code&data](https://github.com/AU-DIS/ReliK)] [[artifact](https://doi.org/10.5281/zenodo.10656796)]
 
 0. S. Costantini, P. Dell’Acqua, G. De Gasperis, F. Gullo, A. Rafanelli<br>
-[The NEMO co-pilot]()<br>
-In Proceedings of the 4th CINI National Lab AIIS Conference on Artificial Intelligence (**Ital-IA '24**). Naples, Italy, May 29-30, 2024.
+[The NEMO co-pilot](https://ceur-ws.org/Vol-3762/543.pdf)<br>
+In Proceedings of the 4th CINI National Lab AIIS Conference on Artificial Intelligence (**Ital-IA '24**). Naples, Italy, May 29-30, 2024<br>
+[[pdf](https://ceur-ws.org/Vol-3762/543.pdf)]
 
 68. D. Mandaglio, A. Tagarelli, F. Gullo<br>
 [Correlation Clustering: from Local to Global Constraints](http://ceur-ws.org/Vol-3194/paper52.pdf). In Proceedings of the 30th Italian Symposium on Advanced Database Systems (SEBD '22). Tirrenia (Pisa), Italy, June 19-22, 2022.<br>
-[[pdf](/files/papers/SEBD22.pdf)]
+[[pdf](/files/papers/SEBD22.pdf)] [[code&data](https://github.com/Ralyhu/globalCC)]
 
 68. X. Bai, B. B. Cambazoglu, F. Gullo, A. Mantrach, F. Silvestri<br>
 [Improving News Personalization Through Search Logs](https://doi.org/10.1007/978-3-030-52485-2_14)<br>
