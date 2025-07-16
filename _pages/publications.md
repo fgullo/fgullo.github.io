@@ -350,8 +350,8 @@ In Proceedings of the 8th IEEE International Conference on Data Mining (**ICDM '
     ## Books
 
 48. F. Bonchi, D. Garcia Soriano, F. Gullo<br> 
-[Correlation Clustering](http://dx.doi.org/10.2200/S01163ED1V01Y202201DMK019)<br>
-Synthesis Lectures on Data Mining and Knowledge Discovery, Morgan & Claypool Publishers, 2022
+[Correlation Clustering](https://doi.org/10.1007/978-3-031-79210-6)<br>
+Synthesis Lectures on Data Mining and Knowledge Discovery, Springer, 2022
 
 
     <br>
@@ -383,85 +383,6 @@ SIGKDD Explorations, 18(1):35-38, 2016<br>
 [From Patterns in Data to Knowledge Discovery: What Data Mining Can Do](http://dx.doi.org/10.1016/j.phpro.2015.02.005)<br> 
 Physics Procedia, 62:18-22, 2015<br>
 [[pdf](/files/papers/PhysicsProcedia15.pdf)]
-
-
-    <br>
-
-    ## Edited volumes
-
-
-48. Koprinska *et al.*<br> 
-[Machine Learning and Principles and Practice of Knowledge Discovery in Databases - International Workshops of ECML PKDD 2022, Proceedings, Part I](https://doi.org/10.1007/978-3-031-23618-1)<br>
-Communications in Computer and Information Science (CCIS) 1752, Springer, 2023, ISBN 978-3-031-23617-4
-
-48. Koprinska *et al.*<br> 
-[Machine Learning and Principles and Practice of Knowledge Discovery in Databases - International Workshops of ECML PKDD 2022, Proceedings, Part II](https://doi.org/10.1007/978-3-031-23633-4)<br>
-Communications in Computer and Information Science (CCIS) 1753, Springer, 2023, ISBN 978-3-031-23632-7
-
-48. Kamp *et al.*<br>
-[Machine Learning and Principles and Practice of Knowledge Discovery in Databases - International Workshops of ECML PKDD 2021, Proceedings, Part I](https://doi.org/10.1007/978-3-030-93736-2)<br>
-Communications in Computer and Information Science (CCIS) 1524, Springer, 2021, ISBN 978-3-030-93735-5
-
-48. Kamp *et al.*<br>
-[Machine Learning and Principles and Practice of Knowledge Discovery in Databases - International Workshops of ECML PKDD 2021, Proceedings, Part II](https://doi.org/10.1007/978-3-030-93733-1)<br>
-Communications in Computer and Information Science (CCIS) 1525, Springer, 2021, ISBN 978-3-030-93732-4
-
- 48. V. Bitetta, I. Bordino, A. Ferretti, F. Gullo, G. Ponti, L. Severini<br>
-[Mining Data for Financial Applications - 5th ECML PKDD Workshop, MIDAS 2020](https://doi.org/10.1007/978-3-030-66981-2), co-located
-with the 2020 European Conference on Machine Learning and Principles and Practice of Knowledge Discovery (ECML-PKDD 2020), Ghent, Belgium, September 18, 2020<br>
-Lecture Notes in Computer Science (LNCS) 12591, Springer, 2021, ISBN 978-3-030-66980-5
-
-48. V. Bitetta, I. Bordino, A. Ferretti, F. Gullo, S. Pascolutti, G. Ponti<br>
-[Mining Data for Financial Applications - 4th ECML PKDD Workshop, MIDAS 2019](https://doi.org/10.1007/978-3-030-37720-5), co-located
-with the 2019 European Conference on Machine Learning and Principles and Practice of Knowledge Discovery (ECML-PKDD 2019), Wurzburg, Germany, September
-16, 2019<br>
-Lecture Notes in Computer Science (LNCS) 11985, Springer, 2020, ISBN 978-3-030-37719-9
-
-
-49. C. Alzate, A. Monreale, L. Bioglio, V. Bitetta, I. Bordino, G. Caldarelli, A. Ferretti, R. Guidotti, F. Gullo, S. Pascolutti, R. G. Pensa, C. Robardet, T. Squartini<br>
-[ECML PKDD 2018 Workshops – MIDAS 2018 and PAP 2018, Proceedings](https://doi.org/10.1007/978-3-030-13463-1), co-located with the 2018 European Conference on Machine Learning and Principles and Practice of Knowledge Discovery (ECML-PKDD 2018), Dublin, Ireland, September 10-14, 2018<br>
-Lecture Notes in Computer Science (LNCS) 11054, Springer, 2019, ISBN 978-3-030-13462-4
-
-
-50. I. Bordino, G. Caldarelli, F. Fumarola, F. Gullo, T. Squartini<br>
-[Proceedings of the First Workshop on MIning DAta for financial applicationS (MIDAS 2017)](http://ceur-ws.org/Vol-1941), colocated with the 2017 European Conference on Machine Learning and Principles and Practice of Knowledge Discovery (ECML-PKDD 2017), Skopje, Macedonia, September 18, 2017<br>
-CEUR Workshop Proceedings Vol-1941, CEUR-WS.org, 2017
-
-
-51. C. Domeniconi, F. Gullo, F. Bonchi, J. Domingo-Ferrer, R. Baeza-Yates, Z.-H. Zhou, X. Wu<br>
-[16th IEEE International Conference on Data Mining Workshops (ICDMW 2016)](https://ieeexplore.ieee.org/xpl/conhome/7836069/proceeding), Barcelona, Spain, December 12, 2016<br>
-IEEE Computer Society, 2016, ISBN 978-1-5090-5472-5
-
-
-52. I. Bordino, G. Caldarelli, F. Fumarola, F. Gullo, T. Squartini<br>
-[Proceedings of the First Workshop on MIning DAta for financial applicationS (MIDAS 2016)](http://ceur-ws.org/Vol-1774), colocated with the 2016 European Conference on Machine Learning and Principles and Practice of Knowledge Discovery (ECML-PKDD 2016), Riva del Garda, Italy, September 19, 2016<br>
-CEUR Workshop Proceedings Vol-1774, CEUR-WS.org, 2016
-
-
-53. I. Assent, C. Domeniconi, F. Gullo, A. Tagarelli, A. Zimek<br>
-[MultiClust '13: Proceedings of the 4th MultiClust Workshop on Multiple Clusterings, Multi-view Data, and Multi-source Knowledge-driven Clustering](http://dl.acm.org/citation.cfm?id=2501006), co-located with the KDD '13 conference, Chicago, Illinois (USA), August 11 - 14, 2013<br>
-ACM, 2013, ISBN 978-1-4503-2334-5
-
-
-54. T. Washio, J. Luo, P. Desikan, K.-W. Hsu, J. Srivastava, E.-P. Lim, M. Teisseire, M. Roche, C. Domeniconi, F. Gullo, A. Tagarelli, H. K. Tan, and W. C. Onn<br>
-[Emerging Trends in Knowledge Discovery and Data Mining - PAKDD 2012 International Workshops: DMHM, GeoDoc, 3Clust, and DSDM](http://www.springer.com/computer/database+management+%26+information+retrieval/book/978-3-642-36777-9), Kuala Lumpur, Malaysia, May 29 - June 1, 2012, Revised Selected Papers<br>
-Lecture Notes in Computer Science 7769, Springer, 2013, ISBN 978-3-642-36777-9
-
-
-    <br>
-
-
-    ## Book chapters (refereed)
-
-
-55. F. Bonchi, F. Gullo, A. Kaltenbrunner<br>
-[Core Decomposition of Massive, Information-Rich Graphs](https://doi.org/10.1007/978-1-4939-7131-2_110176)<br>
-In Encyclopedia of Social Network Analysis and Mining - 2 edition, Springer, 2018
-
-
-56. F. Gullo, G. Ponti, S. Greco<br>
-[Organizing XML Documents on a Peer-to-Peer Network by Collaborative Clustering](http://dx.doi.org/10.4018/978-1-61350-356-0.ch018)<br>
-In XML Data Mining: Models, Methods, and Applications, IGI Global, 2012, pp. 449-466
 
 
     <br>
@@ -539,8 +460,87 @@ In Proceedings of the 21th IEEE International Symposium on Computer-Based Medica
 In Proceedings of the 20th IEEE International Symposium on Computer-Based Medical Systems (**CBMS '07**), pp. 412-417. Maribor, Slovenia, June 20-23, 2007<br>
 [[pdf](/files/papers/CBMS07.pdf)] [[slides](/files/slides/CBMS07.pdf)]
 
+    <br>
+
+
+    ## Book chapters (refereed)
+
+
+55. F. Bonchi, F. Gullo, A. Kaltenbrunner<br>
+[Core Decomposition of Massive, Information-Rich Graphs](https://doi.org/10.1007/978-1-4939-7131-2_110176)<br>
+In Encyclopedia of Social Network Analysis and Mining - 2 edition, Springer, 2018
+
+
+56. F. Gullo, G. Ponti, S. Greco<br>
+[Organizing XML Documents on a Peer-to-Peer Network by Collaborative Clustering](http://dx.doi.org/10.4018/978-1-61350-356-0.ch018)<br>
+In XML Data Mining: Models, Methods, and Applications, IGI Global, 2012, pp. 449-466
 
     <br>
+
+    ## Edited volumes
+
+
+48. Koprinska *et al.*<br> 
+[Machine Learning and Principles and Practice of Knowledge Discovery in Databases - International Workshops of ECML PKDD 2022, Proceedings, Part I](https://doi.org/10.1007/978-3-031-23618-1)<br>
+Communications in Computer and Information Science (CCIS) 1752, Springer, 2023, ISBN 978-3-031-23617-4
+
+48. Koprinska *et al.*<br> 
+[Machine Learning and Principles and Practice of Knowledge Discovery in Databases - International Workshops of ECML PKDD 2022, Proceedings, Part II](https://doi.org/10.1007/978-3-031-23633-4)<br>
+Communications in Computer and Information Science (CCIS) 1753, Springer, 2023, ISBN 978-3-031-23632-7
+
+48. Kamp *et al.*<br>
+[Machine Learning and Principles and Practice of Knowledge Discovery in Databases - International Workshops of ECML PKDD 2021, Proceedings, Part I](https://doi.org/10.1007/978-3-030-93736-2)<br>
+Communications in Computer and Information Science (CCIS) 1524, Springer, 2021, ISBN 978-3-030-93735-5
+
+48. Kamp *et al.*<br>
+[Machine Learning and Principles and Practice of Knowledge Discovery in Databases - International Workshops of ECML PKDD 2021, Proceedings, Part II](https://doi.org/10.1007/978-3-030-93733-1)<br>
+Communications in Computer and Information Science (CCIS) 1525, Springer, 2021, ISBN 978-3-030-93732-4
+
+ 48. V. Bitetta, I. Bordino, A. Ferretti, F. Gullo, G. Ponti, L. Severini<br>
+[Mining Data for Financial Applications - 5th ECML PKDD Workshop, MIDAS 2020](https://doi.org/10.1007/978-3-030-66981-2), co-located
+with the 2020 European Conference on Machine Learning and Principles and Practice of Knowledge Discovery (ECML-PKDD 2020), Ghent, Belgium, September 18, 2020<br>
+Lecture Notes in Computer Science (LNCS) 12591, Springer, 2021, ISBN 978-3-030-66980-5
+
+48. V. Bitetta, I. Bordino, A. Ferretti, F. Gullo, S. Pascolutti, G. Ponti<br>
+[Mining Data for Financial Applications - 4th ECML PKDD Workshop, MIDAS 2019](https://doi.org/10.1007/978-3-030-37720-5), co-located
+with the 2019 European Conference on Machine Learning and Principles and Practice of Knowledge Discovery (ECML-PKDD 2019), Wurzburg, Germany, September
+16, 2019<br>
+Lecture Notes in Computer Science (LNCS) 11985, Springer, 2020, ISBN 978-3-030-37719-9
+
+
+49. C. Alzate, A. Monreale, L. Bioglio, V. Bitetta, I. Bordino, G. Caldarelli, A. Ferretti, R. Guidotti, F. Gullo, S. Pascolutti, R. G. Pensa, C. Robardet, T. Squartini<br>
+[ECML PKDD 2018 Workshops – MIDAS 2018 and PAP 2018, Proceedings](https://doi.org/10.1007/978-3-030-13463-1), co-located with the 2018 European Conference on Machine Learning and Principles and Practice of Knowledge Discovery (ECML-PKDD 2018), Dublin, Ireland, September 10-14, 2018<br>
+Lecture Notes in Computer Science (LNCS) 11054, Springer, 2019, ISBN 978-3-030-13462-4
+
+
+50. I. Bordino, G. Caldarelli, F. Fumarola, F. Gullo, T. Squartini<br>
+[Proceedings of the First Workshop on MIning DAta for financial applicationS (MIDAS 2017)](http://ceur-ws.org/Vol-1941), colocated with the 2017 European Conference on Machine Learning and Principles and Practice of Knowledge Discovery (ECML-PKDD 2017), Skopje, Macedonia, September 18, 2017<br>
+CEUR Workshop Proceedings Vol-1941, CEUR-WS.org, 2017
+
+
+51. C. Domeniconi, F. Gullo, F. Bonchi, J. Domingo-Ferrer, R. Baeza-Yates, Z.-H. Zhou, X. Wu<br>
+[16th IEEE International Conference on Data Mining Workshops (ICDMW 2016)](https://ieeexplore.ieee.org/xpl/conhome/7836069/proceeding), Barcelona, Spain, December 12, 2016<br>
+IEEE Computer Society, 2016, ISBN 978-1-5090-5472-5
+
+
+52. I. Bordino, G. Caldarelli, F. Fumarola, F. Gullo, T. Squartini<br>
+[Proceedings of the First Workshop on MIning DAta for financial applicationS (MIDAS 2016)](http://ceur-ws.org/Vol-1774), colocated with the 2016 European Conference on Machine Learning and Principles and Practice of Knowledge Discovery (ECML-PKDD 2016), Riva del Garda, Italy, September 19, 2016<br>
+CEUR Workshop Proceedings Vol-1774, CEUR-WS.org, 2016
+
+
+53. I. Assent, C. Domeniconi, F. Gullo, A. Tagarelli, A. Zimek<br>
+[MultiClust '13: Proceedings of the 4th MultiClust Workshop on Multiple Clusterings, Multi-view Data, and Multi-source Knowledge-driven Clustering](http://dl.acm.org/citation.cfm?id=2501006), co-located with the KDD '13 conference, Chicago, Illinois (USA), August 11 - 14, 2013<br>
+ACM, 2013, ISBN 978-1-4503-2334-5
+
+
+54. T. Washio, J. Luo, P. Desikan, K.-W. Hsu, J. Srivastava, E.-P. Lim, M. Teisseire, M. Roche, C. Domeniconi, F. Gullo, A. Tagarelli, H. K. Tan, and W. C. Onn<br>
+[Emerging Trends in Knowledge Discovery and Data Mining - PAKDD 2012 International Workshops: DMHM, GeoDoc, 3Clust, and DSDM](http://www.springer.com/computer/database+management+%26+information+retrieval/book/978-3-642-36777-9), Kuala Lumpur, Malaysia, May 29 - June 1, 2012, Revised Selected Papers<br>
+Lecture Notes in Computer Science 7769, Springer, 2013, ISBN 978-3-642-36777-9
+
+
+
+    <br>
+
 
     ## Workshops and national conferences
 
