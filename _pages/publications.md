@@ -9,7 +9,7 @@ author_profile: true
 
 <br>
 
-Look also at my [DBLP](http://www.informatik.uni-trier.de/~ley/pers/hc/g/Gullo:Francesco.html) page (thanks to Michael Lay)
+Look also at my [DBLP](https://dblp.org/pid/63/3664.html) page (thanks to Michael Lay)
 
 <br>
 
@@ -18,6 +18,22 @@ Copyright of every publication is held by the corresponding publisher. PDFs are 
 <br>
 
 ## International journals (selected)
+
+
+0. F. Gullo, D. Mandaglio, A. Tagarelli<br> 
+[Neural Discovery of Balance-aware Polarized Communities](https://doi.org/10.1007/s10994-024-06581-4)<br> 
+Machine Learning (**MACH**), Vol. 2024: 1-5, 2024<br>
+[[pdf](https://link.springer.com/content/pdf/10.1007/s10994-024-06581-4.pdf)] [[code&data](https://github.com/Ralyhu/neural2pc)]
+
+0. A. Anagnostopoulos, V. Arrigoni, F. Gullo, G. Salvatori, L. Severini<br> 
+[General-purpose Query Processing on Summary Graphs](https://doi.org/10.1007/s13278-024-01314-w)<br>
+Social Network Analysis and Mining (**SNAM**), 14(1): 157, 2024<br>
+[[pdf](/files/papers/SNAM24.pdf)] [[slides](/files/slides/ASONAM24.pdf)]  [[code&data](https://github.com/fgullo/GPQPS)]
+
+0. O. Balalau, F. Bonchi, T-H. Hubert Chan, F. Gullo, M. Sozio, H. Xie<br>
+[Finding Subgraphs with Maximum Total Density and Limited Overlap in Weighted Hypergraphs](https://doi.org/10.1145/3639410)<br>
+ACM Transactions on Knowledge Discovery from Data (**TKDD**), 18(4): 1-21, 2024<br>
+[[pdf](https://dl.acm.org/doi/pdf/10.1145/3639410)] [[code&data](https://github.com/scidylanpno/dslo)]
 
 0. F. Gullo, D. Mandaglio, A. Tagarelli<br>
 [A Combinatorial Multi-Armed Bandit Approach to Correlation Clustering](https://doi.org/10.1007/s10618-023-00937-5)<br>
