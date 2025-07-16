@@ -32,7 +32,7 @@ Discovery (*ECML-PKDD '26*)
 * Finance Chair <br>
 33rd ACM International Conference on Information and Knowledge Management (*CIKM '24*)
 
-* Workshop co-Chair
+* Workshop co-Chair<br>
 30th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (*KDD '24*)
 
 * Industry Track Program Committee co-Chair <br>
@@ -89,11 +89,32 @@ Editors: S. Consoli, D. Reforgiato Recupero, M. Salsana. Publisher: Springer Nat
 
 ## Program committees (major conferences)
 
+* *Proceedings of the VLDB Endowment* (*PVLDB*)<br>
+[2026]
+
+* *IEEE International Conference on Data Engineering* (*ICDE*)<br>
+(research track) [2025–2026]
+
 * *ACM SIGMOD International Conference on Management of Data* (*SIGMOD*) <br>
-(*research* track) [2022, 2024]
+(*research* track) [2022, 2024-2025]
+
+* *ACM SIGKDD International Conference on Knowledge Discovery and Data Mining* (*KDD*) <br>
+(*research* track) [2014-2025]
 
 * *International World Wide Web Conference* (*WWW*) <br>
-(*graph algorithms and learning for the Web* track) [2014, 2016-2024]
+(*graph algorithms and learning for the Web* track) [2014, 2016-2025]
+
+* *International Joint Conference on Artificial Intelligence* (*IJCAI*) <br>
+[2020-2025]
+
+* *IEEE International Conference on Data Mining* (*IEEE ICDM*) <br>
+[2014-2016, 2018-2023, 2025]
+
+* *ACM International Conference on Information and Knowledge Management* (*CIKM*) <br> 
+(*research* track, *long papers*) [2012-2022, 2025]
+
+* *European Conference on Artificial Intelligence* (*ECAI*) <br> 
+(*research track*) [2023, 2025]
 
 * *ACM International Conference on Web Search and Data Mining* (*WSDM*) <br>
 [2013-2014, 2020-2024]
@@ -101,32 +122,14 @@ Editors: S. Consoli, D. Reforgiato Recupero, M. Salsana. Publisher: Springer Nat
 * *SIAM International Conference on Data Mining* (*SDM*) <br>
 [2012, 2014-2024]
 
-* *ACM SIGKDD International Conference on Knowledge Discovery and Data Mining* (*KDD*) <br>
-(*research* track) [2014-2023]
-
-* *IEEE International Conference on Data Mining* (*IEEE ICDM*) <br>
-[2014-2016, 2018-2023]
-
-* *International Joint Conference on Artificial Intelligence* (*IJCAI*) <br>
-[2020-2023]
-
 * *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases* (*ECML PKDD*) <br> 
 (*research* track) [2016-2019, 2021-2023]
 
 * *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases* (*ECML PKDD*) <br> 
 (*applied data science* track) [2015-2018, 2021-2023]
 
-* *European Conference on Artificial Intelligence* (*ECAI*) <br> 
-(*research track*) [2023]
-
-* *ACM International Conference on Information and Knowledge Management* (*CIKM*) <br> 
-(*research* track, *long papers*) [2012-2022]
-
 * *AAAI Conference on Artificial Intelligence* (*AAAI*) <br>
 [2021-2022]
-
-* *SIAM International Conference on Data Mining* (*SDM*) <br>
-[2012, 2014-2022]
 
 * *International AAAI Conference on Web and Social Media* (*ICWSM*) <br>
 [2014, 2017-2022]
@@ -144,6 +147,7 @@ Editors: S. Consoli, D. Reforgiato Recupero, M. Salsana. Publisher: Springer Nat
 
 ## Program committees (other conferences & workshops)
 
+ITADATA [2024–-2025];
 SEBD [2022--2023]; 
 FRCCS [2023];  
 DSAA - *special sessions* track [2021--2022];  
