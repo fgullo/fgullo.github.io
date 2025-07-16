@@ -33,7 +33,7 @@ Social Network Analysis and Mining (**SNAM**), 14(1): 157, 2024<br>
 0. O. Balalau, F. Bonchi, T-H. Hubert Chan, F. Gullo, M. Sozio, H. Xie<br>
 [Finding Subgraphs with Maximum Total Density and Limited Overlap in Weighted Hypergraphs](https://doi.org/10.1145/3639410)<br>
 ACM Transactions on Knowledge Discovery from Data (**TKDD**), 18(4): 1-21, 2024<br>
-[[pdf](https://dl.acm.org/doi/pdf/10.1145/3639410)] [[code&data](https://github.com/scidylanpno/dslo)]
+[[pdf](/files/papers/TKDD24.pdf)] [[code&data](https://github.com/scidylanpno/dslo)]
 
 0. F. Gullo, D. Mandaglio, A. Tagarelli<br>
 [A Combinatorial Multi-Armed Bandit Approach to Correlation Clustering](https://doi.org/10.1007/s10618-023-00937-5)<br>
@@ -170,10 +170,8 @@ Computer Methods and Programs in Biomedicine (**CMPB**), 95(2 suppl.):S12-S21, 2
     ## International conferences (selected)
 
 
-21. M. K. Egger, W. Ma, D. Mottin, P. Karras, I. Bordino, F. Gullo, A. Anagnostopoulos<br>
-[ReliK: A Reliability Measure for Knowledge Graph Embeddings](https://doi.org/10.1145/3589334.3645430)<br> 
-In Proceedings of the ACM International Web Conference (**WWW '24**), pp. 2009-2019. Singapore, May 13-17, 2024<br>
-[[pdf](https://dl.acm.org/doi/pdf/10.1145/3589334.3645430)] [[code&data](https://github.com/AU-DIS/ReliK)] [[artifact](https://doi.org/10.5281/zenodo.10656796)]
+M. K. Egger, W. Ma, D. Mottin, P. Karras, I. Bordino, F. Gullo, A. Anagnostopoulos<br>
+[ReliK: A Reliability Measure for Knowledge Graph Embeddings]()<br>
 
 21. D. Mandaglio, A. Tagarelli, F. Gullo<br> 
 [Correlation Clustering with Global Weight Bounds](https://doi.org/10.1007/978-3-030-86520-7_31)<br>
@@ -388,6 +386,12 @@ Physics Procedia, 62:18-22, 2015<br>
     <br>
 
     ## Other international conferences
+
+
+0. A. Anagnostopoulos, V. Arrigoni, F. Gullo, G. Salvatori, L. Severini<br>. 
+[General-Purpose Query Processing on Summary Graphs](https://doi.org/10.1007/978-3-031-85386-9_29)<br>
+In Proceedings of the International Conference on Advances in Social Networks Analysis and Mining (**ASONAM**). Rende, Italy, September 2-5, 2024<br>
+[[pdf](/files/papers/SNAM24.pdf)] [[slides](/files/slides/ASONAM24.pdf)]  [[code&data](https://github.com/fgullo/GPQPS)]
 
 
 57. F. Gullo, L. La Cava, D. Mandaglio, A. Tagarelli<br>
