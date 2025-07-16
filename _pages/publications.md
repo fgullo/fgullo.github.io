@@ -551,6 +551,23 @@ Lecture Notes in Computer Science 7769, Springer, 2013, ISBN 978-3-642-36777-9
 
     ## Workshops and national conferences
 
+0. F. Gullo, D. Mandaglio, A. Tagarelli<br>
+[Discovering Balance-Aware Polarized Communities in Signed Networks with Graph Neural Networks]()<br>
+In Proceedings of the 33rd Italian Symposium on Advanced Database Systems (**SEBD '25**). Ischia, Italy, June 16-19, 2025.
+
+0. S. Costantini, P. Dell’Acqua, G. De Gasperis, F. Gullo, A. Rafanelli<br>
+[NEMO -- A Neural, Emotional Architecture for Human-AI Teaming]()<br>
+In Proceedings of the 39th Italian Conference on Computational Logic (**CILC '24**). Rome, Italy, June 26-28, 2024.
+
+0. M. K. Egger, W. Ma, D. Mottin, P. Karras, I. Bordino, F. Gullo, A. Anagnostopoulos<br>
+[ReliK: A Reliability Measure for Knowledge Graph Embeddings]()<br>
+In Proceedings of the 32nd Italian Symposium on Advanced Database Systems (**SEBD '24**). Villasimius, Italy,
+June 23-26, 2024.
+
+0. S. Costantini, P. Dell’Acqua, G. De Gasperis, F. Gullo, A. Rafanelli<br>
+[The NEMO co-pilot]()<br>
+In Proceedings of the 4th CINI National Lab AIIS Conference on Artificial Intelligence (**Ital-IA '24**). Naples, Italy, May 29-30, 2024.
+
 68. D. Mandaglio, A. Tagarelli, F. Gullo<br>
 [Correlation Clustering: from Local to Global Constraints](http://ceur-ws.org/Vol-3194/paper52.pdf). In Proceedings of the 30th Italian Symposium on Advanced Database Systems (SEBD '22). Tirrenia (Pisa), Italy, June 19-22, 2022.<br>
 [[pdf](/files/papers/SEBD22.pdf)]
