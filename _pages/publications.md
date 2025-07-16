@@ -17,7 +17,7 @@ Copyright of every publication is held by the corresponding publisher. PDFs are 
 
 <br>
 
-## International journals
+## International journals (selected)
 
 0. F. Gullo, D. Mandaglio, A. Tagarelli<br>
 [A Combinatorial Multi-Armed Bandit Approach to Correlation Clustering](https://doi.org/10.1007/s10618-023-00937-5)<br>
@@ -58,12 +58,6 @@ Scientific Reports (**SciRep**), 10, Article number: 12529, 2020<br>
 ACM Transactions on Knowledge Discovery from Data (**TKDD**), 14(1):11:1-11:40, 2020<br>
 [[pdf](https://arxiv.org/abs/1812.08712)] [[code&data](https://github.com/egalimberti/multilayer_core_decomposition)]
 
-
-3. F. Bonchi, I. Bordino, F. Gullo, G. Stilo<br>
-[The Importance of Unexpectedness: Discovering Buzzing Stories in Anomalous Temporal Graphs](http://dx.doi.org/10.3233/WEB-190412)<br>
-Web Intelligence (**WI**), 17(3):177-198, 2019<br>
-[[pdf](/files/papers/WI19.pdf)]
-
 4. A. Khan, F. Bonchi, F. Gullo, A. Nufer<br> 
 [Conditional Reliability in Uncertain Graphs](http://dx.doi.org/10.1109/TKDE.2018.2816653)<br> 
 IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 30(11):2078-2092, 2018<br>
@@ -88,12 +82,6 @@ Information Sciences (**INS**), 385- 386:125-137, 2017<br>
 [[pdf](/files/papers/INS17_SearchProfiles.pdf)]
 
 
-8. I. Assent, C. Domeniconi, F. Gullo, A. Tagarelli, A. Zimek<br> 
-[MultiClust 2013: Multiple Clusterings, Multi-view Data, and Multi-source Knowledge-driven Clustering](http://dx.doi.org/10.1145/2980765.2980769)<br> 
-SIGKDD Explorations, 18(1):35-38, 2016<br>
-[[pdf](/files/papers/SIGKDDExp16.pdf)]
-
-
 9. P. Parchas, F. Gullo, D. Papadias, F. Bonchi<br> 
 [Uncertain Graph Processing through Representative Instances](http://dx.doi.org/10.1145/2818182)<br> 
 ACM Transactions on Database Systems (**TODS**), 40(3):20:1-20:39, 2015<br>
@@ -110,12 +98,6 @@ Data Mining and Knowledge Discovery (**DAMI**), 29(5):1406-1433, 2015<br>
 [Chromatic Correlation Clustering](http://dx.doi.org/10.1145/2728170)<br> 
 ACM Transactions on Knowledge Discovery from Data (**TKDD**), 9(4):34:1-34:24, 2015<br>
 [[pdf](/files/papers/TKDD15.pdf)]
-
-
-12. F. Gullo<br> 
-[From Patterns in Data to Knowledge Discovery: What Data Mining Can Do](http://dx.doi.org/10.1016/j.phpro.2015.02.005)<br> 
-Physics Procedia, 62:18-22, 2015<br>
-[[pdf](/files/papers/PhysicsProcedia15.pdf)]
 
 
 13. F. Gullo, C. Domeniconi, A. Tagarelli<br> 
@@ -352,6 +334,36 @@ Synthesis Lectures on Data Mining and Knowledge Discovery, Morgan & Claypool Pub
 
     <br>
 
+
+## Other journals
+
+0. E. Serra, F. Spezzano, F. Gullo<br>
+[CIKM 2024 Conference Report](https://doi.org/10.1145/3726831.3726832)<br> 
+SIGWEB Newsletter, Vol. 2025, No. Winter, 2025<br>
+[[pdf](/files/papers/SIGWEBNewsl25.pdf)]
+
+0. A. Tommasel, E. Serra, F. Spezzano, F. Gullo<br>
+[ACM International Conference on Information and Knowledge Management October 21-25, 2024 at Boise, Idaho (USA)](https://doi.org/10.1145/3663752.3663753)<br> 
+SIGWEB Newsletter, Vol. 2024, No. Spring, 2024<br>
+[[pdf](/files/papers/SIGWEBNewsl24.pdf)]
+
+3. F. Bonchi, I. Bordino, F. Gullo, G. Stilo<br>
+[The Importance of Unexpectedness: Discovering Buzzing Stories in Anomalous Temporal Graphs](http://dx.doi.org/10.3233/WEB-190412)<br>
+Web Intelligence (**WI**), 17(3):177-198, 2019<br>
+[[pdf](/files/papers/WI19.pdf)]
+
+8. I. Assent, C. Domeniconi, F. Gullo, A. Tagarelli, A. Zimek<br> 
+[MultiClust 2013: Multiple Clusterings, Multi-view Data, and Multi-source Knowledge-driven Clustering](http://dx.doi.org/10.1145/2980765.2980769)<br> 
+SIGKDD Explorations, 18(1):35-38, 2016<br>
+[[pdf](/files/papers/SIGKDDExp16.pdf)]
+
+12. F. Gullo<br> 
+[From Patterns in Data to Knowledge Discovery: What Data Mining Can Do](http://dx.doi.org/10.1016/j.phpro.2015.02.005)<br> 
+Physics Procedia, 62:18-22, 2015<br>
+[[pdf](/files/papers/PhysicsProcedia15.pdf)]
+
+
+    <br>
 
     ## Edited volumes
 
