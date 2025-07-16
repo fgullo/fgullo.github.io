@@ -170,8 +170,10 @@ Computer Methods and Programs in Biomedicine (**CMPB**), 95(2 suppl.):S12-S21, 2
     ## International conferences (selected)
 
 
-M. K. Egger, W. Ma, D. Mottin, P. Karras, I. Bordino, F. Gullo, A. Anagnostopoulos<br>
-[ReliK: A Reliability Measure for Knowledge Graph Embeddings]()<br>
+0. M. K. Egger, W. Ma, D. Mottin, P. Karras, I. Bordino, F. Gullo, A. Anagnostopoulos<br>
+[ReliK: A Reliability Measure for Knowledge Graph Embeddings](https://doi.org/10.1145/3589334.3645430)<br>
+In Proceedings of the ACM International Web Conference (**WWW '24**'), pp. 2009-2019. Singapore, May 13-17, 2024<br>
+
 
 21. D. Mandaglio, A. Tagarelli, F. Gullo<br> 
 [Correlation Clustering with Global Weight Bounds](https://doi.org/10.1007/978-3-030-86520-7_31)<br>
