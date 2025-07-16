@@ -173,6 +173,7 @@ Computer Methods and Programs in Biomedicine (**CMPB**), 95(2 suppl.):S12-S21, 2
 0. M. K. Egger, W. Ma, D. Mottin, P. Karras, I. Bordino, F. Gullo, A. Anagnostopoulos<br>
 [ReliK: A Reliability Measure for Knowledge Graph Embeddings](https://doi.org/10.1145/3589334.3645430)<br>
 In Proceedings of the ACM International Web Conference (**WWW '24**'), pp. 2009-2019. Singapore, May 13-17, 2024<br>
+[[pdf](https://dl.acm.org/doi/pdf/10.1145/3589334.3645430)] [[code&data](https://github.com/AU-DIS/ReliK)] [[artifact](https://doi.org/10.5281/zenodo.10656796)]
 
 
 21. D. Mandaglio, A. Tagarelli, F. Gullo<br> 
@@ -357,7 +358,7 @@ Synthesis Lectures on Data Mining and Knowledge Discovery, Springer, 2022
     <br>
 
 
-## Other journals
+    ## Other journals
 
 0. E. Serra, F. Spezzano, F. Gullo<br>
 [CIKM 2024 Conference Report](https://doi.org/10.1145/3726831.3726832)<br> 
