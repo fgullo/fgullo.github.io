@@ -45,26 +45,26 @@ Discovery (*ECML-PKDD '26*)
 
 ## Organization of workshops and similar satellite events of conferences
 
-* Program co-Chair<br>
+* co-Organizer<br>
 *[1st, 2nd, 3rd, 4th, 5th, 6th, 7th, 8th, 9th, 10th]* [*Workshop on  MIning DAta for financial applicationS*](http://midas.portici.enea.it) (*MIDAS ['16, '17, '18, '19, '20, '21, '22, '23, '24, '25]*) <br>
 In conjunction with the *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery* (*ECML-PKDD ['16, '17, '18, '19, '20, '21, '22, '23, '24, '25]*)
 
-* Program co-Chair<br>
+* co-Organizer<br>
 [*1st Workshop on Innovations, Privacy-preservation, and Evaluations Of machine Unlearning Techniques*](https://aiimlab.org/events/ECML_PKDD_2025_WIPE-OUT_Innovations_Privacy-preservation_Evaluations_Machine_Unlearning_Techniques.html) (*WIPE-OUT*)<br>
 In conjunction with the *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery* (*ECML-PKDD '25*)
 
 * Industrial Session co-Chair <br>
 *[2nd, 3rd] International Conference on Machine Learning, Optimization and Big Data* (*MOD ['16, '17]*)
 
-* Program co-Chair <br>
+* co-Organizer <br>
 *Mini-Symposium on Multiple Clusterings, Multi-view Data, and Multi-source Knowledge-driven Clustering* (*MultiClust '14*) <br>
 In conjunction with the *14th SIAM International Conference on Data Mining* (*SDM '14*)
 
-* Program co-Chair <br>
+* co-Organizer <br>
 *4th MultiClust Workshop: Multiple Clusterings, Multi-view Data, and Multi-source Knowledge-driven Clustering* <br>
 In conjunction with the *19th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining* (*KDD '13*)
 
-* Program co-Chair <br>
+* co-Organizer<br>
 *1st International Workshop on  Multi-view data, High-dimensionality, External Knowledge: Striving for a Unified Approach to Clustering* (*3Clust '12*) <br>
 In conjunction with the *16th Pacific-Asia Conference on Knowledge Discovery and Data Mining* (*PAKDD '12*)
 
@@ -76,14 +76,22 @@ In conjunction with the *16th Pacific-Asia Conference on Knowledge Discovery and
 * Guest Editor<br>
 *Journal Track* of the *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases* (*ECML-PKDD JT*) [2020–2025]
 
+* Guest Editor<br>
+Special Issue on *Human-AI-Robot Teaming* (*HART*)<br>
+*Robotics* journal<br>
+[2024–2025]
+
 * Distinguished Reviewer Board member<br>
 *ACM Transactions on the Web* (*TWEB*) [2022–2024]
+
+* Program Board member<br>
+*International Joint Conference on Artificial Intelligence* (*IJCAI*)<br>
+[2022–2024]
 
 * Scientific Committee member
 "*Data Science for Economics and Finance: Methodologies and Applications*" book <br>
 Editors: S. Consoli, D. Reforgiato Recupero, M. Salsana. Publisher: Springer Nature. <br>
 [2020]
-
 
 <br>
 
@@ -223,4 +231,4 @@ SIGMOD, KDD, WWW, ICDE, ICDM, WSDM, CIKM, EDBT, SDM, ECML PKDD, PAKDD, DaWaK, CI
 
 ## Conference participation
 
-ECML-PKDD '23, ECML-PKDD '22, CIKM '21, ECML-PKDD '21, ECML-PKDD '20, ECML-PKDD '19, BigNOMICS '19, CIKM '18, ECML-PKDD '18, ECML-PKDD '17, WIMS '17, IEEE BigData '16, ECML-PKDD '16, ECML-PKDD '14, KDD '14, EDBT '14, VLDB '12, SEBD '11, SIGMOD '11, ICDM '10, ICDM '09, IDEAS '09, SDM '09, ICDM '08, SUM '08, CBMS '07  
+ASONAM '24, CIKM '24, CIKM '23, ECML-PKDD '23, ECML-PKDD '22, CIKM '21, ECML-PKDD '21, ECML-PKDD '20, ECML-PKDD '19, BigNOMICS '19, CIKM '18, ECML-PKDD '18, ECML-PKDD '17, WIMS '17, IEEE BigData '16, ECML-PKDD '16, ECML-PKDD '14, KDD '14, EDBT '14, VLDB '12, SEBD '11, SIGMOD '11, ICDM '10, ICDM '09, IDEAS '09, SDM '09, ICDM '08, SUM '08, CBMS '07  
