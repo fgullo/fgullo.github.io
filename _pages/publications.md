@@ -19,10 +19,19 @@ Copyright of every publication is held by the corresponding publisher. PDFs are 
 
 ## International journals (selected)
 
+0. B. Lakha, J. Layne, E. Serra, F. Gullo, S. Jajodia<br> 
+[CAPTOR: Cyber Attack Protection via Temporal Online Graph Representation Learning](https://doi.org/10.1109/TBDATA.2025.3621145)<br> 
+IEEE Transactions on Big Data (**TBDATA**), 2025<br>
+[[pdf](/files/papers/TBDATA25.pdf)] [[code&data](https://github.com/BoiseStateAIBS/CAPTOR)]
+
+0. A. D’Angelo F. Gullo, G. Stilo<br> 
+[The forget-set identification problem](https://doi.org/10.1007/s10994-025-06897-9)<br> 
+Machine Learning (**MACH**), Vol. 114, Article No. 247, 2025<br>
+[[pdf](https://link.springer.com/content/pdf/10.1007/s10994-025-06897-9.pdf)] [[code&data](https://anonymous.4open.science/r/FSI---Forget-Set-Identification-F78C)]
 
 0. F. Gullo, D. Mandaglio, A. Tagarelli<br> 
 [Neural Discovery of Balance-aware Polarized Communities](https://doi.org/10.1007/s10994-024-06581-4)<br> 
-Machine Learning (**MACH**), Vol. 2024: 1-5, 2024<br>
+Machine Learning (**MACH**), Vol. 113, pages 6611-6644, 2024<br>
 [[pdf](https://link.springer.com/content/pdf/10.1007/s10994-024-06581-4.pdf)] [[code&data](https://github.com/Ralyhu/neural2pc)]
 
 0. A. Anagnostopoulos, V. Arrigoni, F. Gullo, G. Salvatori, L. Severini<br> 
@@ -472,6 +481,9 @@ In Proceedings of the 20th IEEE International Symposium on Computer-Based Medica
 
     ## Book chapters (refereed)
 
+55. F. Bonchi, F. Gullo, A. Kaltenbrunner<br>
+[Core Decomposition of Massive, Information-Rich Graphs]()<br>
+In Encyclopedia of Social Network Analysis and Mining - 3 edition, Springer. TO APPEAR.
 
 55. F. Bonchi, F. Gullo, A. Kaltenbrunner<br>
 [Core Decomposition of Massive, Information-Rich Graphs](https://doi.org/10.1007/978-1-4939-7131-2_110176)<br>
@@ -550,6 +562,23 @@ Lecture Notes in Computer Science 7769, Springer, 2013, ISBN 978-3-642-36777-9
 
 
     ## Workshops and national conferences
+
+
+0. S. Costantini, G. De Gasperis, P. De Meo, F. Gullo, A. Provetti<br> 
+[Multi-agent Dynamic Resource Allocation: A Reinforcement Learning Approach]()<br> 
+In Proceedings of the 1st International Joint Workshop of Artificial Intelligence for Healthcare and HYbrid Models for Coupling Deductive and Inductive ReAsoning (**HC@AIxIA+HYDRA '25**), in conjunction with the 28th European Conference on Artificial Intelligence (**ECAI '25**). Bologna, Italy, October 25-30, 2025<br>
+[[pdf](/files/papers/HC@AIxIA+HYDRA25.pdf)] [[slides](/files/slides/HC@AIxIA+HYDRA25.pdf)]
+
+
+0. F. Gullo, L. La Cava, D. Mandaglio, A. Tagarelli<br> 
+[Correlation Clustering with Fairness Constraints]()<br> 
+In Proceedings of the 2nd Workshop on Green-Aware Artificial Intelligence (**Green-Aware AI '25**), in conjunction with the 28th European Conference on Artificial Intelligence (*ECAI '25*). Bologna, Italy, October 25-30, 2025<br>
+[[pdf](/files/papers/Green-AwareAI25.pdf)]
+
+0. S. Costantini, G. De Gasperis, P. De Meo, F. Gullo, A. Provetti<br> 
+[Resource allocation with cooperative agents]()<br> 
+In Proceedings of the 32nd RCRA Workshop on Experimental Evaluation of Algorithms for Solving Problems with Combinatorial Explosion (**RCRA '25**), in conjunction with the 41st International Conference on Logic Programming (**ICLP '25**). Rende, Italy, September 12-19, 2025<br>
+[[pdf](/files/papers/RCRA25.pdf)]
 
 0. F. Gullo, D. Mandaglio, A. Tagarelli<br>
 [Discovering Balance-Aware Polarized Communities in Signed Networks with Graph Neural Networks]()<br>
