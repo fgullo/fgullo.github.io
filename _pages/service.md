@@ -74,7 +74,7 @@ In conjunction with the *16th Pacific-Asia Conference on Knowledge Discovery and
 ## Other boards
 
 * Guest Editor<br>
-*Journal Track* of the *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases* (*ECML-PKDD JT*) [2020–2025]
+*Journal Track* of the *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases* (*ECML-PKDD JT*) [2020–2026]
 
 * Guest Editor<br>
 Special Issue on *Human-AI-Robot Teaming* (*HART*)<br>
@@ -97,20 +97,20 @@ Editors: S. Consoli, D. Reforgiato Recupero, M. Salsana. Publisher: Springer Nat
 
 ## Program committees (major conferences)
 
+* *ACM SIGMOD International Conference on Management of Data* (*SIGMOD*) <br>
+(*research* track) [2022, 2024-2025, 2027]
+
 * *Proceedings of the VLDB Endowment* (*PVLDB*)<br>
 [2026]
 
 * *IEEE International Conference on Data Engineering* (*ICDE*)<br>
 (research track) [2025–2026]
 
-* *ACM SIGMOD International Conference on Management of Data* (*SIGMOD*) <br>
-(*research* track) [2022, 2024-2025]
-
 * *ACM SIGKDD International Conference on Knowledge Discovery and Data Mining* (*KDD*) <br>
-(*research* track) [2014-2025]
+(*research* track) [2014-2026]
 
 * *International World Wide Web Conference* (*WWW*) <br>
-(*graph algorithms and learning for the Web* track) [2014, 2016-2025]
+(*graph algorithms and learning for the Web* track) [2014, 2016-2026]
 
 * *International Joint Conference on Artificial Intelligence* (*IJCAI*) <br>
 [2020-2025]
