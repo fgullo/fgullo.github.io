@@ -184,6 +184,15 @@ MultiClust Work.@SDM [2012]
 
 ## Invited talks
 
+* *Bringing order into the AI and Data Management landscapes: latest research advances at the
+intersection of machine learning, data mining, graph analytics, NLP, and data ethics*<br>
+University of L’Aquila (Italy) – DISIM Dept.’s New Faculty Seminar<br>
+L’Aquila, Italy, May 2024
+
+* *Correlation Clustering: Latest Advances*<br>
+Boise State University (USA) – Ph.D. in Computing Colloquium<br>
+Virtual Seminar, April 2024
+
 * *Network-based Receivable Financing* <br>
 Scuola Normale Superiore <br>
 Virtual Seminar, December 2021
@@ -231,4 +240,4 @@ SIGMOD, KDD, WWW, ICDE, ICDM, WSDM, CIKM, EDBT, SDM, ECML PKDD, PAKDD, DaWaK, CI
 
 ## Conference participation
 
-ASONAM '24, CIKM '24, CIKM '23, ECML-PKDD '23, ECML-PKDD '22, CIKM '21, ECML-PKDD '21, ECML-PKDD '20, ECML-PKDD '19, BigNOMICS '19, CIKM '18, ECML-PKDD '18, ECML-PKDD '17, WIMS '17, IEEE BigData '16, ECML-PKDD '16, ECML-PKDD '14, KDD '14, EDBT '14, VLDB '12, SEBD '11, SIGMOD '11, ICDM '10, ICDM '09, IDEAS '09, SDM '09, ICDM '08, SUM '08, CBMS '07  
+ECAI '25, ASONAM '24, CIKM '24, CIKM '23, ECML-PKDD '23, ECML-PKDD '22, CIKM '21, ECML-PKDD '21, ECML-PKDD '20, ECML-PKDD '19, BigNOMICS '19, CIKM '18, ECML-PKDD '18, ECML-PKDD '17, WIMS '17, IEEE BigData '16, ECML-PKDD '16, ECML-PKDD '14, KDD '14, EDBT '14, VLDB '12, SEBD '11, SIGMOD '11, ICDM '10, ICDM '09, IDEAS '09, SDM '09, ICDM '08, SUM '08, CBMS '07  
